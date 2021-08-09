@@ -18,6 +18,66 @@
 	}
 }
 
+@keyframes love {
+	from {
+		transform: translateY(-163vw);
+
+		@include mq(screen-md) {
+			transform: translateY(-63vw);
+		}
+	}
+}
+
+@keyframes love-out {
+	to {
+		transform: translateY(-163vw);
+
+		@include mq(screen-md) {
+			transform: translateY(-63vw);
+		}
+	}
+}
+
+@keyframes ganni {
+	from {
+		transform: translateX(-203vw);
+
+		@include mq(screen-md) {
+			transform: translateX(-103vw);
+		}
+	}
+}
+
+@keyframes ganni-out {
+	to {
+		transform: translateX(-203vw);
+
+		@include mq(screen-md) {
+			transform: translateX(-103vw);
+		}
+	}
+}
+
+@keyframes ss22 {
+	from {
+		transform: translateY(163vw);
+
+		@include mq(screen-md) {
+			transform: translateY(63vw);
+		}
+	}
+}
+
+@keyframes ss22-out {
+	to {
+		transform: translateY(163vw);
+
+		@include mq(screen-md) {
+			transform: translateY(63vw);
+		}
+	}
+}
+
 .login {
 	position: absolute;
 	z-index: 1000000;
@@ -237,26 +297,6 @@
 			text-orientation: upright;
 			letter-spacing: -0.3em;
 
-			@keyframes love {
-				from {
-					transform: translateY(-163vw);
-
-					@include mq(screen-md) {
-						transform: translateY(-63vw);
-					}
-				}
-			}
-
-			@keyframes love-out {
-				to {
-					transform: translateY(-163vw);
-
-					@include mq(screen-md) {
-						transform: translateY(-63vw);
-					}
-				}
-			}
-
 			&--animation {
 				animation: love calc(var(--animation-duration) + 0.1s)
 					var(--animation-ease) forwards;
@@ -279,26 +319,6 @@
 		.ganni {
 			display: inline-flex;
 			color: var(--color-ss-blush);
-
-			@keyframes ganni {
-				from {
-					transform: translateX(-203vw);
-
-					@include mq(screen-md) {
-						transform: translateX(-103vw);
-					}
-				}
-			}
-
-			@keyframes ganni-out {
-				to {
-					transform: translateX(-203vw);
-
-					@include mq(screen-md) {
-						transform: translateX(-103vw);
-					}
-				}
-			}
 
 			&--animation {
 				animation: ganni calc(var(--animation-duration) + 0.2s)
@@ -324,26 +344,6 @@
 			display: inline-flex;
 			align-items: flex-start;
 			white-space: nowrap;
-
-			@keyframes ss22 {
-				from {
-					transform: translateY(163vw);
-
-					@include mq(screen-md) {
-						transform: translateY(63vw);
-					}
-				}
-			}
-
-			@keyframes ss22-out {
-				to {
-					transform: translateY(163vw);
-
-					@include mq(screen-md) {
-						transform: translateY(63vw);
-					}
-				}
-			}
 
 			&--animation {
 				animation: ss22 calc(var(--animation-duration) + 0.3s)
