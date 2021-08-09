@@ -211,10 +211,10 @@
 				animation: higher var(--animation-duration) var(--animation-ease)
 					forwards;
 
-				// .outro & {
-				// 	animation: higher-out var(--animation-duration) var(--animation-ease)
-				// 		forwards;
-				// }
+				.outro & {
+					animation: higher-out var(--animation-duration) var(--animation-ease)
+						forwards;
+				}
 			}
 
 			&--translate {
@@ -373,4 +373,8 @@
 			}
 		}
 	}
+
+	// &.outro {
+
+	// }
 }
