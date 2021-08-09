@@ -1,3 +1,23 @@
+@keyframes higher {
+	from {
+		transform: translate(-160vw, 88vw);
+
+		@include mq(screen-md) {
+			transform: translate(-79vw, 44vw);
+		}
+	}
+}
+
+@keyframes higher-out {
+	to {
+		transform: translate(-179vw, 144vw);
+
+		@include mq(screen-md) {
+			transform: translate(-79vw, 44vw);
+		}
+	}
+}
+
 .login {
 	position: absolute;
 	z-index: 1000000;
@@ -187,34 +207,14 @@
 			display: inline-flex;
 			color: var(--color-ss-blue);
 
-			@keyframes higher {
-				from {
-					transform: translate(-160vw, 88vw);
-
-					@include mq(screen-md) {
-						transform: translate(-79vw, 44vw);
-					}
-				}
-			}
-
-			@keyframes higher-out {
-				to {
-					transform: translate(-179vw, 144vw);
-
-					@include mq(screen-md) {
-						transform: translate(-79vw, 44vw);
-					}
-				}
-			}
-
 			&--animation {
 				animation: higher var(--animation-duration) var(--animation-ease)
 					forwards;
 
-				.outro & {
-					animation: higher-out var(--animation-duration) var(--animation-ease)
-						forwards;
-				}
+				// .outro & {
+				// 	animation: higher-out var(--animation-duration) var(--animation-ease)
+				// 		forwards;
+				// }
 			}
 
 			&--translate {
