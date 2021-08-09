@@ -14,7 +14,7 @@
 			<countdown
 				v-if="isFuture"
 				:deadline="deadline"
-				:slim="true"
+				:customFormat="['days', 'hours']"
 				@is-future="onIsFuture"
 			/>
 			<span v-else>Click anywhere to login</span>&nbsp;&nbsp;&bull;&nbsp;

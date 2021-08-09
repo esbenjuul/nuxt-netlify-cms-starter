@@ -24,7 +24,8 @@ export default {
 			type: String,
 			default: () => []
 		},
-		slim: { type: Boolean }
+		slim: { type: Boolean },
+		customFormat: { type: Array }
 	},
 	methods: {
 		updateDuration() {
@@ -39,9 +40,11 @@ export default {
 			})
 
 			this.duration = dateFns.formatDuration(this.durationRaw, {
-				format: this.slim
-					? ['months', 'days', 'hours']
-					: ['days', 'hours', 'minutes', 'seconds'],
+				format:
+					this.customFormat ||
+					(this.slim
+						? ['months', 'days', 'hours']
+						: ['days', 'hours', 'minutes', 'seconds']),
 				zero: true
 			})
 		},
