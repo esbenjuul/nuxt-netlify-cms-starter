@@ -45,7 +45,7 @@ export default {
 	methods: {
 		...mapActions(['collection/' + SET_CURRENT_FILTER.action]),
 		clickHandler() {
-			if (this.activeFilter?.filterId === this.filterId) {
+			if (this.activeFilter && this.activeFilter.filterId === this.filterId) {
 				this['collection/' + SET_CURRENT_FILTER.action]()
 			} else {
 				this['collection/' + SET_CURRENT_FILTER.action](this.filterId)

@@ -58,7 +58,7 @@
 	}
 }
 
-@keyframes ss22 {
+@keyframes ss {
 	from {
 		transform: translateY(163vw);
 
@@ -68,7 +68,7 @@
 	}
 }
 
-@keyframes ss22-out {
+@keyframes ss-out {
 	to {
 		transform: translateY(163vw);
 
@@ -268,12 +268,10 @@
 			color: var(--color-ss-blue);
 
 			&--animation {
-				animation: higher var(--animation-duration) var(--animation-ease)
-					forwards;
+				animation: higher 3s var(--animation-ease) forwards;
 
 				.outro & {
-					animation: higher-out var(--animation-duration) var(--animation-ease)
-						forwards;
+					animation: higher-out 3s var(--animation-ease) forwards;
 				}
 			}
 
@@ -298,12 +296,10 @@
 			letter-spacing: -0.3em;
 
 			&--animation {
-				animation: love calc(var(--animation-duration) + 0.1s)
-					var(--animation-ease) forwards;
+				animation: love 3.1s var(--animation-ease) forwards;
 
 				.outro & {
-					animation: love-out calc(var(--animation-duration) + 0.1s)
-						var(--animation-ease) forwards;
+					animation: love-out 3.1s var(--animation-ease) forwards;
 				}
 			}
 
@@ -321,12 +317,10 @@
 			color: var(--color-ss-blush);
 
 			&--animation {
-				animation: ganni calc(var(--animation-duration) + 0.2s)
-					var(--animation-ease) forwards;
+				animation: ganni 3.2s var(--animation-ease) forwards;
 
 				.outro & {
-					animation: ganni-out calc(var(--animation-duration) + 0.2s)
-						var(--animation-ease) forwards;
+					animation: ganni-out 3.2s var(--animation-ease) forwards;
 				}
 			}
 
@@ -346,12 +340,10 @@
 			white-space: nowrap;
 
 			&--animation {
-				animation: ss22 calc(var(--animation-duration) + 0.3s)
-					var(--animation-ease) forwards;
+				animation: ss 3.3s var(--animation-ease) forwards;
 
 				.outro & {
-					animation: ss22-out calc(var(--animation-duration) + 0.3s)
-						var(--animation-ease) forwards;
+					animation: ss-out 3.3s var(--animation-ease) forwards;
 				}
 			}
 
