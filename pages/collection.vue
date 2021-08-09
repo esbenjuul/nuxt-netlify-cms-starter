@@ -46,15 +46,17 @@ export default {
 		/**
 		 * Parse url query and open corresponding style, if it exists
 		 */
-		const styleToOpen = this.allStyles.find(
-			style => style.styleId === this.$route.query.q
-		)
-		if (this.$route.query.q && styleToOpen) {
-			this[OPEN_STYLE_CONTENT.action](this.$route.query.q)
-			this[ASSISTANT_MODE.action](AssistantModes.STYLE_DETAILS)
-		} else {
-			this[ASSISTANT_MODE.action](AssistantModes.FILTER_COLLECTION)
-			this[ASSISTANT_TEXT.action]('collection')
+		if (this.$route.query.q) {
+			const styleToOpen = this.allStyles.find(
+				style => style.styleId === this.$route.query.q
+			)
+			if (styleToOpen) {
+				this[OPEN_STYLE_CONTENT.action](this.$route.query.q)
+				this[ASSISTANT_MODE.action](AssistantModes.STYLE_DETAILS)
+			} else {
+				this[ASSISTANT_MODE.action](AssistantModes.FILTER_COLLECTION)
+				this[ASSISTANT_TEXT.action]('collection')
+			}
 		}
 	},
 

@@ -26,7 +26,11 @@
 					@mouseleave="changeCursor('')"
 				/>
 				<div class="fabrics__text">
-					<p v-html="isFullScreen ? item.copy || '' : item.title || ''"></p>
+					<p>
+						<span
+							v-html="isFullScreen ? item.copy || '' : item.title || ''"
+						></span>
+					</p>
 				</div>
 			</div>
 		</div>

@@ -57,8 +57,11 @@ export default {
 		}
 	},
 	watch: {
-		secondTicker() {
-			this.$emit('is-future', dateFns.isFuture(new Date(this.deadline)))
+		secondTicker: {
+			immediate: true,
+			handler() {
+				this.$emit('is-future', dateFns.isFuture(new Date(this.deadline)))
+			}
 		}
 	},
 	mounted() {

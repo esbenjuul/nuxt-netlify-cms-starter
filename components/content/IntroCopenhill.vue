@@ -3,7 +3,7 @@
 		class="intro-copenhill"
 		@click="onClick"
 		:class="{ outro: isLeaving }"
-		:style="{ cursor: !deadlinePassed && 'default' }"
+		:style="{ cursor: !deadlinePassed ? 'default' : 'pointer' }"
 	>
 		<img
 			class="intro-copenhill__background fade"

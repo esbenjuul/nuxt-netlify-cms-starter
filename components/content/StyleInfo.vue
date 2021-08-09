@@ -41,21 +41,24 @@
 			<span>{{ item.sizes }}</span>
 		</div>
 
-		<div
+		<!-- <div
 			class="style-info__row"
 			style="width: 100%;
 				padding: 0.625em;
 				margin-top: 0.625em;
 				box-sizing: border-box;
 				justify-content: center;"
-			v-if="item.inclusive"
+			
 		>
-			SIZE INCLUSIVE
-		</div>
+			
+		</div> -->
 
 		<div class="style-info__row" v-if="item.sizeRange">
 			<span>Sizes range</span>
-			<span>{{ item.sizeRange }}</span>
+			<span
+				>{{ item.sizeRange }}
+				<span v-if="item.inclusive"> (SIZE INCLUSIVE)</span></span
+			>
 		</div>
 
 		<div class="style-info__row" v-if="item.measurements">

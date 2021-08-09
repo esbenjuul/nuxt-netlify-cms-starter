@@ -1,5 +1,11 @@
 <template>
-	<div class="login" :class="{ 'login--background': currentStep < 2 }">
+	<div
+		class="login"
+		:class="{
+			'login--background': currentStep < 2,
+			pointerEvents: currentStep === 3 ? 'none' : 'auto'
+		}"
+	>
 		<!-- <div
 			style="position: fixed; top: 0; right: 0; z-index: 2; background: blue"
 		>
@@ -20,7 +26,9 @@
 				@done="onCountDone"
 				@progress="onProgress"
 			/>
-			<p v-if="currentStep === 3">Meters in the sky!</p>
+			<p :style="{ pointerEvents: 'none' }" v-if="currentStep === 3">
+				Meters in the sky!
+			</p>
 		</transition>
 	</div>
 </template>

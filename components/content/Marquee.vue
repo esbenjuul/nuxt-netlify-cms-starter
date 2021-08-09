@@ -17,7 +17,9 @@
 				:customFormat="['days', 'hours']"
 				@is-future="onIsFuture"
 			/>
-			<span v-else>Click anywhere to login</span>&nbsp;&nbsp;&bull;&nbsp;
+			<span style="color: var(--color-ss-blush)" v-else
+				>Click anywhere to login</span
+			>&nbsp;&nbsp;&bull;&nbsp;
 		</p>
 	</div>
 </template>

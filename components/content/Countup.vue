@@ -1,7 +1,10 @@
 <template>
 	<div
 		class="countup"
-		:style="{ '--progress': `${100 - (currentCount / maxCount) * 100}%` }"
+		:style="{
+			'--progress': `${100 - (currentCount / maxCount) * 100}%`,
+			pointerEvents: 'none'
+		}"
 	>
 		<div class="countup__title">Going up!</div>
 		<div ref="count" class="countup__count">{{ currentCount }}</div>
