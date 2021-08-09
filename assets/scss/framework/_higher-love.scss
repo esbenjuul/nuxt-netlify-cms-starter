@@ -28,6 +28,7 @@
 
 .higher-love-video {
 	--width: 100vw;
+	--height: calc(var(--width) * 9 / 16);
 
 	position: relative;
 	z-index: 1;
@@ -39,13 +40,19 @@
 
 	display: flex;
 	flex-direction: column;
+	justify-content: center;
 	height: 100%;
 
-	@include mq(screen-md) {
+	@include mq(screen-sm) {
 		@include windowtitle;
-		--width: calc((100vw - 350px) - 15vw);
-		margin-top: -10vh;
-		height: auto;
+	}
+
+	@include mq(screen-md) {
+		--width: 600px;
+	}
+
+	@include mq(screen-xl) {
+		--width: 900px;
 	}
 
 	&__trumpet {
@@ -73,9 +80,9 @@
 		position: relative;
 
 		width: var(--width);
-		height: calc(var(--width) * 9 / 16);
+		height: var(--height);
 
-		margin-top: auto;
+		// margin-top: auto;
 
 		margin-bottom: 10px;
 	}
