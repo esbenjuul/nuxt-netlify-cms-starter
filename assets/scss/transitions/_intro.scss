@@ -1,8 +1,12 @@
 @keyframes higher {
 	from {
 		transform: translate(-160vw, 88vw);
+	}
+}
 
-		@include mq(screen-md) {
+@include mq(screen-md) {
+	@keyframes higher {
+		from {
 			transform: translate(-79vw, 44vw);
 		}
 	}
@@ -11,8 +15,12 @@
 @keyframes higher-out {
 	to {
 		transform: translate(-179vw, 144vw);
+	}
+}
 
-		@include mq(screen-md) {
+@include mq(screen-md) {
+	@keyframes higher-out {
+		to {
 			transform: translate(-79vw, 44vw);
 		}
 	}
@@ -21,8 +29,12 @@
 @keyframes love {
 	from {
 		transform: translateY(-163vw);
+	}
+}
 
-		@include mq(screen-md) {
+@include mq(screen-md) {
+	@keyframes love {
+		from {
 			transform: translateY(-63vw);
 		}
 	}
@@ -31,8 +43,12 @@
 @keyframes love-out {
 	to {
 		transform: translateY(-163vw);
+	}
+}
 
-		@include mq(screen-md) {
+@include mq(screen-md) {
+	@keyframes love-out {
+		to {
 			transform: translateY(-63vw);
 		}
 	}
@@ -41,8 +57,12 @@
 @keyframes ganni {
 	from {
 		transform: translateX(-203vw);
+	}
+}
 
-		@include mq(screen-md) {
+@include mq(screen-md) {
+	@keyframes ganni {
+		from {
 			transform: translateX(-103vw);
 		}
 	}
@@ -51,8 +71,11 @@
 @keyframes ganni-out {
 	to {
 		transform: translateX(-203vw);
-
-		@include mq(screen-md) {
+	}
+}
+@include mq(screen-md) {
+	@keyframes ganni-out {
+		to {
 			transform: translateX(-103vw);
 		}
 	}
@@ -61,8 +84,12 @@
 @keyframes ss {
 	from {
 		transform: translateY(163vw);
+	}
+}
 
-		@include mq(screen-md) {
+@include mq(screen-md) {
+	@keyframes ss {
+		from {
 			transform: translateY(63vw);
 		}
 	}
@@ -71,8 +98,12 @@
 @keyframes ss-out {
 	to {
 		transform: translateY(163vw);
+	}
+}
 
-		@include mq(screen-md) {
+@include mq(screen-md) {
+	@keyframes ss-out {
+		to {
 			transform: translateY(63vw);
 		}
 	}
