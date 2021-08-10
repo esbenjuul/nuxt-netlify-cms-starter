@@ -138,6 +138,10 @@
 
 		border-top: rem(1) solid var(--assistant-text-color);
 
+		@include mq(screen-md) {
+			border-bottom: rem(1) solid var(--assistant-text-color);
+		}
+
 		> p {
 			@include bodytext();
 
@@ -154,7 +158,7 @@
 
 			flex: 0 0 rem(35);
 			width: rem(35);
-			height: rem(35);
+			height: 100%;
 			border-left: rem(1) solid var(--assistant-text-color);
 			border-bottom: 0;
 

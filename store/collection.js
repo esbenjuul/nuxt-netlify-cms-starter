@@ -663,6 +663,14 @@ export const actions = {
 			? nextElement(allStyles, currentIndex)
 			: prevElement(allStyles, currentIndex)
 
+		console.log(
+			'newStyle',
+			newStyle.styleId,
+			currentIndex,
+			next,
+			nextElement(allStyles, currentIndex)
+		)
+
 		if (newStyle) {
 			dispatch(OPEN_STYLE_CONTENT.action, newStyle.styleId, {
 				root: true

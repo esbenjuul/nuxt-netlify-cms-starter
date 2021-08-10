@@ -1,8 +1,13 @@
 <template>
 	<div class="video-player">
-		<video ref="videoElement" :src="videoUrl" v-bind="videoAttributes"></video>
+		<video
+			ref="videoElement"
+			:src="videoUrl"
+			v-bind="videoAttributes"
+			muted
+		></video>
 
-		<div class="poster" v-if="!loaded">
+		<div class="poster" v-if="poster && !loaded">
 			<img :src="poster" alt="poster" />
 			<em></em>
 			<!-- <span class="loader"></span> -->

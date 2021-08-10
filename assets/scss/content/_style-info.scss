@@ -6,7 +6,9 @@
 	overflow-y: scroll;
 	max-height: rem(160);
 
-	@include mq($from: screen-md) {
+	padding-top: 0.563rem;
+
+	@include mq(screen-md) {
 		max-height: none;
 		overflow: visible;
 	}

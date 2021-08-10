@@ -114,6 +114,8 @@ export const mutations = {
 			windowGroup.groupSize++
 
 			state.topMostWindow = newWindow
+
+			console.log('newWindow', newWindow)
 		})
 
 		//only add the group if it has content
@@ -346,7 +348,7 @@ export const actions = {
 		}
 	},
 	[OPEN_GALLERY.action]({ commit, dispatch }, asset) {
-		console.log('asset', asset)
+		// console.log('asset', asset)
 
 		let galleryContent = [
 			{

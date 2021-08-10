@@ -1,5 +1,5 @@
 <template>
-	<div class="style-info">
+	<div class="style-info" :style="{ maxHeight: fullHeight ? 'none' : '' }">
 		<span v-if="responsible" class="responsible">
 			<div v-for="_ in 6" :key="`banner-item${_}`">
 				<svg-icon v-if="responsible" name="ganni-smiley--inv" />
@@ -106,7 +106,8 @@ export default {
 		item: {
 			type: Object,
 			default: () => ({})
-		}
+		},
+		fullHeight: { type: Boolean }
 	},
 	computed: {
 		...mapState(['SHOW_WHOLESALE_PRICE']),

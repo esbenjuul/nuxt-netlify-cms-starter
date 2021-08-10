@@ -167,7 +167,7 @@ export default {
 										e.styleId === contentComponentProps.asset.styleId) ||
 									e.styleId === contentComponentProps.styleId
 							)
-							// console.log('assistant currentStyle', currentStyle)
+
 							this[CURRENT_STYLE.action](currentStyle)
 							this[SET_HIDDEN_ASSETS.action]()
 						} else {
@@ -213,17 +213,37 @@ export default {
 		]),
 
 		previousStyleHandler() {
-			this[SHOW_NEW_STYLE.action]({
-				styleId: this.currentStyle.styleId,
-				previous: true
-			})
+			if (this.isMobile) {
+				this.closeStyleHandler()
+				this.$nextTick(() => {
+					this[SHOW_NEW_STYLE.action]({
+						styleId: this.currentStyle.styleId,
+						previous: true
+					})
+				})
+			} else {
+				this[SHOW_NEW_STYLE.action]({
+					styleId: this.currentStyle.styleId,
+					previous: true
+				})
+			}
 		},
 
 		nextStyleHandler() {
-			this[SHOW_NEW_STYLE.action]({
-				styleId: this.currentStyle.styleId,
-				next: true
-			})
+			if (this.isMobile) {
+				this.closeStyleHandler()
+				this.$nextTick(() => {
+					this[SHOW_NEW_STYLE.action]({
+						styleId: this.currentStyle.styleId,
+						next: true
+					})
+				})
+			} else {
+				this[SHOW_NEW_STYLE.action]({
+					styleId: this.currentStyle.styleId,
+					next: true
+				})
+			}
 		},
 
 		closeStyleHandler() {
@@ -241,10 +261,10 @@ export default {
 			const newValue = close !== undefined ? close : !this.closed
 
 			if (this.isMobile) {
-				this.toggleContentHandler(true)
+				this.toggleContentHandler(!newValue)
 			}
 
-			if (!this.windowList.length) {
+			if (this.isMobile || !this.windowList.length) {
 				this[ASSISTANT_TOGGLE.action](newValue)
 			}
 		}
