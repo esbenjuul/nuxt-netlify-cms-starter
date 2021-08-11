@@ -1,7 +1,7 @@
 import fs from 'fs'
 import path from 'path'
 
-const data = fs.readFileSync('./files/21.4-bulk-upload-Kopi-af-Ark1.json')
+const data = fs.readFileSync('./files/Copy-of-22.1-bulk-upload-Ark1.json')
 const json = JSON.parse(data)
 
 // settings
@@ -79,6 +79,8 @@ STYLES_FILE.forEach(item => {
 		'_'
 	)
 
+	// console.log(Object.entries(item))
+
 	/**
 	 * format the incoming object before parsing it to a json file
 	 */
@@ -89,7 +91,21 @@ STYLES_FILE.forEach(item => {
 		 */
 		responsible: parseFalse(item.responsible) ? false : true,
 		inclusive: parseFalse(item.inclusive) ? false : true,
-		['re-runner']: parseFalse(item['re-runner']) ? false : true
+		['re-runner']: parseFalse(item['re-runner']) ? false : true,
+		assets: Object.entries(item)
+			.filter(([key]) => key.includes('assets'))
+			.reduce((acc, [_, value]) => [...acc, value], []),
+		chest: parseFloat(item.chest),
+		waist: parseFloat(item.waist),
+		hip: parseFloat(item.hip),
+		bottomWidth: parseFloat(item.bottomWidth),
+		totalLenght: parseFloat(item.totalLenght),
+		inseamLenght: parseFloat(item.inseamLenght),
+		sleeveLenght: parseFloat(item.sleeveLenght),
+		length: parseFloat(item.length),
+		width: parseFloat(item.width),
+		height: parseFloat(item.height),
+		heelHeight: parseFloat(item.heelHeight)
 	})
 
 	fs.writeFile(styleFileName, JSON.stringify(itemFormatted), err => {
