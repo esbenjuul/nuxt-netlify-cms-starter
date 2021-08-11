@@ -1,6 +1,6 @@
 <template>
 	<div
-		class="single-image shimmer"
+		class="single-image"
 		:class="{ 'is-interactive': asset.styleId && inFocus }"
 	>
 		<!-- <loading /> -->

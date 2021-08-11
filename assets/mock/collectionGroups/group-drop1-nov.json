@@ -1,15 +1,15 @@
 {
-  "cloudinaryUrl": [
-    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1620928243/21.4/rails/210506_GANNI_EH_RAILS_07_0058.jpg",
-    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1620928242/21.4/rails/210506_GANNI_EH_RAILS_05_0042.jpg"
-  ],
-  "styles": [],
-  "name": "Drop II",
-  "text": "",
-  "order": 3,
-  "countdown": "2022, 01, 01, 0, 0, 0",
-  "headline": "Drop 02\nLaunches in January",
-  "passwords": [],
-  "groupId": "drop-2",
-  "filters": []
+	"cloudinaryUrl": [
+		"https://res.cloudinary.com/dd6fpxydm/image/upload/v1620928243/21.4/rails/210506_GANNI_EH_RAILS_07_0058.jpg",
+		"https://res.cloudinary.com/dd6fpxydm/image/upload/v1620928242/21.4/rails/210506_GANNI_EH_RAILS_05_0042.jpg"
+	],
+	"styles": [],
+	"name": "Drop II",
+	"text": "",
+	"order": 3,
+	"countdown": "2021-08-16T00:00:00",
+	"headline": "Drop 02\nLaunches in January",
+	"passwords": [],
+	"groupId": "drop-2",
+	"filters": []
 }

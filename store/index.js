@@ -401,7 +401,7 @@ export const actions = {
 		await commit(
 			'collection/' + FETCH_COLLECTION_ITEMS.mutation,
 			await $content('collectionItems')
-				.sortBy('weight')
+				.sortBy('weight', 'desc')
 				.fetch()
 		)
 

@@ -1,23 +1,23 @@
 {
-  "cloudinaryUrl": [
-    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1620928242/21.4/rails/210506_GANNI_EH_RAILS_02_0014.jpg",
-    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1620928242/21.4/rails/210506_GANNI_EH_RAILS_06_0052.jpg",
-    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1620928242/21.4/rails/210506_GANNI_EH_RAILS_01_0007.jpg",
-    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1620928242/21.4/rails/210506_GANNI_EH_RAILS_03_0021.jpg",
-    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1620928242/21.4/rails/210506_GANNI_EH_RAILS_04_0027.jpg",
-    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1620928243/21.4/rails/210506_GANNI_EH_RAILS_08_0066.jpg",
-    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1620928243/21.4/rails/210506_GANNI_EH_RAILS_09_0072.jpg",
-    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1620928243/21.4/rails/210506_GANNI_EH_RAILS_12_0116.jpg",
-    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1620928244/21.4/rails/210506_GANNI_EH_RAILS_13_0134.jpg",
-    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1620928243/21.4/rails/210506_GANNI_EH_RAILS_10_0082.jpg"
-  ],
-  "styles": [],
-  "name": "Drop I",
-  "text": "",
-  "order": 2,
-  "countdown": "2021, 11, 1, 0, 0, 0",
-  "headline": "Drop 01\nLaunches in November",
-  "passwords": [],
-  "groupId": "drop-1",
-  "filters": []
+	"cloudinaryUrl": [
+		"https://res.cloudinary.com/dd6fpxydm/image/upload/v1620928242/21.4/rails/210506_GANNI_EH_RAILS_02_0014.jpg",
+		"https://res.cloudinary.com/dd6fpxydm/image/upload/v1620928242/21.4/rails/210506_GANNI_EH_RAILS_06_0052.jpg",
+		"https://res.cloudinary.com/dd6fpxydm/image/upload/v1620928242/21.4/rails/210506_GANNI_EH_RAILS_01_0007.jpg",
+		"https://res.cloudinary.com/dd6fpxydm/image/upload/v1620928242/21.4/rails/210506_GANNI_EH_RAILS_03_0021.jpg",
+		"https://res.cloudinary.com/dd6fpxydm/image/upload/v1620928242/21.4/rails/210506_GANNI_EH_RAILS_04_0027.jpg",
+		"https://res.cloudinary.com/dd6fpxydm/image/upload/v1620928243/21.4/rails/210506_GANNI_EH_RAILS_08_0066.jpg",
+		"https://res.cloudinary.com/dd6fpxydm/image/upload/v1620928243/21.4/rails/210506_GANNI_EH_RAILS_09_0072.jpg",
+		"https://res.cloudinary.com/dd6fpxydm/image/upload/v1620928243/21.4/rails/210506_GANNI_EH_RAILS_12_0116.jpg",
+		"https://res.cloudinary.com/dd6fpxydm/image/upload/v1620928244/21.4/rails/210506_GANNI_EH_RAILS_13_0134.jpg",
+		"https://res.cloudinary.com/dd6fpxydm/image/upload/v1620928243/21.4/rails/210506_GANNI_EH_RAILS_10_0082.jpg"
+	],
+	"styles": [],
+	"name": "Drop I",
+	"text": "",
+	"order": 2,
+	"countdown": "2021-08-16T00:00:00",
+	"headline": "Drop 01\nLaunches in November",
+	"passwords": [],
+	"groupId": "drop-1",
+	"filters": []
 }
