@@ -93,9 +93,11 @@
 		margin-right: 0.1em;
 
 		cursor: pointer;
+		border-color: var(--color-ss-blush);
 
 		&:checked {
-			background-color: $color-black;
+			background-color: var(--color-ss-yellow);
+			border-color: var(--color-ss-yellow);
 		}
 
 		outline: none;

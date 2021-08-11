@@ -33,7 +33,7 @@ export default {
 	name: 'about-ganni',
 	components: {},
 	computed: {
-		...mapState('aboutGanni', ['items']),
+		...mapState('aboutGanni', ['items'])
 	},
 	methods: {
 		...mapActions('assistant', [ASSISTANT_TOGGLE.action]),
@@ -45,7 +45,7 @@ export default {
 					{ cloudinaryUrl: src },
 					{ quality: 90, width: 1600 }
 				),
-				loading: greyPixel,
+				loading: greyPixel
 			}
 		},
 
@@ -53,33 +53,30 @@ export default {
 			return {
 				'about-ganni__item': true,
 				'about-ganni__item-media': item.type === 'image',
-				'about-ganni__item-text': item.type === 'text',
+				'about-ganni__item-text': item.type === 'text'
 			}
-		},
+		}
 	},
 	mounted() {
 		gsap.registerPlugin(ScrollTrigger)
 		this[AUDIOPLAYER_DARK.action](true)
 		this[ASSISTANT_TOGGLE.action](true)
 
-		this.$refs['items'].forEach((scrollElement) => {
+		this.$refs['items'].forEach(scrollElement => {
 			const image = scrollElement.querySelector('.about-ganni__image')
+			gsap.set(image, { y: '-15%' })
 			ScrollTrigger.create({
 				trigger: scrollElement,
 				start: 'top bottom',
 				end: 'bottom top',
 				// markers: true, //debug
 				scrub: 0.4,
-				animation: gsap.fromTo(
-					image,
-					{ duration: 0.2, y: '-15%' },
-					{ y: '0%' }
-				),
+				animation: gsap.fromTo(image, { duration: 0.2, y: '-15%' }, { y: '0%' })
 			})
 		})
 	},
 	beforeDestroy() {
 		this[AUDIOPLAYER_DARK.action](false)
-	},
+	}
 }
 </script>

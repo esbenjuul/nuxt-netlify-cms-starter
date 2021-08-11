@@ -8,9 +8,9 @@
 		<div class="login-input__all">
 			<form ref="form" @submit.prevent="loginInput(true)" class="form">
 				<!-- :style="{ opacity: !showMessage && !pwd ? '1' : '0' }" -->
-				<!-- @input="loginInput(false)" -->
 				<input
 					:class="{ 'is-invalid': showErrorMessage }"
+					@input="loginInput(false)"
 					@blur="isBlur"
 					@focus="isFocus = true"
 					autocomplete="off"

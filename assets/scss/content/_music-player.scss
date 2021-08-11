@@ -6,7 +6,7 @@
 	user-select: none !important;
 	cursor: default;
 	z-index: get-z('audio-player');
-	color: var(--color-primary);
+	color: var(--color-ss-blush);
 
 	.dark & {
 		color: var(--color-ss-yellow);

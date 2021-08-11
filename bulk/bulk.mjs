@@ -79,8 +79,6 @@ STYLES_FILE.forEach(item => {
 		'_'
 	)
 
-	// const { name, styleId, groupId, filters } = item
-
 	/**
 	 * format the incoming object before parsing it to a json file
 	 */
@@ -92,47 +90,10 @@ STYLES_FILE.forEach(item => {
 		responsible: parseFalse(item.responsible) ? false : true,
 		inclusive: parseFalse(item.inclusive) ? false : true,
 		['re-runner']: parseFalse(item['re-runner']) ? false : true
-		/**
-		 * rm the cloudinary url's on assets
-		 * (this will be filled with mediaAsset-objects on runtime)
-		 */
-		// assets: []
 	})
 
 	fs.writeFile(styleFileName, JSON.stringify(itemFormatted), err => {
 		if (err) throw err
 		console.log(`Collection item ${styleFileName} done`)
 	})
-
-	/**
-	 * create media asset files
-	 */
-	// item.assets
-	// 	.filter(a => a !== '')
-	// 	.forEach((asset, idx) => {
-	// 		const mediaAssetFileName = `${assetFolder}/mediaAssets/${dateString}-${styleId.replace(
-	// 			'/',
-	// 			'_'
-	// 		)}-${idx + 1}.json`.replace(/ /g, '_')
-
-	// 		fs.writeFile(
-	// 			mediaAssetFileName,
-	// 			JSON.stringify({
-	// 				assetId: getUniqueId(),
-	// 				cloudinaryUrl: asset,
-	// 				onTop: false,
-	// 				visible: true,
-	// 				aspect: asset.includes('landscape') ? 'landscape' : 'portrait',
-	// 				type: isVideo(path.extname(asset)) ? 'video' : 'image',
-	// 				styleId,
-	// 				name,
-	// 				groupId,
-	// 				filters: defaultFilters[filters[0]] || 'default'
-	// 			}),
-	// 			err => {
-	// 				if (err) throw err
-	// 				console.log(`Media Asset ${mediaAssetFileName} done`)
-	// 			}
-	// 		)
-	// 	})
 })

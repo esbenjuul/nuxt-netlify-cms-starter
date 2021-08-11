@@ -106,7 +106,7 @@
 		&:not(.fixed):not(.is-link) {
 			&:hover {
 				img {
-					transform: scale(1.02) rotate(3deg) !important;
+					transform: translateY(-20px) scale(1.02) rotate(3deg) !important;
 				}
 			}
 		}
@@ -116,6 +116,7 @@
 
 			.green-room__text {
 				opacity: 1;
+				transform: translateY(0);
 				pointer-events: auto;
 			}
 		}
@@ -249,8 +250,9 @@
 	}
 
 	&__text {
-		transition: opacity 0.2s;
+		transition: all 0.2s;
 		opacity: 0;
+		transform: translateY(10px);
 		pointer-events: none;
 		position: fixed;
 		top: 0;

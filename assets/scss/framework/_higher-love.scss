@@ -43,6 +43,8 @@
 	justify-content: center;
 	height: 100%;
 
+	margin-top: -10vh;
+
 	@include mq(screen-sm) {
 		@include windowtitle;
 	}
@@ -138,6 +140,10 @@
 				opacity: 1;
 			}
 
+			.higher-love-sidebar__title {
+				transform: translateY(0);
+			}
+
 			&:after {
 				opacity: 0;
 			}
@@ -146,7 +152,7 @@
 
 	&__ui {
 		@include mq(screen-md) {
-			transition: opacity 0.2s;
+			transition: all 0.2s;
 			opacity: 0;
 		}
 	}
@@ -159,6 +165,8 @@
 
 	&__title {
 		@include bodytext;
+		transition: all 0.2s;
+		transform: translateY(10px);
 		position: absolute;
 		z-index: 2;
 		text-align: right;
