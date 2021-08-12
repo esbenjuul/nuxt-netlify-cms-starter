@@ -1,11 +1,11 @@
 import fs from 'fs'
 import path from 'path'
 
-const data = fs.readFileSync('./files/Copy-of-22.1-bulk-upload-Ark1.json')
+const data = fs.readFileSync('./files/Copy-of-22.1-bulk-upload-Ark1-(1).json')
 const json = JSON.parse(data)
 
 // settings
-const OUT_FOLDER = 'mock' // no slashes
+const OUT_FOLDER = 'content' // no slashes
 const STYLES_FILE = json
 const assetFolder = `../assets/${OUT_FOLDER}`
 
