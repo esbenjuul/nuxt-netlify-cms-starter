@@ -1,12 +1,7 @@
-import sortArrayMultipleProps from '~/utils/sort-array-multiple'
-import findArrayMatches from '~/utils/find-array-matches'
-
 import {
 	FETCH_COLLECTION_ITEMS,
 	FETCH_COLLECTION_GROUPS,
 	FETCH_COLLECTION_FILTERS,
-	// FETCH_COLLECTION_ASSETS,
-	INDEX_COLLECTION_DATA,
 	SET_CURRENT_FILTER,
 	SET_GROUP_BY_IDENTIFIER,
 	SET_GROUP_BY_INDEX,
@@ -25,18 +20,18 @@ import {
 	SET_SEARCHSTRING
 } from '~/model/constants'
 
-import CollectionLayouts from '~/model/collection-layouts'
-// import getUniqueId from '~/utils/get-unique-id.js'
-import {
-	prevIndex,
-	nextIndex,
-	isFirstIndex,
-	isLastIndex,
-	firstElement,
-	lastElement,
-	nextElement,
-	prevElement
-} from '~/utils/array-helpers'
+import { nextElement, prevElement } from '~/utils/array-helpers'
+
+const getStylesFromMultipleFilters = (state, getters, filters) => {
+	const isFilterWeWant = filterId => filters.includes(filterId)
+	const hasFilter = style => style.filters.find(isFilterWeWant)
+
+	return state.activeGroup
+		? getters.groups[state.activeGroup.groupId].styles.filter(hasFilter)
+		: Object.values(getters.groups)
+				.map(g => g.styles.filter(hasFilter))
+				.flat()
+}
 
 export const state = () => ({
 	// collectionLayout: CollectionLayouts.GRID,
@@ -79,7 +74,28 @@ export const state = () => ({
 	wishList: [],
 
 	currentStyle: null,
-	hiddenAssetContent: []
+	hiddenAssetContent: [],
+
+	RTWFilters: [
+		'rtw1',
+		'rtw2',
+		'rtw3',
+		'rtw4',
+		'rtw5',
+		'rtw6',
+		'rtw7',
+		'rtw8',
+		'rtw9',
+		'rtw10',
+		'rtw11',
+		'rtw12',
+		'rtw13',
+		'rtw14'
+	],
+
+	ACCFilters: ['acc1', 'acc2', 'acc5', 'acc6', 'acc7'],
+
+	shoesFilters: ['sho1', 'sho2', 'sho3', 'sho4']
 })
 
 export const getters = {
@@ -102,45 +118,15 @@ export const getters = {
 	allStyles: state => state.allStyles,
 
 	readyToWear: (state, getters) => {
-		const targetFilters = {
-			accessoriesFilterId: 'acc1',
-			shoesFilterId: 'acc3',
-			bagsFilterId: 'acc2',
-			hatsFilterId: 'acc5',
-			collarsFilterId: 'acc6',
-			walletsFilterId: 'acc7'
-		}
-
-		const isAccOrShoes = filterId =>
-			Object.values(targetFilters).includes(filterId)
-		const hasNoAccOrShoesFilter = style => !style.filters.find(isAccOrShoes)
-
-		return state.activeGroup
-			? getters.groups[state.activeGroup.groupId].styles.filter(
-					hasNoAccOrShoesFilter
-			  )
-			: Object.values(getters.groups)
-					.map(g => g.styles.filter(hasNoAccOrShoesFilter))
-					.flat()
+		return getStylesFromMultipleFilters(state, getters, state.RTWFilters)
 	},
 
 	accessories: (state, getters) => {
-		const targetFilters = {
-			accessoriesFilterId: 'acc1',
-			bagsFilterId: 'acc2',
-			hatsFilterId: 'acc5',
-			collarsFilterId: 'acc6',
-			walletsFilterId: 'acc7'
-		}
+		return getStylesFromMultipleFilters(state, getters, state.ACCFilters)
+	},
 
-		const isAcc = filterId => Object.values(targetFilters).includes(filterId)
-		const hasAccFilter = style => style.filters.find(isAcc)
-
-		return state.activeGroup
-			? getters.groups[state.activeGroup.groupId].styles.filter(hasAccFilter)
-			: Object.values(getters.groups)
-					.map(g => g.styles.filter(hasAccFilter))
-					.flat()
+	shoes: (state, getters) => {
+		return getStylesFromMultipleFilters(state, getters, state.shoesFilters)
 	},
 
 	groups: state => {
@@ -255,6 +241,15 @@ export const mutations = {
 			state.activeFilter = {
 				filterId,
 				name: 'Accessories',
+				styleIds: state.currentStyles
+			}
+
+			return
+		}
+		if (filterId === 'SHOES') {
+			state.activeFilter = {
+				filterId,
+				name: 'Shoes',
 				styleIds: state.currentStyles
 			}
 

@@ -26,12 +26,18 @@
 					/>
 
 					<filter-button
+						:name="'SHOES'"
+						:is-big="true"
+						:count="shoes.length"
+						:filter-id="'SHOES'"
+					/>
+
+					<filter-button
 						v-for="item in currentFilters"
 						:key="item.filter.filterId"
 						:name="item.filter.name"
 						:count="item.styles.length"
 						:filter-id="item.filter.filterId"
-						:is-big="['shoes'].includes(item.filter.name.toLowerCase())"
 					/>
 					<!-- <span
 						class="filter-button"
@@ -88,6 +94,7 @@ export default {
 		...mapGetters('collection', [
 			'readyToWear',
 			'accessories',
+			'shoes',
 			'groups',
 			'allStylesWithFilter'
 		]),

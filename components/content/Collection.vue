@@ -45,18 +45,34 @@ export default {
 			'currentStyles',
 			'authorizedGroups',
 			'activeGroup',
-			'activeFilter'
+			'activeFilter',
+			'RTWFilters',
+			'ACCFilters',
+			'shoesFilters'
 		]),
-		...mapGetters('collection', ['groups']),
+		...mapGetters('collection', ['groups', 'readyToWear']),
 
 		filteredList() {
 			return !this.activeFilter.filterId
 				? this.groupsRenderList
 				: this.groupsRenderList.map(obj => ({
 						...obj,
-						styles: obj.styles.filter(style =>
-							style.filters.includes(this.activeFilter.filterId)
-						)
+						styles: obj.styles.filter(style => {
+							const activatedFilters =
+								this.activeFilter.filterId === 'RTW'
+									? this.RTWFilters
+									: this.activeFilter.filterId === 'ACC'
+									? this.ACCFilters
+									: this.activeFilter.filterId === 'SHOES'
+									? this.shoesFilters
+									: [this.activeFilter.filterId]
+
+							const hasFilter = style.filters.some(f =>
+								activatedFilters.includes(f)
+							)
+
+							return hasFilter
+						})
 				  }))
 		},
 
