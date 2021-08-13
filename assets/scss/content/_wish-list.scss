@@ -42,14 +42,14 @@
 			max-width: 100%;
 
 			&:hover {
-				background-color: $color-lightgrey;
+				background-color: $color-imagebg;
 
 				.remove {
 					opacity: 1;
 				}
 			}
 			&.is-active {
-				background-color: $color-lightgrey;
+				background-color: $color-imagebg;
 			}
 		}
 
@@ -163,7 +163,7 @@
 	//mobile only
 	&__accordion {
 		&.is-active {
-			background-color: $color-lightgrey;
+			background-color: $color-imagebg;
 			.content {
 				max-height: rem(400);
 			}

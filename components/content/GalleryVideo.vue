@@ -1,5 +1,5 @@
 <template>
-	<div class="gallery-video shimmer">
+	<div class="gallery-video">
 		<!-- <loading /> -->
 		<video-player
 			:video-url="assetUrl"
