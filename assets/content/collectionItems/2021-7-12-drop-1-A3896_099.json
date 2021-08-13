@@ -1,1 +1,45 @@
-{"styleId":"A3896_099","name":"A3896_099_Wallet","program":5754,"programName":"Banner","material":"100% Recycled Leather","groupId":"drop-1","colorNames":"Black","colorId":99,"responsible":true,"weight":44510,"sizeRange":"ONE SIZE","chest":0,"waist":0,"hip":0,"bottomWidth":0,"totalLenght":0,"inseamLenght":0,"sleeveLenght":0,"height":11,"length":20,"width":4,"heelHeight":0,"wholesalePriceDKK":560,"wholesalePriceEUR":82,"wholesalePriceUSD":98,"wholesalePriceGBP":70,"retailPriceDKK":1399,"retailPriceEUR":195,"retailPriceUSD":235,"retailPriceGBP":175,"retailRMB":1895,"filters":["acc3"],"PRODUCT_GROUP":"Wallet","assets1":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A3896_5754_099.png","inclusive":true,"re-runner":true,"assets":["https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A3896_5754_099.png"]}
+{
+  "waist": 0,
+  "retailPriceUSD": 235,
+  "inseamLenght": 0,
+  "chest": 0,
+  "totalLenght": 0,
+  "assets": [
+    [
+      "https://res.cloudinary.com/dd6fpxydm/image/upload/v1621074393/21.4/packs/A3896_5754_099.jpg"
+    ]
+  ],
+  "retailRMB": 1895,
+  "program": 5754,
+  "colorNames": "Black",
+  "sleeveLenght": 0,
+  "width": 4,
+  "length": 20,
+  "height": 11,
+  "material": "100% Recycled Leather",
+  "re-runner": true,
+  "wholesalePriceGBP": 70,
+  "heelHeight": 0,
+  "name": "A3896_099_Wallet",
+  "inclusive": true,
+  "styleId": "A3896_099",
+  "assets1": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A3896_5754_099.png",
+  "PRODUCT_GROUP": "Wallet",
+  "retailPriceGBP": 175,
+  "programName": "Banner",
+  "hip": 0,
+  "responsible": true,
+  "wholesalePriceEUR": 82,
+  "weight": 44510,
+  "wholesalePriceDKK": 560,
+  "groupId": "drop-1",
+  "wholesalePriceUSD": 98,
+  "bottomWidth": 0,
+  "filters": [
+    "acc3"
+  ],
+  "sizeRange": "ONE SIZE",
+  "retailPriceEUR": 195,
+  "retailPriceDKK": 1399,
+  "colorId": 99
+}
