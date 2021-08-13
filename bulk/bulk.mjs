@@ -1,7 +1,7 @@
 import fs from 'fs'
 import path from 'path'
 
-const data = fs.readFileSync('./files/Copy-of-22.1-bulk-upload-Ark1-(1).json')
+const data = fs.readFileSync('./files/updated-assets-bulk-upload.json')
 const json = JSON.parse(data)
 
 // settings
