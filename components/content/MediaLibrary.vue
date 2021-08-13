@@ -33,9 +33,6 @@ export default {
 			window.location.reload()
 			window.location = '/'
 		}
-	},
-	mounted() {
-		console.log(window.location)
 	}
 }
 </script>
