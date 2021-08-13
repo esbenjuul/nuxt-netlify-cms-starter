@@ -1,1 +1,49 @@
-{"styleId":"A4226_943","name":"A4226_943_Fabric Small Bag","program":5829,"programName":"Recycled Tech","material":"100% Recycled Polyester","groupId":"drop-2","colorNames":"Leopard","colorId":943,"responsible":true,"weight":44430,"sizeRange":"ONE SIZE","chest":0,"waist":0,"hip":0,"bottomWidth":0,"totalLenght":0,"inseamLenght":0,"sleeveLenght":0,"height":13,"length":23,"width":0,"heelHeight":0,"wholesalePriceDKK":360,"wholesalePriceEUR":50,"wholesalePriceUSD":65,"wholesalePriceGBP":46,"retailPriceDKK":899,"retailPriceEUR":125,"retailPriceUSD":155,"retailPriceGBP":115,"retailRMB":1195,"filters":["acc1","gr2"],"PRODUCT_GROUP":"Fabric Small Bag","assets1":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4226_5829_943_1.png","assets2":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4226_943_1.png","assets3":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4226_943_2.png","assets4":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_110_0013.jpg","inclusive":true,"re-runner":true,"assets":["https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4226_5829_943_1.png","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4226_943_1.png","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4226_943_2.png","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_110_0013.jpg"]}
+{
+  "waist": 0,
+  "retailPriceUSD": 155,
+  "inseamLenght": 0,
+  "chest": 0,
+  "totalLenght": 0,
+  "assets": [
+    [
+      "https://res.cloudinary.com/dd6fpxydm/image/upload/v1614522899/AW21_21.3/21.3_PACKSHOTS/A3431_5488_943.jpg"
+    ]
+  ],
+  "retailRMB": 1195,
+  "program": 5829,
+  "colorNames": "Leopard",
+  "sleeveLenght": 0,
+  "width": 0,
+  "length": 23,
+  "height": 13,
+  "material": "100% Recycled Polyester",
+  "re-runner": true,
+  "wholesalePriceGBP": 46,
+  "heelHeight": 0,
+  "name": "A4226_943_Fabric Small Bag",
+  "inclusive": true,
+  "styleId": "A4226_943",
+  "assets1": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4226_5829_943_1.png",
+  "assets2": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4226_943_1.png",
+  "PRODUCT_GROUP": "Fabric Small Bag",
+  "retailPriceGBP": 115,
+  "programName": "Recycled Tech",
+  "hip": 0,
+  "assets3": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4226_943_2.png",
+  "assets4": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_110_0013.jpg",
+  "responsible": true,
+  "wholesalePriceEUR": 50,
+  "weight": 44430,
+  "wholesalePriceDKK": 360,
+  "groupId": "drop-2",
+  "wholesalePriceUSD": 65,
+  "bottomWidth": 0,
+  "filters": [
+    "acc1",
+    "gr2"
+  ],
+  "sizeRange": "ONE SIZE",
+  "retailPriceEUR": 125,
+  "retailPriceDKK": 899,
+  "colorId": 943
+}
