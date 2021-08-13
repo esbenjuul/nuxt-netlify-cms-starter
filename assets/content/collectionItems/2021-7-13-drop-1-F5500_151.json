@@ -1,1 +1,47 @@
-{"styleId":"F5500_151","name":"F5500_151_Shirt","program":6045,"programName":"Cotton Poplin","material":"100% Organic Cotton","groupId":"drop-1","colorNames":"Bright White","colorId":151,"responsible":true,"weight":48580,"sizeRange":"32, 34, 36, 38, 40, 42, 44","chest":96,"waist":86,"hip":0,"bottomWidth":49,"totalLenght":63,"inseamLenght":0,"sleeveLenght":65,"height":0,"length":0,"width":0,"heelHeight":0,"wholesalePriceDKK":357,"wholesalePriceEUR":52,"wholesalePriceUSD":69,"wholesalePriceGBP":45,"retailPriceDKK":999,"retailPriceEUR":145,"retailPriceUSD":165,"retailPriceGBP":125,"retailRMB":1395,"filters":["rtw2","rtw13"],"PRODUCT_GROUP":"Shirt","assets1":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F5500_6045_151.png","assets2":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F5500_6045_151_1.png","inclusive":true,"re-runner":true,"assets":["https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F5500_6045_151.png","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F5500_6045_151_1.png"]}
+{
+  "waist": 86,
+  "retailPriceUSD": 165,
+  "inseamLenght": 0,
+  "chest": 96,
+  "totalLenght": 63,
+  "assets": [
+    [
+      "https://res.cloudinary.com/dd6fpxydm/image/upload/v1612313174/AW21_21.3/21.3_PACKSHOTS/F5500_6045_151.jpg"
+    ]
+  ],
+  "retailRMB": 1395,
+  "program": 6045,
+  "colorNames": "Bright White",
+  "sleeveLenght": 65,
+  "width": 0,
+  "length": 0,
+  "height": 0,
+  "material": "100% Organic Cotton",
+  "re-runner": true,
+  "wholesalePriceGBP": 45,
+  "heelHeight": 0,
+  "name": "F5500_151_Shirt",
+  "inclusive": true,
+  "styleId": "F5500_151",
+  "assets1": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F5500_6045_151.png",
+  "assets2": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F5500_6045_151_1.png",
+  "PRODUCT_GROUP": "Shirt",
+  "retailPriceGBP": 125,
+  "programName": "Cotton Poplin",
+  "hip": 0,
+  "responsible": true,
+  "wholesalePriceEUR": 52,
+  "weight": 48580,
+  "wholesalePriceDKK": 357,
+  "groupId": "drop-1",
+  "wholesalePriceUSD": 69,
+  "bottomWidth": 49,
+  "filters": [
+    "rtw2",
+    "rtw13"
+  ],
+  "sizeRange": "32, 34, 36, 38, 40, 42, 44",
+  "retailPriceEUR": 145,
+  "retailPriceDKK": 999,
+  "colorId": 151
+}
