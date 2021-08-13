@@ -115,7 +115,7 @@ export const mutations = {
 
 			state.topMostWindow = newWindow
 
-			console.log('newWindow', newWindow)
+			// console.log('newWindow', newWindow)
 		})
 
 		//only add the group if it has content

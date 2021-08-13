@@ -15,8 +15,11 @@
 						only and not to be distributed outside this platform.
 					</p>
 				</span>
+
+				<slot></slot>
+
 				<button class="button ok" @click="copyrightMessageClickHandler">
-					OK
+					Accept all
 				</button>
 			</div>
 		</div>
@@ -25,15 +28,16 @@
 
 <script>
 import { mapActions } from 'vuex'
-import { COPYRIGHT_ACCEPT } from '~/model/constants'
+import { COPYRIGHT_ACCEPT, COOKIES_ACCEPT } from '~/model/constants'
 
 export default {
 	name: 'copywrite-message',
 	methods: {
-		...mapActions('user', [COPYRIGHT_ACCEPT.action]),
+		...mapActions('user', [COPYRIGHT_ACCEPT.action, COOKIES_ACCEPT.action]),
 		copyrightMessageClickHandler() {
 			this[COPYRIGHT_ACCEPT.action](true)
-		},
-	},
+			this[COOKIES_ACCEPT.action](true)
+		}
+	}
 }
 </script>

@@ -1,5 +1,5 @@
 <template>
-	<div class="cookie-banner">
+	<div :class="{ 'cookie-banner': !unStyled }">
 		<div>
 			<h3>GANNI SPACE uses cookies</h3>
 			<p>
@@ -10,7 +10,7 @@
 			</p>
 		</div>
 
-		<button class="button accept" @click="acceptHandler">Accept all</button>
+		<!-- <button class="button accept" @click="acceptHandler">Accept all</button> -->
 	</div>
 </template>
 
@@ -21,6 +21,9 @@ import { COOKIES_ACCEPT } from '~/model/constants'
 
 export default {
 	name: 'cookie-banner',
+	props: {
+		unStyled: { type: Boolean }
+	},
 	methods: {
 		...mapActions('user', [COOKIES_ACCEPT.action]),
 		acceptHandler() {

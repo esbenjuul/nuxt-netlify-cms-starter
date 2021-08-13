@@ -47,7 +47,8 @@
 
 <script>
 import Marquee from '~/components/content/Marquee.vue'
-import { mapState } from 'vuex'
+import { mapState, mapActions } from 'vuex'
+import { TEXT_CURSOR } from '~/model/constants'
 
 export default {
 	name: 'intro-copenhill',
@@ -62,6 +63,7 @@ export default {
 		...mapState('utils', ['various'])
 	},
 	methods: {
+		...mapActions('utils', [TEXT_CURSOR.action]),
 		onClick() {
 			if (
 				!this.deadlinePassed &&
@@ -78,7 +80,14 @@ export default {
 		},
 		onTimeupdate(isFuture) {
 			this.deadlinePassed = !isFuture
+
+			if (this.deadlinePassed) {
+				this[TEXT_CURSOR.action]({ str: 'Click to login' })
+			}
 		}
+	},
+	beforeDestroy() {
+		this[TEXT_CURSOR.action]({ str: '' })
 	}
 }
 </script>

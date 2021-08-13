@@ -39,12 +39,9 @@
 						:count="item.styles.length"
 						:filter-id="item.filter.filterId"
 					/>
-					<!-- <span
-						class="filter-button"
-						v-if="groupFiltersNonNull.length % 2 === 0"
-					>
+					<span class="filter-button" v-if="currentFilters.length % 2 === 0">
 						&nbsp;
-					</span> -->
+					</span>
 				</div>
 			</div>
 		</div>

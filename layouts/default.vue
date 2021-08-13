@@ -5,6 +5,8 @@
 		class="layout"
 		:class="{ 'screensaver-running': idle, dark: dashboardDark }"
 	>
+		<text-cursor />
+
 		<transition name="fade" appear>
 			<login v-if="!loggedIn" @step="onIntroStep" @slide="onIntroSlide" />
 		</transition>
@@ -18,11 +20,13 @@
 			<bottombar />
 
 			<!-- fixed elements -->
-			<text-cursor />
 			<assistant />
 			<clipboard-message v-if="showClipboardMessage" />
-			<copywrite-message v-if="!copyrightAccepted" />
-			<cookie-banner v-if="!cookiesAccepted" :class="{ pushed: true }" />
+
+			<copywrite-message v-if="!copyrightAccepted">
+				<cookie-banner v-if="!cookiesAccepted" :un-styled="true" />
+			</copywrite-message>
+
 			<!-- <v-idle v-show="false" :duration="15000" @idle="onidle" /> -->
 			<screensaver v-if="idle" />
 
