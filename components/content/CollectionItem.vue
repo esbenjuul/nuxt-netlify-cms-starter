@@ -4,7 +4,7 @@
 			v-if="!this.isVideo(imageUrl.src)"
 			v-lazy="imageUrl.src"
 			:alt="`An closeup of ${imageName}`"
-			class="fast-fade"
+			class="fast-fade collection-item__main"
 			ref="image"
 		/>
 		<video
@@ -14,6 +14,7 @@
 			v-else
 			:data-src="imageUrl.src"
 			ref="video-1"
+			class="collection-item__main"
 		></video>
 
 		<!-- visible when img[lazy="error"] -->

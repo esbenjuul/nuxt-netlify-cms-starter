@@ -54,8 +54,8 @@
 	&__item {
 		@include bodytext();
 		font-weight: bold;
-		width: 40vmin;
-		height: 40vmin;
+		width: 50vmin;
+		height: 50vmin;
 		position: absolute;
 
 		display: grid;
@@ -175,11 +175,11 @@
 
 		&[data-order='3'] {
 			bottom: 21vh;
-			left: 15vw;
+			right: 15vw;
 
 			@include mq(screen-md) {
-				bottom: 21vh;
-				left: 65vw;
+				bottom: 13vh;
+				right: 3vw;
 			}
 		}
 
@@ -261,7 +261,7 @@
 		background-color: var(--color-ss-yellow);
 		color: var(--color-ss-blush);
 		padding: 1.5em;
-		width: 550px;
+		width: 300px;
 		max-width: 90vw;
 		max-height: 45vh;
 		overflow: auto;
@@ -281,7 +281,7 @@
 		@include mq(screen-md) {
 			position: absolute;
 			top: 5%;
-			left: 40%;
+			left: 20%;
 			max-height: none;
 		}
 	}

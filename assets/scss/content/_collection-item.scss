@@ -19,6 +19,10 @@
 		outline: 1px solid var(--collection-border-color);
 	}
 
+	&__main {
+		transition: opacity 0.2s $easeInOutQuint;
+	}
+
 	&__extra {
 		transition: opacity 0.2s $easeInOutQuint;
 		opacity: 0;
@@ -104,6 +108,9 @@
 			opacity: 1;
 		}
 
+		.collection-item__main {
+			opacity: 0;
+		}
 		.collection-item__extra {
 			opacity: 1;
 		}
