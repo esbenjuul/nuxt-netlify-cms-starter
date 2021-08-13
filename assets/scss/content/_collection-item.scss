@@ -108,9 +108,12 @@
 			opacity: 1;
 		}
 
-		.collection-item__main {
-			opacity: 0;
+		&.multiple-assets {
+			.collection-item__main {
+				opacity: 0;
+			}
 		}
+
 		.collection-item__extra {
 			opacity: 1;
 		}

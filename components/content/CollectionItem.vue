@@ -1,5 +1,10 @@
 <template>
-	<button class="collection-item" @click.stop="onItemClick" ref="parent">
+	<button
+		class="collection-item"
+		:class="{ 'multiple-assets': imageUrl2 }"
+		@click.stop="onItemClick"
+		ref="parent"
+	>
 		<img
 			v-if="!this.isVideo(imageUrl.src)"
 			v-lazy="imageUrl.src"
