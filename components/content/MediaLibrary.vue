@@ -20,7 +20,7 @@ import { MENU_SHOW, RESET_STATE } from '~/model/constants'
 export default {
 	name: 'media-library',
 	computed: {
-		...mapState('assets', ['downloads']),
+		...mapState('assets', ['downloads'])
 	},
 	methods: {
 		...mapActions([RESET_STATE.action]),
@@ -31,7 +31,11 @@ export default {
 		refresh(event) {
 			this[RESET_STATE.action](event)
 			window.location.reload()
-		},
+			window.location = '/'
+		}
 	},
+	mounted() {
+		console.log(window.location)
+	}
 }
 </script>

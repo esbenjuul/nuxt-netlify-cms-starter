@@ -1,6 +1,6 @@
 <template>
 	<div
-		class="single-video shimmer"
+		class="single-video"
 		:class="{ 'is-interactive': belongsToStyle && inFocus }"
 	>
 		<transition name="fade">
@@ -25,17 +25,17 @@ export default {
 	extends: WindowContent,
 	name: 'single-video',
 	components: {
-		VideoPlayer,
+		VideoPlayer
 	},
 	props: {
 		asset: {
 			type: Object,
-			required: true,
+			required: true
 		},
 		videoAttributes: {
 			type: Object,
-			required: false,
-		},
+			required: false
+		}
 	},
 	computed: {
 		belongsToStyle() {
@@ -51,14 +51,14 @@ export default {
 				return {
 					autoPlay: true,
 					muted: true,
-					loop: true,
+					loop: true
 				}
 			} else {
 				return {
-					controls: true,
+					controls: true
 				}
 			}
-		},
+		}
 	},
 	methods: {
 		...mapActions([OPEN_GALLERY.action]),
@@ -66,8 +66,8 @@ export default {
 			if (this.belongsToStyle && this.inFocus) {
 				this[OPEN_GALLERY.action](this.asset)
 			}
-		},
-	},
+		}
+	}
 	// mounted() {
 	// 	console.log(this.asset, this)
 	// },

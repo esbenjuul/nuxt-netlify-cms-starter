@@ -74,7 +74,9 @@ export default {
 	methods: {
 		...mapActions(['collection/' + REMOVE_FROM_WISHLIST.action]),
 		removeItemHandler() {
-			this['collection/' + REMOVE_FROM_WISHLIST.action](this.wishListItem)
+			this['collection/' + REMOVE_FROM_WISHLIST.action](
+				this.wishListItem.styleId
+			)
 		},
 		triggerHandler() {
 			this.isActive = !this.isActive
