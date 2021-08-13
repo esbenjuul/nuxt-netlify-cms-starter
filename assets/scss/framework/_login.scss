@@ -146,7 +146,6 @@
 .intro-copenhill {
 	position: absolute;
 	inset: 0;
-	font-weight: 600;
 
 	cursor: pointer;
 
@@ -160,8 +159,9 @@
 	}
 
 	&__text {
-		--animation-duration: 3s;
-		--animation-ease: var(--ease-in-out-quint);
+		--duration: 1s;
+		--delay: 0.8s;
+		--animation-ease: ease-in-out;
 
 		position: absolute;
 		inset: 0;
@@ -173,13 +173,13 @@
 
 		> span {
 			position: absolute;
-			font-size: 75px;
+			font-size: 80px;
 			left: 50%;
 			top: 50%;
 			transform: translate(-50%, -50%);
 
 			@include mq(screen-md) {
-				font-size: 200px;
+				font-size: 210px;
 			}
 		}
 
@@ -188,10 +188,18 @@
 			color: var(--color-ss-blue);
 
 			&--animation {
-				animation: higher 3s var(--animation-ease) forwards;
+				opacity: 0;
+				animation: {
+					name: higher;
+					duration: var(--duration);
+					delay: var(--delay);
+					timing-function: var(--animation-ease);
+					fill-mode: forwards;
+				}
 
 				.outro & {
-					animation: higher-out 3s var(--animation-ease) forwards;
+					opacity: 1;
+					animation-name: higher-out;
 				}
 			}
 
@@ -199,7 +207,7 @@
 				transform: translate(-37px, -71px);
 
 				@include mq(screen-md) {
-					transform: translate(-56px, -161px);
+					transform: translate(-53px, -154px);
 				}
 			}
 
@@ -213,13 +221,21 @@
 			color: var(--color-ss-yellow);
 			writing-mode: vertical-rl;
 			text-orientation: upright;
-			letter-spacing: -0.3em;
+			letter-spacing: -0.4em;
 
 			&--animation {
-				animation: love 3.1s var(--animation-ease) forwards;
+				opacity: 0;
+				animation: {
+					name: love;
+					duration: var(--duration);
+					delay: calc(var(--delay) * 3);
+					timing-function: var(--animation-ease);
+					fill-mode: forwards;
+				}
 
 				.outro & {
-					animation: love-out 3.1s var(--animation-ease) forwards;
+					opacity: 1;
+					animation-name: love-out;
 				}
 			}
 
@@ -227,7 +243,7 @@
 				transform: translate(151px, -60px);
 
 				@include mq(screen-md) {
-					transform: translate(410px, -142px);
+					transform: translate(399px, -138px);
 				}
 			}
 		}
@@ -237,10 +253,18 @@
 			color: var(--color-ss-blush);
 
 			&--animation {
-				animation: ganni 3.2s var(--animation-ease) forwards;
+				opacity: 0;
+				animation: {
+					name: ganni;
+					duration: var(--duration);
+					delay: 0;
+					timing-function: var(--animation-ease);
+					fill-mode: forwards;
+				}
 
 				.outro & {
-					animation: ganni-out 3.2s var(--animation-ease) forwards;
+					opacity: 1;
+					animation-name: ganni-out;
 				}
 			}
 
@@ -260,10 +284,18 @@
 			white-space: nowrap;
 
 			&--animation {
-				animation: ss 3.3s var(--animation-ease) forwards;
+				opacity: 0;
+				animation: {
+					name: ss;
+					duration: var(--duration);
+					delay: calc(var(--delay) * 2);
+					timing-function: var(--animation-ease);
+					fill-mode: forwards;
+				}
 
 				.outro & {
-					animation: ss-out 3.3s var(--animation-ease) forwards;
+					opacity: 1;
+					animation-name: ss-out;
 				}
 			}
 
@@ -271,12 +303,12 @@
 				transform: translate(95px, -8px);
 
 				@include mq(screen-md) {
-					transform: translate(250px, 0);
+					transform: translate(250px, -10px);
 				}
 			}
 
 			.small {
-				transform: scale(0.8);
+				transform: scale(0.7);
 				transform-origin: 100% 30%;
 			}
 

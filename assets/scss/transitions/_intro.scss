@@ -1,13 +1,21 @@
 @keyframes higher {
-	from {
+	0% {
 		transform: translate(-160vw, 88vw);
+	}
+	1%,
+	100% {
+		opacity: 1;
 	}
 }
 
 @include mq(screen-md) {
 	@keyframes higher {
-		from {
+		0% {
 			transform: translate(-79vw, 44vw);
+		}
+		1%,
+		100% {
+			opacity: 1;
 		}
 	}
 }
@@ -27,15 +35,23 @@
 }
 
 @keyframes love {
-	from {
+	0% {
 		transform: translateY(-163vw);
+	}
+	1%,
+	100% {
+		opacity: 1;
 	}
 }
 
 @include mq(screen-md) {
 	@keyframes love {
-		from {
+		0% {
 			transform: translateY(-63vw);
+		}
+		1%,
+		100% {
+			opacity: 1;
 		}
 	}
 }
@@ -55,15 +71,23 @@
 }
 
 @keyframes ganni {
-	from {
+	0% {
 		transform: translateX(-203vw);
+	}
+	1%,
+	100% {
+		opacity: 1;
 	}
 }
 
 @include mq(screen-md) {
 	@keyframes ganni {
-		from {
+		0% {
 			transform: translateX(-103vw);
+		}
+		1%,
+		100% {
+			opacity: 1;
 		}
 	}
 }
@@ -82,15 +106,23 @@
 }
 
 @keyframes ss {
-	from {
+	0% {
 		transform: translateY(163vw);
+	}
+	1%,
+	100% {
+		opacity: 1;
 	}
 }
 
 @include mq(screen-md) {
 	@keyframes ss {
-		from {
+		0% {
 			transform: translateY(63vw);
+		}
+		1%,
+		100% {
+			opacity: 1;
 		}
 	}
 }

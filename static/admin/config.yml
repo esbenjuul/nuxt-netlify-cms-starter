@@ -1,7 +1,7 @@
 # used for local development:
 backend:
   name: git-gateway
-  branch: releases/2021-aug
+  branch: develop
   publish_mode: editorial_workflow
 
 # when using the default proxy server port
