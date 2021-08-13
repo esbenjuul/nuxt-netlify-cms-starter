@@ -1,21 +1,21 @@
 {
-	"dashboardBackground": [
-		"https://res.cloudinary.com/dd6fpxydm/image/upload/v1620396891/deck1.jpg"
-	],
-	"scrollAudio": [
-		"https://res.cloudinary.com/dd6fpxydm/video/upload/v1628845719/22.1/DITTE.mp4"
-	],
-	"vimeoUrl": "https://vimeo.com/508840319/c92bfb5208",
-	"audioVisualizerBackground": [
-		"https://res.cloudinary.com/dd6fpxydm/image/upload/v1620901129/21.4/elevated/210507_GANNI_PS22_SCANS0083.jpg",
-		"https://res.cloudinary.com/dd6fpxydm/image/upload/v1620901128/21.4/elevated/210507_GANNI_PS22_SCANS0074.jpg",
-		"https://res.cloudinary.com/dd6fpxydm/image/upload/v1620901127/21.4/elevated/210507_GANNI_PS22_SCANS0061.jpg",
-		"https://res.cloudinary.com/dd6fpxydm/image/upload/v1620901127/21.4/elevated/210507_GANNI_PS22_SCANS0060.jpg",
-		"https://res.cloudinary.com/dd6fpxydm/image/upload/v1620901126/21.4/elevated/210507_GANNI_PS22_SCANS0051.jpg",
-		"https://res.cloudinary.com/dd6fpxydm/image/upload/v1620901130/21.4/elevated/210507_GANNI_PS22_SCANS0076.jpg"
-	],
-	"loginBackground": [
-		"https://res.cloudinary.com/dd6fpxydm/image/upload/v1626099746/development-test/Amager-Bakke-Climate-Friendly-Energy-Plant-1600x800_landscape.jpg"
-	],
-	"releaseDate": "2021-08-16T00:00:00"
+  "dashboardBackground": [
+    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1620396891/deck1.jpg"
+  ],
+  "scrollAudio": [
+    "https://res.cloudinary.com/dd6fpxydm/video/upload/v1628845719/22.1/DITTE.mp4"
+  ],
+  "vimeoUrl": "https://vimeo.com/508840319/c92bfb5208",
+  "audioVisualizerBackground": [
+    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1620901129/21.4/elevated/210507_GANNI_PS22_SCANS0083.jpg",
+    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1620901128/21.4/elevated/210507_GANNI_PS22_SCANS0074.jpg",
+    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1620901127/21.4/elevated/210507_GANNI_PS22_SCANS0061.jpg",
+    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1620901127/21.4/elevated/210507_GANNI_PS22_SCANS0060.jpg",
+    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1620901126/21.4/elevated/210507_GANNI_PS22_SCANS0051.jpg",
+    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1620901130/21.4/elevated/210507_GANNI_PS22_SCANS0076.jpg"
+  ],
+  "loginBackground": [
+    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1626099746/development-test/Amager-Bakke-Climate-Friendly-Energy-Plant-1600x800_landscape.jpg"
+  ],
+  "releaseDate": "2021-08-16T00:00:00"
 }
