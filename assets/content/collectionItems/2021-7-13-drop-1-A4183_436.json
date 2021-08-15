@@ -6,8 +6,12 @@
   "totalLenght": 0,
   "assets": [
     "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4183_5825_436.png",
-    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4183_5825_436_1.png",
-    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4183_436_2.png",
+    [
+      "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628685961/22.1/PACKSHOTS/A4183_5825_436_3.png"
+    ],
+    [
+      "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628685995/22.1/PACKSHOTS/A4183_5825_436_2.png"
+    ],
     "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_07_0034.jpg",
     "https://res.cloudinary.com/dd6fpxydm/video/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_37_0007.jpg",
     "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_71_0003.jpg",
