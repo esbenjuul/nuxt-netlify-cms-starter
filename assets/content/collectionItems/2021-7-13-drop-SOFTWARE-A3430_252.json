@@ -1,1 +1,45 @@
-{"styleId":"A3430_252","name":"A3430_252_Hat","program":5682,"programName":"Software Heavy Cotton","material":"100% Organic Cotton","groupId":"drop-SOFTWARE","colorNames":"Phantom","colorId":252,"responsible":true,"weight":44950,"sizeRange":"ONE SIZE","chest":0,"waist":0,"hip":0,"bottomWidth":0,"totalLenght":0,"inseamLenght":0,"sleeveLenght":0,"height":0,"length":0,"width":0,"heelHeight":0,"wholesalePriceDKK":214,"wholesalePriceEUR":31,"wholesalePriceUSD":44,"wholesalePriceGBP":27,"retailPriceDKK":599,"retailPriceEUR":85,"retailPriceUSD":95,"retailPriceGBP":75,"retailRMB":795,"filters":["acc4"],"PRODUCT_GROUP":"Hat","assets1":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A3430_5682_252.png","inclusive":true,"re-runner":true,"assets":["https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A3430_5682_252.png"]}
+{
+  "waist": 0,
+  "retailPriceUSD": 95,
+  "inseamLenght": 0,
+  "chest": 0,
+  "totalLenght": 0,
+  "assets": [
+    [
+      "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628864312/22.1/PACKSHOTS/A3430_5682_697.png"
+    ]
+  ],
+  "retailRMB": 795,
+  "program": 5682,
+  "colorNames": "Phantom",
+  "sleeveLenght": 0,
+  "width": 0,
+  "length": 0,
+  "height": 0,
+  "material": "100% Organic Cotton",
+  "re-runner": true,
+  "wholesalePriceGBP": 27,
+  "heelHeight": 0,
+  "name": "A3430_252_Hat",
+  "inclusive": true,
+  "styleId": "A3430_252",
+  "assets1": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A3430_5682_252.png",
+  "PRODUCT_GROUP": "Hat",
+  "retailPriceGBP": 75,
+  "programName": "Software Heavy Cotton",
+  "hip": 0,
+  "responsible": true,
+  "wholesalePriceEUR": 31,
+  "weight": 44950,
+  "wholesalePriceDKK": 214,
+  "groupId": "drop-SOFTWARE",
+  "wholesalePriceUSD": 44,
+  "bottomWidth": 0,
+  "filters": [
+    "acc4"
+  ],
+  "sizeRange": "ONE SIZE",
+  "retailPriceEUR": 85,
+  "retailPriceDKK": 599,
+  "colorId": 252
+}
