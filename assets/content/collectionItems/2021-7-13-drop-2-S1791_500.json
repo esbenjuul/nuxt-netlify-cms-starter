@@ -1,1 +1,55 @@
-{"styleId":"S1791_500","name":"S1791_500_Sandals","program":4899,"programName":"Retro","material":"100% Vegea","groupId":"drop-2","colorNames":"Pale Lilac","colorId":500,"responsible":true,"weight":45470,"sizeRange":"35, 36, 37, 38, 39, 40, 41, 42","chest":0,"waist":0,"hip":0,"bottomWidth":0,"totalLenght":0,"inseamLenght":0,"sleeveLenght":0,"height":0,"length":0,"width":0,"heelHeight":5.5,"wholesalePriceDKK":720,"wholesalePriceEUR":102,"wholesalePriceUSD":123,"wholesalePriceGBP":90,"retailPriceDKK":1799,"retailPriceEUR":255,"retailPriceUSD":295,"retailPriceGBP":225,"retailRMB":2395,"filters":["sho3"],"PRODUCT_GROUP":"Sandals","assets1":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/S1791_4899_500.png","assets2":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/S1791_4899_500_1.png","assets3":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/S1791_500_2.png","assets4":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_70_0022.jpg","assets5":"https://res.cloudinary.com/dd6fpxydm/video/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_38_0029.jpg","assets6":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_76_0031.jpg","inclusive":true,"re-runner":true,"assets":["https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/S1791_4899_500.png","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/S1791_4899_500_1.png","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/S1791_500_2.png","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_70_0022.jpg","https://res.cloudinary.com/dd6fpxydm/video/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_38_0029.jpg","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_76_0031.jpg"]}
+{
+  "waist": 0,
+  "retailPriceUSD": 295,
+  "inseamLenght": 0,
+  "chest": 0,
+  "totalLenght": 0,
+  "assets": [
+    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/S1791_4899_500.png",
+    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/S1791_4899_500_1.png",
+    [
+      "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628685954/22.1/PACKSHOTS/S1791_4899_500_3.png"
+    ],
+    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_70_0022.jpg",
+    "https://res.cloudinary.com/dd6fpxydm/video/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_38_0029.jpg",
+    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_76_0031.jpg"
+  ],
+  "retailRMB": 2395,
+  "program": 4899,
+  "colorNames": "Pale Lilac",
+  "sleeveLenght": 0,
+  "width": 0,
+  "length": 0,
+  "height": 0,
+  "material": "100% Vegea",
+  "re-runner": true,
+  "wholesalePriceGBP": 90,
+  "heelHeight": 5.5,
+  "name": "S1791_500_Sandals",
+  "inclusive": true,
+  "styleId": "S1791_500",
+  "assets1": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/S1791_4899_500.png",
+  "assets2": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/S1791_4899_500_1.png",
+  "PRODUCT_GROUP": "Sandals",
+  "retailPriceGBP": 225,
+  "programName": "Retro",
+  "hip": 0,
+  "assets3": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/S1791_500_2.png",
+  "assets4": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_70_0022.jpg",
+  "assets5": "https://res.cloudinary.com/dd6fpxydm/video/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_38_0029.jpg",
+  "assets6": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_76_0031.jpg",
+  "responsible": true,
+  "wholesalePriceEUR": 102,
+  "weight": 45470,
+  "wholesalePriceDKK": 720,
+  "groupId": "drop-2",
+  "wholesalePriceUSD": 123,
+  "bottomWidth": 0,
+  "filters": [
+    "sho3"
+  ],
+  "sizeRange": "35, 36, 37, 38, 39, 40, 41, 42",
+  "retailPriceEUR": 255,
+  "retailPriceDKK": 1799,
+  "colorId": 500
+}
