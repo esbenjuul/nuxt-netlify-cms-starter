@@ -1,1 +1,55 @@
-{"styleId":"F6832_099","name":"F6832_099_Shirt","program":6479,"programName":"Cotton Poplin","material":"100% Organic Cotton","groupId":"drop-1","colorNames":"Black","colorId":99,"responsible":true,"weight":49130,"sizeRange":"32, 34, 36, 38, 40, 42, 44, 46, 48, 50, 52","chest":92,"waist":80,"hip":0,"bottomWidth":53,"totalLenght":65,"inseamLenght":0,"sleeveLenght":38,"height":0,"length":0,"width":0,"heelHeight":0,"wholesalePriceDKK":357,"wholesalePriceEUR":52,"wholesalePriceUSD":69,"wholesalePriceGBP":45,"retailPriceDKK":999,"retailPriceEUR":145,"retailPriceUSD":165,"retailPriceGBP":125,"retailRMB":1395,"filters":["rtw2"],"PRODUCT_GROUP":"Shirt","assets1":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6832_6479_099.png","assets2":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6832_99_1.png","assets4":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_104_0001.jpg","assets5":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/GANNI_22.1 COLLECTION_ECOMVIDEO38.mov","assets6":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_104_0059.jpg","inclusive":true,"re-runner":true,"assets":["https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6832_6479_099.png","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6832_99_1.png","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_104_0001.jpg","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/GANNI_22.1 COLLECTION_ECOMVIDEO38.mov","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_104_0059.jpg"]}
+{
+  "waist": 80,
+  "retailPriceUSD": 165,
+  "inseamLenght": 0,
+  "chest": 92,
+  "totalLenght": 65,
+  "assets": [
+    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6832_6479_099.png",
+    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_104_0001.jpg",
+    [
+      "https://res.cloudinary.com/dd6fpxydm/image/upload/v1629040302/22.1/PACKSHOTS/F6832_6479_099_1.png"
+    ],
+    [
+      "https://res.cloudinary.com/dd6fpxydm/video/upload/v1628861633/22.1/ECOM/GANNI_22.1_COLLECTION_ECOMVIDEO38.mov"
+    ],
+    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_104_0059.jpg"
+  ],
+  "retailRMB": 1395,
+  "program": 6479,
+  "colorNames": "Black",
+  "sleeveLenght": 38,
+  "width": 0,
+  "length": 0,
+  "height": 0,
+  "material": "100% Organic Cotton",
+  "re-runner": true,
+  "wholesalePriceGBP": 45,
+  "heelHeight": 0,
+  "name": "F6832_099_Shirt",
+  "inclusive": true,
+  "styleId": "F6832_099",
+  "assets1": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6832_6479_099.png",
+  "assets2": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6832_99_1.png",
+  "PRODUCT_GROUP": "Shirt",
+  "retailPriceGBP": 125,
+  "programName": "Cotton Poplin",
+  "hip": 0,
+  "assets4": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_104_0001.jpg",
+  "assets5": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/GANNI_22.1 COLLECTION_ECOMVIDEO38.mov",
+  "assets6": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_104_0059.jpg",
+  "responsible": true,
+  "wholesalePriceEUR": 52,
+  "weight": 49130,
+  "wholesalePriceDKK": 357,
+  "groupId": "drop-1",
+  "wholesalePriceUSD": 69,
+  "bottomWidth": 53,
+  "filters": [
+    "rtw2"
+  ],
+  "sizeRange": "32, 34, 36, 38, 40, 42, 44, 46, 48, 50, 52",
+  "retailPriceEUR": 145,
+  "retailPriceDKK": 999,
+  "colorId": 99
+}

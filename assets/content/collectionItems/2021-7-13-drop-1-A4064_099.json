@@ -1,1 +1,45 @@
-{"styleId":"A4064_099","name":"A4064_099_Scrunchie","program":6478,"programName":"Viscose Jacquard","material":"54% Acetate 46% Viscose","groupId":"drop-1","colorNames":"Black","colorId":99,"responsible":true,"weight":49730,"sizeRange":"ONE SIZE","chest":0,"waist":0,"hip":0,"bottomWidth":0,"totalLenght":0,"inseamLenght":0,"sleeveLenght":0,"height":0,"length":0,"width":0,"heelHeight":0,"wholesalePriceDKK":60,"wholesalePriceEUR":8,"wholesalePriceUSD":11,"wholesalePriceGBP":8,"retailPriceDKK":149,"retailPriceEUR":20,"retailPriceUSD":25,"retailPriceGBP":20,"retailRMB":195,"filters":["acc2"],"PRODUCT_GROUP":"Scrunchie","assets1":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4064_6478_099.png","inclusive":true,"re-runner":true,"assets":["https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4064_6478_099.png"]}
+{
+  "waist": 0,
+  "retailPriceUSD": 25,
+  "inseamLenght": 0,
+  "chest": 0,
+  "totalLenght": 0,
+  "assets": [
+    [
+      "https://res.cloudinary.com/dd6fpxydm/image/upload/v1629039295/22.1/PACKSHOTS/A4064_6478_99.png"
+    ]
+  ],
+  "retailRMB": 195,
+  "program": 6478,
+  "colorNames": "Black",
+  "sleeveLenght": 0,
+  "width": 0,
+  "length": 0,
+  "height": 0,
+  "material": "54% Acetate 46% Viscose",
+  "re-runner": true,
+  "wholesalePriceGBP": 8,
+  "heelHeight": 0,
+  "name": "A4064_099_Scrunchie",
+  "inclusive": true,
+  "styleId": "A4064_099",
+  "assets1": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4064_6478_099.png",
+  "PRODUCT_GROUP": "Scrunchie",
+  "retailPriceGBP": 20,
+  "programName": "Viscose Jacquard",
+  "hip": 0,
+  "responsible": true,
+  "wholesalePriceEUR": 8,
+  "weight": 49730,
+  "wholesalePriceDKK": 60,
+  "groupId": "drop-1",
+  "wholesalePriceUSD": 11,
+  "bottomWidth": 0,
+  "filters": [
+    "acc2"
+  ],
+  "sizeRange": "ONE SIZE",
+  "retailPriceEUR": 20,
+  "retailPriceDKK": 149,
+  "colorId": 99
+}

@@ -1,1 +1,55 @@
-{"styleId":"F6807_177","name":"F6807_177_Coat","program":6470,"programName":"Heavy Twill","material":"100% Recycled Polyester","groupId":"drop-1","colorNames":"Tiger's Eye","colorId":177,"responsible":true,"weight":47430,"sizeRange":"XXS/XS, S/M, L/XL","chest":124,"waist":0,"hip":0,"bottomWidth":80,"totalLenght":91,"inseamLenght":0,"sleeveLenght":52,"height":0,"length":0,"width":0,"heelHeight":0,"wholesalePriceDKK":1000,"wholesalePriceEUR":138,"wholesalePriceUSD":178,"wholesalePriceGBP":130,"retailPriceDKK":2499,"retailPriceEUR":345,"retailPriceUSD":425,"retailPriceGBP":325,"retailRMB":3295,"filters":["rtw11","rtw12"],"PRODUCT_GROUP":"Coat","assets1":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6807_6470_177.png","assets2":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6807_6470_177_1.png","assets4":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_61_0047.jpg","assets5":"https://res.cloudinary.com/dd6fpxydm/video/upload/v1628679459/22.1/ECOM/GANNI_22.1_COLLECTION_ECOMVIDEO98.mov","assets6":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_61_0019.jpg","inclusive":true,"re-runner":true,"assets":["https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6807_6470_177.png","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6807_6470_177_1.png","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_61_0047.jpg","https://res.cloudinary.com/dd6fpxydm/video/upload/v1628679459/22.1/ECOM/GANNI_22.1_COLLECTION_ECOMVIDEO98.mov","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_61_0019.jpg"]}
+{
+  "waist": 0,
+  "retailPriceUSD": 425,
+  "inseamLenght": 0,
+  "chest": 124,
+  "totalLenght": 91,
+  "assets": [
+    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6807_6470_177.png",
+    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_61_0019.jpg",
+    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6807_6470_177_1.png",
+    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_61_0047.jpg",
+    "https://res.cloudinary.com/dd6fpxydm/video/upload/v1628679459/22.1/ECOM/GANNI_22.1_COLLECTION_ECOMVIDEO98.mov",
+    [
+      "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628876457/22.1/COMMERCIAL/GANNI_SS22_COMMERCIAL_BTS_LANA_OHRIMENKO_HIGHRES_11.jpg"
+    ]
+  ],
+  "retailRMB": 3295,
+  "program": 6470,
+  "colorNames": "Tiger's Eye",
+  "sleeveLenght": 52,
+  "width": 0,
+  "length": 0,
+  "height": 0,
+  "material": "100% Recycled Polyester",
+  "re-runner": true,
+  "wholesalePriceGBP": 130,
+  "heelHeight": 0,
+  "name": "F6807_177_Coat",
+  "inclusive": true,
+  "styleId": "F6807_177",
+  "assets1": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6807_6470_177.png",
+  "assets2": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6807_6470_177_1.png",
+  "PRODUCT_GROUP": "Coat",
+  "retailPriceGBP": 325,
+  "programName": "Heavy Twill",
+  "hip": 0,
+  "assets4": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_61_0047.jpg",
+  "assets5": "https://res.cloudinary.com/dd6fpxydm/video/upload/v1628679459/22.1/ECOM/GANNI_22.1_COLLECTION_ECOMVIDEO98.mov",
+  "assets6": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_61_0019.jpg",
+  "responsible": true,
+  "wholesalePriceEUR": 138,
+  "weight": 47430,
+  "wholesalePriceDKK": 1000,
+  "groupId": "drop-1",
+  "wholesalePriceUSD": 178,
+  "bottomWidth": 80,
+  "filters": [
+    "rtw11",
+    "rtw12"
+  ],
+  "sizeRange": "XXS/XS, S/M, L/XL",
+  "retailPriceEUR": 345,
+  "retailPriceDKK": 2499,
+  "colorId": 177
+}
