@@ -6,13 +6,10 @@
   "totalLenght": 0,
   "assets": [
     "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/S1763_4898_135.png",
-    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_40_0001.jpg",
     "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/S1763_4898_135_1.png",
     [
       "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628685939/22.1/PACKSHOTS/S1763_4898_135_3.png"
-    ],
-    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_40_0020.jpg",
-    "https://res.cloudinary.com/dd6fpxydm/video/upload/v1628679459/22.1/ECOM/GANNI_22.1_COLLECTION_ECOMVIDEO24.mov"
+    ]
   ],
   "retailRMB": 3595,
   "program": 4898,
