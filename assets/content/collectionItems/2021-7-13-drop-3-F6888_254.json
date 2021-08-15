@@ -1,1 +1,47 @@
-{"styleId":"F6888_254","name":"F6888_254_Top / Blouse","program":6487,"programName":"Sheer Voile","material":"85% Tencel, 15% Polyester","groupId":"drop-3","colorNames":"Iridescent Forest","colorId":254,"responsible":true,"weight":49420,"sizeRange":"32, 34, 36, 38, 40, 42, 44, 46, 48, 50, 52","chest":96,"waist":0,"hip":0,"bottomWidth":51.5,"totalLenght":63,"inseamLenght":0,"sleeveLenght":37,"height":0,"length":0,"width":0,"heelHeight":0,"wholesalePriceDKK":500,"wholesalePriceEUR":74,"wholesalePriceUSD":98,"wholesalePriceGBP":63,"retailPriceDKK":1399,"retailPriceEUR":195,"retailPriceUSD":235,"retailPriceGBP":175,"retailRMB":1895,"filters":["rtw2"],"PRODUCT_GROUP":"Top / Blouse","assets1":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6888_6487_254.png","assets2":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6888_6487_254_1.png","assets4":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_96_0016.jpg","inclusive":true,"re-runner":true,"assets":["https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6888_6487_254.png","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6888_6487_254_1.png","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_96_0016.jpg"]}
+{
+  "waist": 0,
+  "retailPriceUSD": 235,
+  "inseamLenght": 0,
+  "chest": 96,
+  "totalLenght": 63,
+  "assets": [
+    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6888_6487_254.png",
+    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_96_0016.jpg",
+    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6888_6487_254_1.png"
+  ],
+  "retailRMB": 1895,
+  "program": 6487,
+  "colorNames": "Iridescent Forest",
+  "sleeveLenght": 37,
+  "width": 0,
+  "length": 0,
+  "height": 0,
+  "material": "85% Tencel, 15% Polyester",
+  "re-runner": true,
+  "wholesalePriceGBP": 63,
+  "heelHeight": 0,
+  "name": "F6888_254_Top / Blouse",
+  "inclusive": true,
+  "styleId": "F6888_254",
+  "assets1": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6888_6487_254.png",
+  "assets2": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6888_6487_254_1.png",
+  "PRODUCT_GROUP": "Top / Blouse",
+  "retailPriceGBP": 175,
+  "programName": "Sheer Voile",
+  "hip": 0,
+  "assets4": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_96_0016.jpg",
+  "responsible": true,
+  "wholesalePriceEUR": 74,
+  "weight": 49420,
+  "wholesalePriceDKK": 500,
+  "groupId": "drop-3",
+  "wholesalePriceUSD": 98,
+  "bottomWidth": 51.5,
+  "filters": [
+    "rtw2"
+  ],
+  "sizeRange": "32, 34, 36, 38, 40, 42, 44, 46, 48, 50, 52",
+  "retailPriceEUR": 195,
+  "retailPriceDKK": 1399,
+  "colorId": 254
+}
