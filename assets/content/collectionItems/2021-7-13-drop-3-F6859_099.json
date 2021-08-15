@@ -1,1 +1,55 @@
-{"styleId":"F6859_099","name":"F6859_099_Maxi Dress","program":6468,"programName":"Broderie Anglaise","material":"100% Organic Cotton","groupId":"drop-3","colorNames":"Black","colorId":99,"responsible":true,"weight":48920,"sizeRange":"32, 34, 36, 38, 40, 42, 44","chest":103,"waist":0,"hip":0,"bottomWidth":55,"totalLenght":126.5,"inseamLenght":0,"sleeveLenght":34.5,"height":0,"length":0,"width":0,"heelHeight":0,"wholesalePriceDKK":964,"wholesalePriceEUR":134,"wholesalePriceUSD":186,"wholesalePriceGBP":124,"retailPriceDKK":2699,"retailPriceEUR":375,"retailPriceUSD":445,"retailPriceGBP":345,"retailRMB":3595,"filters":["rtw1"],"PRODUCT_GROUP":"Maxi Dress","assets1":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6859_6468_099.png","assets2":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6859_99_1.png","assets4":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_45_0037.jpg","assets5":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/GANNI_22.1 COLLECTION_ECOMVIDEO210.mov","assets6":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_45_0003.jpg","inclusive":true,"re-runner":true,"assets":["https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6859_6468_099.png","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6859_99_1.png","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_45_0037.jpg","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/GANNI_22.1 COLLECTION_ECOMVIDEO210.mov","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_45_0003.jpg"]}
+{
+  "waist": 0,
+  "retailPriceUSD": 445,
+  "inseamLenght": 0,
+  "chest": 103,
+  "totalLenght": 126.5,
+  "assets": [
+    [
+      "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628884781/22.1/PACKSHOTS/F6859_6468_99.png"
+    ],
+    [
+      "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628884784/22.1/PACKSHOTS/F6859_6468_99_1.png"
+    ],
+    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_45_0037.jpg",
+    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/GANNI_22.1 COLLECTION_ECOMVIDEO210.mov",
+    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_45_0003.jpg"
+  ],
+  "retailRMB": 3595,
+  "program": 6468,
+  "colorNames": "Black",
+  "sleeveLenght": 34.5,
+  "width": 0,
+  "length": 0,
+  "height": 0,
+  "material": "100% Organic Cotton",
+  "re-runner": true,
+  "wholesalePriceGBP": 124,
+  "heelHeight": 0,
+  "name": "F6859_099_Maxi Dress",
+  "inclusive": true,
+  "styleId": "F6859_099",
+  "assets1": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6859_6468_099.png",
+  "assets2": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6859_99_1.png",
+  "PRODUCT_GROUP": "Maxi Dress",
+  "retailPriceGBP": 345,
+  "programName": "Broderie Anglaise",
+  "hip": 0,
+  "assets4": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_45_0037.jpg",
+  "assets5": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/GANNI_22.1 COLLECTION_ECOMVIDEO210.mov",
+  "assets6": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_45_0003.jpg",
+  "responsible": true,
+  "wholesalePriceEUR": 134,
+  "weight": 48920,
+  "wholesalePriceDKK": 964,
+  "groupId": "drop-3",
+  "wholesalePriceUSD": 186,
+  "bottomWidth": 55,
+  "filters": [
+    "rtw1"
+  ],
+  "sizeRange": "32, 34, 36, 38, 40, 42, 44",
+  "retailPriceEUR": 375,
+  "retailPriceDKK": 2699,
+  "colorId": 99
+}
