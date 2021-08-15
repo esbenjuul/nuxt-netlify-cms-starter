@@ -1,1 +1,55 @@
-{"styleId":"A4044_099","name":"A4044_099_Bikini Bottom","program":5808,"programName":"Recycled Solid Core","material":"78% Recycled Polyamide, 22% Elastane","groupId":"drop-swim","colorNames":"Black","colorId":99,"responsible":true,"weight":46160,"sizeRange":"32, 34, 36, 38, 40, 42, 44","chest":0,"waist":56,"hip":0,"bottomWidth":0,"totalLenght":23,"inseamLenght":0,"sleeveLenght":0,"height":0,"length":0,"width":0,"heelHeight":0,"wholesalePriceDKK":240,"wholesalePriceEUR":34,"wholesalePriceUSD":44,"wholesalePriceGBP":30,"retailPriceDKK":599,"retailPriceEUR":85,"retailPriceUSD":95,"retailPriceGBP":75,"retailRMB":795,"filters":["rtw14"],"PRODUCT_GROUP":"Bikini Bottom","assets1":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4044_5808_099.png","assets2":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4044_99_1.png","assets4":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_76_0010.jpg","assets5":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/GANNI_22.1 COLLECTION_ECOMVIDEO18.mov","assets6":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_76_0038.jpg","inclusive":true,"re-runner":true,"assets":["https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4044_5808_099.png","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4044_99_1.png","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_76_0010.jpg","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/GANNI_22.1 COLLECTION_ECOMVIDEO18.mov","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_76_0038.jpg"]}
+{
+  "waist": 56,
+  "retailPriceUSD": 95,
+  "inseamLenght": 0,
+  "chest": 0,
+  "totalLenght": 23,
+  "assets": [
+    [
+      "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628685893/22.1/PACKSHOTS/A4044_5808_99.png"
+    ],
+    [
+      "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628685893/22.1/PACKSHOTS/A4044_5808_99_1.png"
+    ],
+    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_76_0010.jpg",
+    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/GANNI_22.1 COLLECTION_ECOMVIDEO18.mov",
+    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_76_0038.jpg"
+  ],
+  "retailRMB": 795,
+  "program": 5808,
+  "colorNames": "Black",
+  "sleeveLenght": 0,
+  "width": 0,
+  "length": 0,
+  "height": 0,
+  "material": "78% Recycled Polyamide, 22% Elastane",
+  "re-runner": true,
+  "wholesalePriceGBP": 30,
+  "heelHeight": 0,
+  "name": "A4044_099_Bikini Bottom",
+  "inclusive": true,
+  "styleId": "A4044_099",
+  "assets1": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4044_5808_099.png",
+  "assets2": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4044_99_1.png",
+  "PRODUCT_GROUP": "Bikini Bottom",
+  "retailPriceGBP": 75,
+  "programName": "Recycled Solid Core",
+  "hip": 0,
+  "assets4": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_76_0010.jpg",
+  "assets5": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/GANNI_22.1 COLLECTION_ECOMVIDEO18.mov",
+  "assets6": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_76_0038.jpg",
+  "responsible": true,
+  "wholesalePriceEUR": 34,
+  "weight": 46160,
+  "wholesalePriceDKK": 240,
+  "groupId": "drop-swim",
+  "wholesalePriceUSD": 44,
+  "bottomWidth": 0,
+  "filters": [
+    "rtw14"
+  ],
+  "sizeRange": "32, 34, 36, 38, 40, 42, 44",
+  "retailPriceEUR": 85,
+  "retailPriceDKK": 599,
+  "colorId": 99
+}
