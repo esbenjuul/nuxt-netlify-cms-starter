@@ -1,1 +1,53 @@
-{"styleId":"F6820_428","name":"F6820_428_Midi Dress","program":6465,"programName":"Hemp","material":"100% Hemp","groupId":"drop-1","colorNames":"Light Lilac","colorId":428,"responsible":true,"weight":49890,"sizeRange":"32, 34, 36, 38, 40, 42, 44","chest":92,"waist":92,"hip":0,"bottomWidth":55,"totalLenght":118,"inseamLenght":0,"sleeveLenght":77,"height":0,"length":0,"width":0,"heelHeight":0,"wholesalePriceDKK":893,"wholesalePriceEUR":124,"wholesalePriceUSD":178,"wholesalePriceGBP":117,"retailPriceDKK":2499,"retailPriceEUR":345,"retailPriceUSD":425,"retailPriceGBP":325,"retailRMB":3295,"filters":["rtw1"],"PRODUCT_GROUP":"Midi Dress","assets1":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6820_6465_428.png","assets2":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6820_6465_428_1.png","assets4":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_46_0024.jpg","assets5":"https://res.cloudinary.com/dd6fpxydm/video/upload/v1628679459/22.1/ECOM/GANNI_22.1_COLLECTION_ECOMVIDEO112.mov","assets6":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_46_0038.jpg","inclusive":true,"re-runner":true,"assets":["https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6820_6465_428.png","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6820_6465_428_1.png","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_46_0024.jpg","https://res.cloudinary.com/dd6fpxydm/video/upload/v1628679459/22.1/ECOM/GANNI_22.1_COLLECTION_ECOMVIDEO112.mov","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_46_0038.jpg"]}
+{
+  "waist": 92,
+  "retailPriceUSD": 425,
+  "inseamLenght": 0,
+  "chest": 92,
+  "totalLenght": 118,
+  "assets": [
+    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6820_6465_428.png",
+    [
+      "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628884773/22.1/PACKSHOTS/F6820_6465_428_2.png"
+    ],
+    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_46_0024.jpg",
+    "https://res.cloudinary.com/dd6fpxydm/video/upload/v1628679459/22.1/ECOM/GANNI_22.1_COLLECTION_ECOMVIDEO112.mov",
+    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_46_0038.jpg"
+  ],
+  "retailRMB": 3295,
+  "program": 6465,
+  "colorNames": "Light Lilac",
+  "sleeveLenght": 77,
+  "width": 0,
+  "length": 0,
+  "height": 0,
+  "material": "100% Hemp",
+  "re-runner": true,
+  "wholesalePriceGBP": 117,
+  "heelHeight": 0,
+  "name": "F6820_428_Midi Dress",
+  "inclusive": true,
+  "styleId": "F6820_428",
+  "assets1": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6820_6465_428.png",
+  "assets2": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6820_6465_428_1.png",
+  "PRODUCT_GROUP": "Midi Dress",
+  "retailPriceGBP": 325,
+  "programName": "Hemp",
+  "hip": 0,
+  "assets4": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_46_0024.jpg",
+  "assets5": "https://res.cloudinary.com/dd6fpxydm/video/upload/v1628679459/22.1/ECOM/GANNI_22.1_COLLECTION_ECOMVIDEO112.mov",
+  "assets6": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_46_0038.jpg",
+  "responsible": true,
+  "wholesalePriceEUR": 124,
+  "weight": 49890,
+  "wholesalePriceDKK": 893,
+  "groupId": "drop-1",
+  "wholesalePriceUSD": 178,
+  "bottomWidth": 55,
+  "filters": [
+    "rtw1"
+  ],
+  "sizeRange": "32, 34, 36, 38, 40, 42, 44",
+  "retailPriceEUR": 345,
+  "retailPriceDKK": 2499,
+  "colorId": 428
+}
