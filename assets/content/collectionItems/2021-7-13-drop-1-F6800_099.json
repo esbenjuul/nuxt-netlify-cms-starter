@@ -1,1 +1,58 @@
-{"styleId":"F6800_099","name":"F6800_099_Shirt","program":6478,"programName":"Viscose Jacquard","material":"54% Acetate 46% Viscose","groupId":"drop-1","colorNames":"Black","colorId":99,"responsible":true,"weight":49710,"sizeRange":"XXS/XS, S/M, L/XL","chest":132,"waist":0,"hip":0,"bottomWidth":71,"totalLenght":78,"inseamLenght":0,"sleeveLenght":73.5,"height":0,"length":0,"width":0,"heelHeight":0,"wholesalePriceDKK":785,"wholesalePriceEUR":109,"wholesalePriceUSD":157,"wholesalePriceGBP":99,"retailPriceDKK":2199,"retailPriceEUR":295,"retailPriceUSD":375,"retailPriceGBP":275,"retailRMB":2895,"filters":["rtw2","rtw12"],"PRODUCT_GROUP":"Shirt","assets1":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6800_6478_099.png","assets2":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6800_99_1.png","assets4":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_96_0035.jpg","assets5":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/GANNI_22.1 COLLECTION_ECOMVIDEO136.mov","assets6":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_98_0032.jpg","inclusive":true,"re-runner":true,"assets":["https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6800_6478_099.png","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6800_99_1.png","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_96_0035.jpg","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/GANNI_22.1 COLLECTION_ECOMVIDEO136.mov","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_98_0032.jpg"]}
+{
+  "waist": 0,
+  "retailPriceUSD": 375,
+  "inseamLenght": 0,
+  "chest": 132,
+  "totalLenght": 78,
+  "assets": [
+    [
+      "https://res.cloudinary.com/dd6fpxydm/image/upload/v1629040290/22.1/PACKSHOTS/F6800_6478_099.png"
+    ],
+    [
+      "https://res.cloudinary.com/dd6fpxydm/image/upload/v1629040281/22.1/PACKSHOTS/F6800_6478_099_1.png"
+    ],
+    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_96_0035.jpg",
+    [
+      "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628684162/22.1/ECOM/210728_GANNI_ECOM_112_0027.jpg"
+    ],
+    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_98_0032.jpg"
+  ],
+  "retailRMB": 2895,
+  "program": 6478,
+  "colorNames": "Black",
+  "sleeveLenght": 73.5,
+  "width": 0,
+  "length": 0,
+  "height": 0,
+  "material": "54% Acetate 46% Viscose",
+  "re-runner": true,
+  "wholesalePriceGBP": 99,
+  "heelHeight": 0,
+  "name": "F6800_099_Shirt",
+  "inclusive": true,
+  "styleId": "F6800_099",
+  "assets1": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6800_6478_099.png",
+  "assets2": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6800_99_1.png",
+  "PRODUCT_GROUP": "Shirt",
+  "retailPriceGBP": 275,
+  "programName": "Viscose Jacquard",
+  "hip": 0,
+  "assets4": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_96_0035.jpg",
+  "assets5": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/GANNI_22.1 COLLECTION_ECOMVIDEO136.mov",
+  "assets6": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_98_0032.jpg",
+  "responsible": true,
+  "wholesalePriceEUR": 109,
+  "weight": 49710,
+  "wholesalePriceDKK": 785,
+  "groupId": "drop-1",
+  "wholesalePriceUSD": 157,
+  "bottomWidth": 71,
+  "filters": [
+    "rtw2",
+    "rtw12"
+  ],
+  "sizeRange": "XXS/XS, S/M, L/XL",
+  "retailPriceEUR": 295,
+  "retailPriceDKK": 2199,
+  "colorId": 99
+}
