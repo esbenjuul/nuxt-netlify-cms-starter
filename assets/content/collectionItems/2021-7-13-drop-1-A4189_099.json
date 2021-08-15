@@ -1,1 +1,57 @@
-{"styleId":"A4189_099","name":"A4189_099_Leather Small Bag","program":5825,"programName":"Banner","material":"100% Recycled Leather","groupId":"drop-1","colorNames":"Black","colorId":99,"responsible":true,"weight":44890,"sizeRange":"ONE SIZE","chest":0,"waist":0,"hip":0,"bottomWidth":0,"totalLenght":0,"inseamLenght":0,"sleeveLenght":0,"height":15,"length":0,"width":0,"heelHeight":0,"wholesalePriceDKK":680,"wholesalePriceEUR":98,"wholesalePriceUSD":119,"wholesalePriceGBP":86,"retailPriceDKK":1699,"retailPriceEUR":245,"retailPriceUSD":285,"retailPriceGBP":215,"retailRMB":2295,"filters":["acc1"],"PRODUCT_GROUP":"Leather Small Bag","assets1":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4189_5825_099.png","assets2":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4189_99_1.png","assets3":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4189_099_2.png","assets4":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_115_0038.jpg","assets5":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/GANNI_22.1 COLLECTION_ECOMVIDEO175.mov","inclusive":true,"re-runner":true,"assets":["https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4189_5825_099.png","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4189_99_1.png","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4189_099_2.png","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_115_0038.jpg","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/GANNI_22.1 COLLECTION_ECOMVIDEO175.mov"]}
+{
+  "waist": 0,
+  "retailPriceUSD": 285,
+  "inseamLenght": 0,
+  "chest": 0,
+  "totalLenght": 0,
+  "assets": [
+    [
+      "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628685898/22.1/PACKSHOTS/A4189_5825_99.png"
+    ],
+    [
+      "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628685908/22.1/PACKSHOTS/A4189_5825_99_3.png"
+    ],
+    [
+      "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628685942/22.1/PACKSHOTS/A4189_5825_99_2.png"
+    ],
+    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_115_0038.jpg",
+    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/GANNI_22.1 COLLECTION_ECOMVIDEO175.mov"
+  ],
+  "retailRMB": 2295,
+  "program": 5825,
+  "colorNames": "Black",
+  "sleeveLenght": 0,
+  "width": 0,
+  "length": 0,
+  "height": 15,
+  "material": "100% Recycled Leather",
+  "re-runner": true,
+  "wholesalePriceGBP": 86,
+  "heelHeight": 0,
+  "name": "A4189_099_Leather Small Bag",
+  "inclusive": true,
+  "styleId": "A4189_099",
+  "assets1": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4189_5825_099.png",
+  "assets2": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4189_99_1.png",
+  "PRODUCT_GROUP": "Leather Small Bag",
+  "retailPriceGBP": 215,
+  "programName": "Banner",
+  "hip": 0,
+  "assets3": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4189_099_2.png",
+  "assets4": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_115_0038.jpg",
+  "assets5": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/GANNI_22.1 COLLECTION_ECOMVIDEO175.mov",
+  "responsible": true,
+  "wholesalePriceEUR": 98,
+  "weight": 44890,
+  "wholesalePriceDKK": 680,
+  "groupId": "drop-1",
+  "wholesalePriceUSD": 119,
+  "bottomWidth": 0,
+  "filters": [
+    "acc1"
+  ],
+  "sizeRange": "ONE SIZE",
+  "retailPriceEUR": 245,
+  "retailPriceDKK": 1699,
+  "colorId": 99
+}
