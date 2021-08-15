@@ -1,1 +1,49 @@
-{"styleId":"A4246_436","name":"A4246_436_Wallet","program":5825,"programName":"Banner","material":"100% Recycled Leather","groupId":"drop-1","colorNames":"Burgundy","colorId":436,"responsible":true,"weight":44790,"sizeRange":"ONE SIZE","chest":0,"waist":0,"hip":0,"bottomWidth":0,"totalLenght":0,"inseamLenght":0,"sleeveLenght":0,"height":10,"length":10,"width":0,"heelHeight":0,"wholesalePriceDKK":120,"wholesalePriceEUR":18,"wholesalePriceUSD":21,"wholesalePriceGBP":16,"retailPriceDKK":299,"retailPriceEUR":45,"retailPriceUSD":50,"retailPriceGBP":40,"retailRMB":395,"filters":["acc3"],"PRODUCT_GROUP":"Wallet","assets1":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4246_5825_436.png","assets4":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_20_0044.jpg","assets5":"https://res.cloudinary.com/dd6fpxydm/video/upload/v1628679459/22.1/ECOM/GANNI_22.1_COLLECTION_ECOMVIDEO200.mov","inclusive":true,"re-runner":true,"assets":["https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4246_5825_436.png","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_20_0044.jpg","https://res.cloudinary.com/dd6fpxydm/video/upload/v1628679459/22.1/ECOM/GANNI_22.1_COLLECTION_ECOMVIDEO200.mov"]}
+{
+  "waist": 0,
+  "retailPriceUSD": 50,
+  "inseamLenght": 0,
+  "chest": 0,
+  "totalLenght": 0,
+  "assets": [
+    [
+      "https://res.cloudinary.com/dd6fpxydm/image/upload/v1629040267/22.1/PACKSHOTS/A4246_5835_436.png"
+    ],
+    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_20_0044.jpg",
+    "https://res.cloudinary.com/dd6fpxydm/video/upload/v1628679459/22.1/ECOM/GANNI_22.1_COLLECTION_ECOMVIDEO200.mov"
+  ],
+  "retailRMB": 395,
+  "program": 5825,
+  "colorNames": "Burgundy",
+  "sleeveLenght": 0,
+  "width": 0,
+  "length": 10,
+  "height": 10,
+  "material": "100% Recycled Leather",
+  "re-runner": true,
+  "wholesalePriceGBP": 16,
+  "heelHeight": 0,
+  "name": "A4246_436_Wallet",
+  "inclusive": true,
+  "styleId": "A4246_436",
+  "assets1": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4246_5825_436.png",
+  "PRODUCT_GROUP": "Wallet",
+  "retailPriceGBP": 40,
+  "programName": "Banner",
+  "hip": 0,
+  "assets4": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_20_0044.jpg",
+  "assets5": "https://res.cloudinary.com/dd6fpxydm/video/upload/v1628679459/22.1/ECOM/GANNI_22.1_COLLECTION_ECOMVIDEO200.mov",
+  "responsible": true,
+  "wholesalePriceEUR": 18,
+  "weight": 44790,
+  "wholesalePriceDKK": 120,
+  "groupId": "drop-1",
+  "wholesalePriceUSD": 21,
+  "bottomWidth": 0,
+  "filters": [
+    "acc3"
+  ],
+  "sizeRange": "ONE SIZE",
+  "retailPriceEUR": 45,
+  "retailPriceDKK": 299,
+  "colorId": 436
+}
