@@ -1,1 +1,44 @@
-{"styleId":"T3107_794","name":"T3107_794_Bodystocking","program":3589,"programName":"Melange Intimates","material":"100% Recycled Polyester","groupId":"drop-1","colorNames":"Sulphur Spring","colorId":794,"responsible":true,"weight":48800,"sizeRange":"XXS, XS, S, M, L, XL","chest":80,"waist":68,"hip":80,"bottomWidth":0,"totalLenght":70.5,"inseamLenght":0,"sleeveLenght":0,"height":0,"length":0,"width":0,"heelHeight":0,"wholesalePriceDKK":360,"wholesalePriceEUR":50,"wholesalePriceUSD":65,"wholesalePriceGBP":46,"retailPriceDKK":899,"retailPriceEUR":125,"retailPriceUSD":155,"retailPriceGBP":115,"retailRMB":1195,"filters":["rtw2"],"PRODUCT_GROUP":"Bodystocking","assets1":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/T3107_3589_794.png","assets2":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/T3107_3589_794_1.png","inclusive":true,"re-runner":true,"assets":["https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/T3107_3589_794.png","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/T3107_3589_794_1.png"]}
+{
+  "waist": 68,
+  "retailPriceUSD": 155,
+  "inseamLenght": 0,
+  "chest": 80,
+  "totalLenght": 70.5,
+  "assets": [
+    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/T3107_3589_794.png"
+  ],
+  "retailRMB": 1195,
+  "program": 3589,
+  "colorNames": "Sulphur Spring",
+  "sleeveLenght": 0,
+  "width": 0,
+  "length": 0,
+  "height": 0,
+  "material": "100% Recycled Polyester",
+  "re-runner": true,
+  "wholesalePriceGBP": 46,
+  "heelHeight": 0,
+  "name": "T3107_794_Bodystocking",
+  "inclusive": true,
+  "styleId": "T3107_794",
+  "assets1": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/T3107_3589_794.png",
+  "assets2": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/T3107_3589_794_1.png",
+  "PRODUCT_GROUP": "Bodystocking",
+  "retailPriceGBP": 115,
+  "programName": "Melange Intimates",
+  "hip": 80,
+  "responsible": true,
+  "wholesalePriceEUR": 50,
+  "weight": 48800,
+  "wholesalePriceDKK": 360,
+  "groupId": "drop-1",
+  "wholesalePriceUSD": 65,
+  "bottomWidth": 0,
+  "filters": [
+    "rtw2"
+  ],
+  "sizeRange": "XXS, XS, S, M, L, XL",
+  "retailPriceEUR": 125,
+  "retailPriceDKK": 899,
+  "colorId": 794
+}
