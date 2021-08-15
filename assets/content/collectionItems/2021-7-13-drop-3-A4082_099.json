@@ -1,1 +1,45 @@
-{"styleId":"A4082_099","name":"A4082_099_Collar","program":6468,"programName":"Broderie Anglaise","material":"100% Organic Cotton","groupId":"drop-3","colorNames":"Black","colorId":99,"responsible":true,"weight":48950,"sizeRange":"ONE SIZE","chest":0,"waist":0,"hip":0,"bottomWidth":0,"totalLenght":0,"inseamLenght":0,"sleeveLenght":0,"height":0,"length":0,"width":0,"heelHeight":0,"wholesalePriceDKK":200,"wholesalePriceEUR":30,"wholesalePriceUSD":36,"wholesalePriceGBP":26,"retailPriceDKK":499,"retailPriceEUR":75,"retailPriceUSD":85,"retailPriceGBP":65,"retailRMB":675,"filters":["acc2"],"PRODUCT_GROUP":"Collar","assets1":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4082_6468_099.png","inclusive":true,"re-runner":true,"assets":["https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4082_6468_099.png"]}
+{
+  "waist": 0,
+  "retailPriceUSD": 85,
+  "inseamLenght": 0,
+  "chest": 0,
+  "totalLenght": 0,
+  "assets": [
+    [
+      "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628685893/22.1/PACKSHOTS/A4082_6468_99.png"
+    ]
+  ],
+  "retailRMB": 675,
+  "program": 6468,
+  "colorNames": "Black",
+  "sleeveLenght": 0,
+  "width": 0,
+  "length": 0,
+  "height": 0,
+  "material": "100% Organic Cotton",
+  "re-runner": true,
+  "wholesalePriceGBP": 26,
+  "heelHeight": 0,
+  "name": "A4082_099_Collar",
+  "inclusive": true,
+  "styleId": "A4082_099",
+  "assets1": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4082_6468_099.png",
+  "PRODUCT_GROUP": "Collar",
+  "retailPriceGBP": 65,
+  "programName": "Broderie Anglaise",
+  "hip": 0,
+  "responsible": true,
+  "wholesalePriceEUR": 30,
+  "weight": 48950,
+  "wholesalePriceDKK": 200,
+  "groupId": "drop-3",
+  "wholesalePriceUSD": 36,
+  "bottomWidth": 0,
+  "filters": [
+    "acc2"
+  ],
+  "sizeRange": "ONE SIZE",
+  "retailPriceEUR": 75,
+  "retailPriceDKK": 499,
+  "colorId": 99
+}
