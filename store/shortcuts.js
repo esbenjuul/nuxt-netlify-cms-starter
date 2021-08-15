@@ -42,14 +42,14 @@ export const state = () => ({
 		{
 			type: ShortcutTypes.WINDOW,
 			shortcutId: 'lookbook',
-			label: 'PS22 LookBook'
+			label: 'SS22 LookBook'
 		},
 
 		{
 			type: ShortcutTypes.WINDOW,
 			shortcutId: 'collection',
 			icon: '/img/shortcuts/ps21.png',
-			label: 'PS22 Collection',
+			label: 'SS22 Collection',
 			actions: [
 				{
 					name: 'collection/' + SET_GROUP_BY_INDEX.action,
@@ -63,7 +63,7 @@ export const state = () => ({
 			],
 			windowContent: [
 				{
-					title: 'PS22 collection',
+					title: 'SS22 collection',
 					contentId: 'collection',
 					type: ContentTypes.collection,
 					canOverride: true,
