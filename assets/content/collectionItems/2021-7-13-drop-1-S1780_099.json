@@ -1,1 +1,60 @@
-{"styleId":"S1780_099","name":"S1780_099_Flats / Loafers","program":4902,"programName":"Recycled Rubber","material":"50% Recycled Rubber 50% Rubber","groupId":"drop-1","colorNames":"Black","colorId":99,"responsible":true,"weight":45590,"sizeRange":"35, 36, 37, 38, 39, 40, 41, 42, 43, 44","chest":0,"waist":0,"hip":0,"bottomWidth":0,"totalLenght":0,"inseamLenght":0,"sleeveLenght":0,"height":0,"length":0,"width":0,"heelHeight":2.5,"wholesalePriceDKK":600,"wholesalePriceEUR":86,"wholesalePriceUSD":103,"wholesalePriceGBP":78,"retailPriceDKK":1499,"retailPriceEUR":215,"retailPriceUSD":245,"retailPriceGBP":195,"retailRMB":1995,"filters":["sho3","gr1"],"PRODUCT_GROUP":"Flats / Loafers","assets1":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/S1780_4902_099.png","assets2":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/S1780_99_1.png","assets3":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/S1780_099_2.png","assets4":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_102_0014.jpg","assets5":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_25_0034.jpg","assets6":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_58_0020.jpg","inclusive":true,"re-runner":true,"assets":["https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/S1780_4902_099.png","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/S1780_99_1.png","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/S1780_099_2.png","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_102_0014.jpg","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_25_0034.jpg","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_58_0020.jpg"]}
+{
+  "waist": 0,
+  "retailPriceUSD": 245,
+  "inseamLenght": 0,
+  "chest": 0,
+  "totalLenght": 0,
+  "assets": [
+    [
+      "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628685894/22.1/PACKSHOTS/S1780_4902_99.png"
+    ],
+    [
+      "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628685894/22.1/PACKSHOTS/S1780_4902_99_1.png"
+    ],
+    [
+      "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628685901/22.1/PACKSHOTS/S1780_4902_99_3.png"
+    ],
+    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_102_0014.jpg",
+    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_25_0034.jpg",
+    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_58_0020.jpg"
+  ],
+  "retailRMB": 1995,
+  "program": 4902,
+  "colorNames": "Black",
+  "sleeveLenght": 0,
+  "width": 0,
+  "length": 0,
+  "height": 0,
+  "material": "50% Recycled Rubber 50% Rubber",
+  "re-runner": true,
+  "wholesalePriceGBP": 78,
+  "heelHeight": 2.5,
+  "name": "S1780_099_Flats / Loafers",
+  "inclusive": true,
+  "styleId": "S1780_099",
+  "assets1": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/S1780_4902_099.png",
+  "assets2": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/S1780_99_1.png",
+  "PRODUCT_GROUP": "Flats / Loafers",
+  "retailPriceGBP": 195,
+  "programName": "Recycled Rubber",
+  "hip": 0,
+  "assets3": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/S1780_099_2.png",
+  "assets4": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_102_0014.jpg",
+  "assets5": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_25_0034.jpg",
+  "assets6": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_58_0020.jpg",
+  "responsible": true,
+  "wholesalePriceEUR": 86,
+  "weight": 45590,
+  "wholesalePriceDKK": 600,
+  "groupId": "drop-1",
+  "wholesalePriceUSD": 103,
+  "bottomWidth": 0,
+  "filters": [
+    "sho3",
+    "gr1"
+  ],
+  "sizeRange": "35, 36, 37, 38, 39, 40, 41, 42, 43, 44",
+  "retailPriceEUR": 215,
+  "retailPriceDKK": 1499,
+  "colorId": 99
+}
