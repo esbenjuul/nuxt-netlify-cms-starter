@@ -1,1 +1,55 @@
-{"styleId":"T3189_201","name":"T3189_201_Long Sleeve T-Shirt","program":3578,"programName":"Light Cotton Jersey","material":"100% Organic Cotton","groupId":"drop-3","colorNames":"Rutabaga","colorId":201,"responsible":true,"weight":48850,"sizeRange":"XXS, XS, S, M, L, XL","chest":108,"waist":0,"hip":0,"bottomWidth":0,"totalLenght":70,"inseamLenght":0,"sleeveLenght":61,"height":0,"length":0,"width":0,"heelHeight":0,"wholesalePriceDKK":321,"wholesalePriceEUR":45,"wholesalePriceUSD":65,"wholesalePriceGBP":42,"retailPriceDKK":899,"retailPriceEUR":125,"retailPriceUSD":155,"retailPriceGBP":115,"retailRMB":1195,"filters":["rtw2"],"PRODUCT_GROUP":"Long Sleeve T-Shirt","assets1":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/T3189_3578_201.png","assets2":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/T3189_3578_201_1.png","assets4":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_53_0013.jpg","assets5":"https://res.cloudinary.com/dd6fpxydm/video/upload/v1628679459/22.1/ECOM/GANNI_22.1_COLLECTION_ECOMVIDEO35.mov","assets6":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_53_0032.jpg","inclusive":true,"re-runner":true,"assets":["https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/T3189_3578_201.png","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/T3189_3578_201_1.png","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_53_0013.jpg","https://res.cloudinary.com/dd6fpxydm/video/upload/v1628679459/22.1/ECOM/GANNI_22.1_COLLECTION_ECOMVIDEO35.mov","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_53_0032.jpg"]}
+{
+  "waist": 0,
+  "retailPriceUSD": 155,
+  "inseamLenght": 0,
+  "chest": 108,
+  "totalLenght": 70,
+  "assets": [
+    [
+      "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628685920/22.1/PACKSHOTS/T3189_3578__201.png"
+    ],
+    [
+      "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628685906/22.1/PACKSHOTS/T3189_3578__201_1.png"
+    ],
+    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_53_0013.jpg",
+    "https://res.cloudinary.com/dd6fpxydm/video/upload/v1628679459/22.1/ECOM/GANNI_22.1_COLLECTION_ECOMVIDEO35.mov",
+    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_53_0032.jpg"
+  ],
+  "retailRMB": 1195,
+  "program": 3578,
+  "colorNames": "Rutabaga",
+  "sleeveLenght": 61,
+  "width": 0,
+  "length": 0,
+  "height": 0,
+  "material": "100% Organic Cotton",
+  "re-runner": true,
+  "wholesalePriceGBP": 42,
+  "heelHeight": 0,
+  "name": "T3189_201_Long Sleeve T-Shirt",
+  "inclusive": true,
+  "styleId": "T3189_201",
+  "assets1": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/T3189_3578_201.png",
+  "assets2": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/T3189_3578_201_1.png",
+  "PRODUCT_GROUP": "Long Sleeve T-Shirt",
+  "retailPriceGBP": 115,
+  "programName": "Light Cotton Jersey",
+  "hip": 0,
+  "assets4": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_53_0013.jpg",
+  "assets5": "https://res.cloudinary.com/dd6fpxydm/video/upload/v1628679459/22.1/ECOM/GANNI_22.1_COLLECTION_ECOMVIDEO35.mov",
+  "assets6": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_53_0032.jpg",
+  "responsible": true,
+  "wholesalePriceEUR": 45,
+  "weight": 48850,
+  "wholesalePriceDKK": 321,
+  "groupId": "drop-3",
+  "wholesalePriceUSD": 65,
+  "bottomWidth": 0,
+  "filters": [
+    "rtw2"
+  ],
+  "sizeRange": "XXS, XS, S, M, L, XL",
+  "retailPriceEUR": 125,
+  "retailPriceDKK": 899,
+  "colorId": 201
+}
