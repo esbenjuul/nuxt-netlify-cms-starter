@@ -5,10 +5,16 @@
   "chest": 112,
   "totalLenght": 83,
   "assets": [
-    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6883_6469_099.png",
-    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6883_99_1.png",
+    [
+      "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628685932/22.1/PACKSHOTS/F6883_6469_99.png"
+    ],
     "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_113_0026.jpg",
-    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/GANNI_22.1 COLLECTION_ECOMVIDEO165.mov",
+    [
+      "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628685927/22.1/PACKSHOTS/F6883_6469_99_1.png"
+    ],
+    [
+      "https://res.cloudinary.com/dd6fpxydm/video/upload/v1628861570/22.1/ECOM/GANNI_22.1_COLLECTION_ECOMVIDEO165.mov"
+    ],
     "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_113_0001.jpg",
     [
       "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628876457/22.1/COMMERCIAL/GANNI_SS22_COMMERCIAL_BTS_LANA_OHRIMENKO_HIGHRES_12.jpg"
