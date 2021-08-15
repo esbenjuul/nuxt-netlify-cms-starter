@@ -1,1 +1,46 @@
-{"styleId":"A4259_943","name":"A4259_943_Hat","program":5801,"programName":"Coated Canvas Accessories","material":"100% Organic Cotton","groupId":"drop-2","colorNames":"Leopard","colorId":943,"responsible":true,"weight":45180,"sizeRange":"ONE SIZE","chest":0,"waist":0,"hip":0,"bottomWidth":0,"totalLenght":0,"inseamLenght":0,"sleeveLenght":0,"height":0,"length":0,"width":0,"heelHeight":0,"wholesalePriceDKK":240,"wholesalePriceEUR":34,"wholesalePriceUSD":44,"wholesalePriceGBP":30,"retailPriceDKK":599,"retailPriceEUR":85,"retailPriceUSD":95,"retailPriceGBP":75,"retailRMB":795,"filters":["acc4"],"PRODUCT_GROUP":"Hat","assets1":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4259_5801_943.png","inclusive":true,"re-runner":true,"assets":["https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4259_5801_943.png"]}
+{
+  "waist": 0,
+  "retailPriceUSD": 95,
+  "inseamLenght": 0,
+  "chest": 0,
+  "totalLenght": 0,
+  "assets": [
+    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4259_5801_943.png",
+    [
+      "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628876456/22.1/COMMERCIAL/GANNI_SS22_COMMERCIAL_BTS_LANA_OHRIMENKO_HIGHRES_10.jpg"
+    ]
+  ],
+  "retailRMB": 795,
+  "program": 5801,
+  "colorNames": "Leopard",
+  "sleeveLenght": 0,
+  "width": 0,
+  "length": 0,
+  "height": 0,
+  "material": "100% Organic Cotton",
+  "re-runner": true,
+  "wholesalePriceGBP": 30,
+  "heelHeight": 0,
+  "name": "A4259_943_Hat",
+  "inclusive": true,
+  "styleId": "A4259_943",
+  "assets1": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4259_5801_943.png",
+  "PRODUCT_GROUP": "Hat",
+  "retailPriceGBP": 75,
+  "programName": "Coated Canvas Accessories",
+  "hip": 0,
+  "responsible": true,
+  "wholesalePriceEUR": 34,
+  "weight": 45180,
+  "wholesalePriceDKK": 240,
+  "groupId": "drop-2",
+  "wholesalePriceUSD": 44,
+  "bottomWidth": 0,
+  "filters": [
+    "acc4"
+  ],
+  "sizeRange": "ONE SIZE",
+  "retailPriceEUR": 85,
+  "retailPriceDKK": 599,
+  "colorId": 943
+}
