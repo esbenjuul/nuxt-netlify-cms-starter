@@ -7,7 +7,9 @@
   "assets": [
     "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/S1790_4899_500.png",
     "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/S1790_4899_500_1.png",
-    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/S1790_500_2.png",
+    [
+      "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628884794/22.1/PACKSHOTS/S1790_4899_500_3.png"
+    ],
     [
       "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628876453/22.1/COMMERCIAL/GANNI_SS22_COMMERCIAL_BTS_LANA_OHRIMENKO_HIGHRES_5.jpg"
     ],
