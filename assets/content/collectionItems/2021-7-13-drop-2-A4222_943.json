@@ -1,1 +1,51 @@
-{"styleId":"A4222_943","name":"A4222_943_Fabric Medium / Large Bag","program":5829,"programName":"Recycled Tech","material":"100% Recycled Polyester","groupId":"drop-2","colorNames":"Leopard","colorId":943,"responsible":true,"weight":44420,"sizeRange":"ONE SIZE","chest":0,"waist":0,"hip":0,"bottomWidth":0,"totalLenght":0,"inseamLenght":0,"sleeveLenght":0,"height":32,"length":27,"width":0,"heelHeight":0,"wholesalePriceDKK":400,"wholesalePriceEUR":58,"wholesalePriceUSD":69,"wholesalePriceGBP":50,"retailPriceDKK":999,"retailPriceEUR":145,"retailPriceUSD":165,"retailPriceGBP":125,"retailRMB":1395,"filters":["acc1"],"PRODUCT_GROUP":"Fabric Medium / Large Bag","assets1":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4222_5829_943.png","assets2":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4222_5829_943_1.png","assets3":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4222_943_2.png","inclusive":true,"re-runner":true,"assets":["https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4222_5829_943.png","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4222_5829_943_1.png","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4222_943_2.png"]}
+{
+  "waist": 0,
+  "retailPriceUSD": 165,
+  "inseamLenght": 0,
+  "chest": 0,
+  "totalLenght": 0,
+  "assets": [
+    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4222_5829_943.png",
+    [
+      "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628843057/22.1/PACKSHOTS/A4222_5829_943_3.png"
+    ],
+    [
+      "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628843081/22.1/PACKSHOTS/A4222_5829_943_2.png"
+    ]
+  ],
+  "retailRMB": 1395,
+  "program": 5829,
+  "colorNames": "Leopard",
+  "sleeveLenght": 0,
+  "width": 0,
+  "length": 27,
+  "height": 32,
+  "material": "100% Recycled Polyester",
+  "re-runner": true,
+  "wholesalePriceGBP": 50,
+  "heelHeight": 0,
+  "name": "A4222_943_Fabric Medium / Large Bag",
+  "inclusive": true,
+  "styleId": "A4222_943",
+  "assets1": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4222_5829_943.png",
+  "assets2": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4222_5829_943_1.png",
+  "PRODUCT_GROUP": "Fabric Medium / Large Bag",
+  "retailPriceGBP": 125,
+  "programName": "Recycled Tech",
+  "hip": 0,
+  "assets3": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4222_943_2.png",
+  "responsible": true,
+  "wholesalePriceEUR": 58,
+  "weight": 44420,
+  "wholesalePriceDKK": 400,
+  "groupId": "drop-2",
+  "wholesalePriceUSD": 69,
+  "bottomWidth": 0,
+  "filters": [
+    "acc1"
+  ],
+  "sizeRange": "ONE SIZE",
+  "retailPriceEUR": 145,
+  "retailPriceDKK": 999,
+  "colorId": 943
+}
