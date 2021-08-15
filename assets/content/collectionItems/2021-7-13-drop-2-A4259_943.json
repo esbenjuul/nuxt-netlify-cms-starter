@@ -5,7 +5,9 @@
   "chest": 0,
   "totalLenght": 0,
   "assets": [
-    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4259_5801_943.png",
+    [
+      "https://res.cloudinary.com/dd6fpxydm/image/upload/v1629040660/22.1/PACKSHOTS/A4259_5802_943.png"
+    ],
     [
       "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628876456/22.1/COMMERCIAL/GANNI_SS22_COMMERCIAL_BTS_LANA_OHRIMENKO_HIGHRES_10.jpg"
     ]
