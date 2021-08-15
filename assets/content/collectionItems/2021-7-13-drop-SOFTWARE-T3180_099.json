@@ -1,1 +1,49 @@
-{"styleId":"T3180_099","name":"T3180_099_Maxi Dress","program":3546,"programName":"Software Light Stretch Jersey","material":"92% TENCEL™ Lyocell 8% Elastane","groupId":"drop-SOFTWARE","colorNames":"Black","colorId":99,"responsible":true,"weight":46460,"sizeRange":"XXS, XS, S, M, L, XL","chest":92,"waist":83,"hip":95,"bottomWidth":55,"totalLenght":132,"inseamLenght":0,"sleeveLenght":28,"height":0,"length":0,"width":0,"heelHeight":0,"wholesalePriceDKK":400,"wholesalePriceEUR":58,"wholesalePriceUSD":69,"wholesalePriceGBP":50,"retailPriceDKK":999,"retailPriceEUR":145,"retailPriceUSD":165,"retailPriceGBP":125,"retailRMB":1395,"filters":["rtw1"],"PRODUCT_GROUP":"Maxi Dress","assets1":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/T3180_3546_099.png","assets2":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/T3180_99_1.png","inclusive":true,"re-runner":true,"assets":["https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/T3180_3546_099.png","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/T3180_99_1.png"]}
+{
+  "waist": 83,
+  "retailPriceUSD": 165,
+  "inseamLenght": 0,
+  "chest": 92,
+  "totalLenght": 132,
+  "assets": [
+    [
+      "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628864553/22.1/PACKSHOTS/T3180_3546_99.png"
+    ],
+    [
+      "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628864553/22.1/PACKSHOTS/T3180_3546_99_1.png"
+    ]
+  ],
+  "retailRMB": 1395,
+  "program": 3546,
+  "colorNames": "Black",
+  "sleeveLenght": 28,
+  "width": 0,
+  "length": 0,
+  "height": 0,
+  "material": "92% TENCEL™ Lyocell 8% Elastane",
+  "re-runner": true,
+  "wholesalePriceGBP": 50,
+  "heelHeight": 0,
+  "name": "T3180_099_Maxi Dress",
+  "inclusive": true,
+  "styleId": "T3180_099",
+  "assets1": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/T3180_3546_099.png",
+  "assets2": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/T3180_99_1.png",
+  "PRODUCT_GROUP": "Maxi Dress",
+  "retailPriceGBP": 125,
+  "programName": "Software Light Stretch Jersey",
+  "hip": 95,
+  "responsible": true,
+  "wholesalePriceEUR": 58,
+  "weight": 46460,
+  "wholesalePriceDKK": 400,
+  "groupId": "drop-SOFTWARE",
+  "wholesalePriceUSD": 69,
+  "bottomWidth": 55,
+  "filters": [
+    "rtw1"
+  ],
+  "sizeRange": "XXS, XS, S, M, L, XL",
+  "retailPriceEUR": 145,
+  "retailPriceDKK": 999,
+  "colorId": 99
+}
