@@ -5,10 +5,14 @@
   "chest": 0,
   "totalLenght": 0,
   "assets": [
-    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/S1759_4897_155.png",
-    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/S1759_4897_155_1.png",
     [
-      "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628843110/22.1/PACKSHOTS/S1759_4897_500_3.png"
+      "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628685919/22.1/PACKSHOTS/S1759_4897_99.png"
+    ],
+    [
+      "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628685918/22.1/PACKSHOTS/S1759_4897_99_1.png"
+    ],
+    [
+      "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628685941/22.1/PACKSHOTS/S1759_4897_99_3.png"
     ]
   ],
   "retailRMB": 3595,
