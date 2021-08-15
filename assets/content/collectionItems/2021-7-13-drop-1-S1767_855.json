@@ -7,7 +7,9 @@
   "assets": [
     "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/S1767_4899_855.png",
     "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/S1767_4899_855_1.png",
-    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/S1767_855_2.png",
+    [
+      "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628843110/22.1/PACKSHOTS/S1767_4899_855_3.png"
+    ],
     "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_103_0024.jpg",
     "https://res.cloudinary.com/dd6fpxydm/video/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_06_0001.jpg",
     "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_12_0015.jpg",
