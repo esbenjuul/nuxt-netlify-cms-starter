@@ -6,10 +6,10 @@
   "totalLenght": 0,
   "assets": [
     "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/J1049_6537_754.png",
-    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/J1049_6537_754_1.png",
     [
       "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628876453/22.1/COMMERCIAL/GANNI_SS22_COMMERCIAL_BTS_LANA_OHRIMENKO_HIGHRES_5.jpg"
-    ]
+    ],
+    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/J1049_6537_754_1.png"
   ],
   "retailRMB": 1895,
   "program": 6537,
