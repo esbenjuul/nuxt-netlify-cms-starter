@@ -1,1 +1,44 @@
-{"styleId":"T3110_794","name":"T3110_794_Intimates Top","program":3589,"programName":"Melange Intimates","material":"100% Recycled Polyester","groupId":"drop-1","colorNames":"Sulphur Spring","colorId":794,"responsible":true,"weight":48830,"sizeRange":"XXS, XS, S, M, L, XL","chest":77,"waist":0,"hip":0,"bottomWidth":35,"totalLenght":17,"inseamLenght":0,"sleeveLenght":0,"height":0,"length":0,"width":0,"heelHeight":0,"wholesalePriceDKK":240,"wholesalePriceEUR":34,"wholesalePriceUSD":44,"wholesalePriceGBP":30,"retailPriceDKK":599,"retailPriceEUR":85,"retailPriceUSD":95,"retailPriceGBP":75,"retailRMB":795,"filters":["rtw9"],"PRODUCT_GROUP":"Intimates Top","assets1":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/T3110_3589_794.png","assets2":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/T3110_3589_794_1.png","inclusive":true,"re-runner":true,"assets":["https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/T3110_3589_794.png","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/T3110_3589_794_1.png"]}
+{
+  "waist": 0,
+  "retailPriceUSD": 95,
+  "inseamLenght": 0,
+  "chest": 77,
+  "totalLenght": 17,
+  "assets": [
+    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/T3110_3589_794.png"
+  ],
+  "retailRMB": 795,
+  "program": 3589,
+  "colorNames": "Sulphur Spring",
+  "sleeveLenght": 0,
+  "width": 0,
+  "length": 0,
+  "height": 0,
+  "material": "100% Recycled Polyester",
+  "re-runner": true,
+  "wholesalePriceGBP": 30,
+  "heelHeight": 0,
+  "name": "T3110_794_Intimates Top",
+  "inclusive": true,
+  "styleId": "T3110_794",
+  "assets1": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/T3110_3589_794.png",
+  "assets2": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/T3110_3589_794_1.png",
+  "PRODUCT_GROUP": "Intimates Top",
+  "retailPriceGBP": 75,
+  "programName": "Melange Intimates",
+  "hip": 0,
+  "responsible": true,
+  "wholesalePriceEUR": 34,
+  "weight": 48830,
+  "wholesalePriceDKK": 240,
+  "groupId": "drop-1",
+  "wholesalePriceUSD": 44,
+  "bottomWidth": 35,
+  "filters": [
+    "rtw9"
+  ],
+  "sizeRange": "XXS, XS, S, M, L, XL",
+  "retailPriceEUR": 85,
+  "retailPriceDKK": 599,
+  "colorId": 794
+}
