@@ -1,1 +1,49 @@
-{"styleId":"T3178_099","name":"T3178_099_Mini Dress","program":3546,"programName":"Software Light Stretch Jersey","material":"92% TENCEL™ Lyocell 8% Elastane","groupId":"drop-SOFTWARE","colorNames":"Black","colorId":99,"responsible":true,"weight":46470,"sizeRange":"XXS, XS, S, M, L, XL","chest":74,"waist":64,"hip":81,"bottomWidth":44.5,"totalLenght":88,"inseamLenght":0,"sleeveLenght":66,"height":0,"length":0,"width":0,"heelHeight":0,"wholesalePriceDKK":360,"wholesalePriceEUR":50,"wholesalePriceUSD":65,"wholesalePriceGBP":46,"retailPriceDKK":899,"retailPriceEUR":125,"retailPriceUSD":155,"retailPriceGBP":115,"retailRMB":1195,"filters":["rtw1"],"PRODUCT_GROUP":"Mini Dress","assets1":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/T3178_3546_099.png","assets2":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/T3178_99_1.png","inclusive":true,"re-runner":true,"assets":["https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/T3178_3546_099.png","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/T3178_99_1.png"]}
+{
+  "waist": 64,
+  "retailPriceUSD": 155,
+  "inseamLenght": 0,
+  "chest": 74,
+  "totalLenght": 88,
+  "assets": [
+    [
+      "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628864556/22.1/PACKSHOTS/T3178_3546_99.png"
+    ],
+    [
+      "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628864555/22.1/PACKSHOTS/T3178_3546_99_1.png"
+    ]
+  ],
+  "retailRMB": 1195,
+  "program": 3546,
+  "colorNames": "Black",
+  "sleeveLenght": 66,
+  "width": 0,
+  "length": 0,
+  "height": 0,
+  "material": "92% TENCEL™ Lyocell 8% Elastane",
+  "re-runner": true,
+  "wholesalePriceGBP": 46,
+  "heelHeight": 0,
+  "name": "T3178_099_Mini Dress",
+  "inclusive": true,
+  "styleId": "T3178_099",
+  "assets1": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/T3178_3546_099.png",
+  "assets2": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/T3178_99_1.png",
+  "PRODUCT_GROUP": "Mini Dress",
+  "retailPriceGBP": 115,
+  "programName": "Software Light Stretch Jersey",
+  "hip": 81,
+  "responsible": true,
+  "wholesalePriceEUR": 50,
+  "weight": 46470,
+  "wholesalePriceDKK": 360,
+  "groupId": "drop-SOFTWARE",
+  "wholesalePriceUSD": 65,
+  "bottomWidth": 44.5,
+  "filters": [
+    "rtw1"
+  ],
+  "sizeRange": "XXS, XS, S, M, L, XL",
+  "retailPriceEUR": 125,
+  "retailPriceDKK": 899,
+  "colorId": 99
+}
