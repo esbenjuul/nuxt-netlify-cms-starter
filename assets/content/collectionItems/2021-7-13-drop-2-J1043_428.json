@@ -1,1 +1,45 @@
-{"styleId":"J1043_428","name":"J1043_428_Jeans","program":6506,"programName":"Overdyed Cutline Denim","material":"100% Organic Cotton","groupId":"drop-2","colorNames":"Light Lilac","colorId":428,"responsible":true,"weight":48420,"sizeRange":"24, 25, 26, 27, 28, 29, 30, 31, 32","chest":0,"waist":2.9375,"hip":90,"bottomWidth":0,"totalLenght":0,"inseamLenght":70,"sleeveLenght":0,"height":0,"length":0,"width":0,"heelHeight":0,"wholesalePriceDKK":555,"wholesalePriceEUR":80,"wholesalePriceUSD":103,"wholesalePriceGBP":73,"retailPriceDKK":1499,"retailPriceEUR":215,"retailPriceUSD":245,"retailPriceGBP":195,"retailRMB":1995,"filters":["rtw5","rtw6"],"PRODUCT_GROUP":"Jeans","assets1":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/J1043_6506_428.png","assets2":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/J1043_6506_428_1.png","inclusive":true,"re-runner":true,"assets":["https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/J1043_6506_428.png","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/J1043_6506_428_1.png"]}
+{
+  "waist": 2.9375,
+  "retailPriceUSD": 245,
+  "inseamLenght": 70,
+  "chest": 0,
+  "totalLenght": 0,
+  "assets": [
+    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/J1043_6506_428.png"
+  ],
+  "retailRMB": 1995,
+  "program": 6506,
+  "colorNames": "Light Lilac",
+  "sleeveLenght": 0,
+  "width": 0,
+  "length": 0,
+  "height": 0,
+  "material": "100% Organic Cotton",
+  "re-runner": true,
+  "wholesalePriceGBP": 73,
+  "heelHeight": 0,
+  "name": "J1043_428_Jeans",
+  "inclusive": true,
+  "styleId": "J1043_428",
+  "assets1": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/J1043_6506_428.png",
+  "assets2": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/J1043_6506_428_1.png",
+  "PRODUCT_GROUP": "Jeans",
+  "retailPriceGBP": 195,
+  "programName": "Overdyed Cutline Denim",
+  "hip": 90,
+  "responsible": true,
+  "wholesalePriceEUR": 80,
+  "weight": 48420,
+  "wholesalePriceDKK": 555,
+  "groupId": "drop-2",
+  "wholesalePriceUSD": 103,
+  "bottomWidth": 0,
+  "filters": [
+    "rtw5",
+    "rtw6"
+  ],
+  "sizeRange": "24, 25, 26, 27, 28, 29, 30, 31, 32",
+  "retailPriceEUR": 215,
+  "retailPriceDKK": 1499,
+  "colorId": 428
+}
