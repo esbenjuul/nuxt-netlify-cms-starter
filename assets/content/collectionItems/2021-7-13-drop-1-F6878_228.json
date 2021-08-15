@@ -1,1 +1,55 @@
-{"styleId":"F6878_228","name":"F6878_228_Top / Blouse","program":6491,"programName":"Pleated Georgette","material":"100% Recycled Polyester","groupId":"drop-1","colorNames":"Floral Azure Blue","colorId":228,"responsible":true,"weight":48570,"sizeRange":"32, 34, 36, 38, 40, 42, 44","chest":110,"waist":0,"hip":0,"bottomWidth":60,"totalLenght":66,"inseamLenght":0,"sleeveLenght":45,"height":0,"length":0,"width":0,"heelHeight":0,"wholesalePriceDKK":393,"wholesalePriceEUR":56,"wholesalePriceUSD":78,"wholesalePriceGBP":52,"retailPriceDKK":1099,"retailPriceEUR":155,"retailPriceUSD":185,"retailPriceGBP":145,"retailRMB":1495,"filters":["rtw2"],"PRODUCT_GROUP":"Top / Blouse","assets1":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6878_6491_228.png","assets2":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6878_6491_228_1.png","assets4":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_22_0016.jpg","assets5":"https://res.cloudinary.com/dd6fpxydm/video/upload/v1628679459/22.1/ECOM/GANNI_22.1_COLLECTION_ECOMVIDEO89.mov","assets6":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_22_0029.jpg","inclusive":true,"re-runner":true,"assets":["https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6878_6491_228.png","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6878_6491_228_1.png","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_22_0016.jpg","https://res.cloudinary.com/dd6fpxydm/video/upload/v1628679459/22.1/ECOM/GANNI_22.1_COLLECTION_ECOMVIDEO89.mov","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_22_0029.jpg"]}
+{
+  "waist": 0,
+  "retailPriceUSD": 185,
+  "inseamLenght": 0,
+  "chest": 110,
+  "totalLenght": 66,
+  "assets": [
+    [
+      "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628884804/22.1/PACKSHOTS/F6878_9491_228.png"
+    ],
+    [
+      "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628884805/22.1/PACKSHOTS/F6878_9491_228_1.png"
+    ],
+    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_22_0016.jpg",
+    "https://res.cloudinary.com/dd6fpxydm/video/upload/v1628679459/22.1/ECOM/GANNI_22.1_COLLECTION_ECOMVIDEO89.mov",
+    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_22_0029.jpg"
+  ],
+  "retailRMB": 1495,
+  "program": 6491,
+  "colorNames": "Floral Azure Blue",
+  "sleeveLenght": 45,
+  "width": 0,
+  "length": 0,
+  "height": 0,
+  "material": "100% Recycled Polyester",
+  "re-runner": true,
+  "wholesalePriceGBP": 52,
+  "heelHeight": 0,
+  "name": "F6878_228_Top / Blouse",
+  "inclusive": true,
+  "styleId": "F6878_228",
+  "assets1": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6878_6491_228.png",
+  "assets2": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6878_6491_228_1.png",
+  "PRODUCT_GROUP": "Top / Blouse",
+  "retailPriceGBP": 145,
+  "programName": "Pleated Georgette",
+  "hip": 0,
+  "assets4": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_22_0016.jpg",
+  "assets5": "https://res.cloudinary.com/dd6fpxydm/video/upload/v1628679459/22.1/ECOM/GANNI_22.1_COLLECTION_ECOMVIDEO89.mov",
+  "assets6": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_22_0029.jpg",
+  "responsible": true,
+  "wholesalePriceEUR": 56,
+  "weight": 48570,
+  "wholesalePriceDKK": 393,
+  "groupId": "drop-1",
+  "wholesalePriceUSD": 78,
+  "bottomWidth": 60,
+  "filters": [
+    "rtw2"
+  ],
+  "sizeRange": "32, 34, 36, 38, 40, 42, 44",
+  "retailPriceEUR": 155,
+  "retailPriceDKK": 1099,
+  "colorId": 228
+}
