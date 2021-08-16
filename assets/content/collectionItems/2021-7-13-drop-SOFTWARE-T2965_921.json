@@ -1,1 +1,44 @@
-{"styleId":"T2965_921","name":"T2965_921_Sweatshirt","program":3532,"programName":"Software Isoli","material":"85% Organic Cotton 15 % Polyester","groupId":"drop-SOFTWARE","colorNames":"Paloma Melange","colorId":921,"responsible":true,"weight":46690,"sizeRange":"XXS, XS, S, M, L, XL","chest":92,"waist":0,"hip":0,"bottomWidth":41.5,"totalLenght":56,"inseamLenght":0,"sleeveLenght":67,"height":0,"length":0,"width":0,"heelHeight":0,"wholesalePriceDKK":357,"wholesalePriceEUR":52,"wholesalePriceUSD":69,"wholesalePriceGBP":45,"retailPriceDKK":999,"retailPriceEUR":145,"retailPriceUSD":165,"retailPriceGBP":125,"retailRMB":1395,"filters":["rtw2"],"PRODUCT_GROUP":"Sweatshirt","assets1":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/T2965_3532_921.png","assets2":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/T2965_3532_921_1.png","inclusive":true,"re-runner":true,"assets":["https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/T2965_3532_921.png","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/T2965_3532_921_1.png"]}
+{
+  "waist": 0,
+  "retailPriceUSD": 165,
+  "inseamLenght": 0,
+  "chest": 92,
+  "totalLenght": 56,
+  "assets": [
+    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/T2965_3532_921.png"
+  ],
+  "retailRMB": 1395,
+  "program": 3532,
+  "colorNames": "Paloma Melange",
+  "sleeveLenght": 67,
+  "width": 0,
+  "length": 0,
+  "height": 0,
+  "material": "85% Organic Cotton 15 % Polyester",
+  "re-runner": true,
+  "wholesalePriceGBP": 45,
+  "heelHeight": 0,
+  "name": "T2965_921_Sweatshirt",
+  "inclusive": true,
+  "styleId": "T2965_921",
+  "assets1": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/T2965_3532_921.png",
+  "assets2": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/T2965_3532_921_1.png",
+  "PRODUCT_GROUP": "Sweatshirt",
+  "retailPriceGBP": 125,
+  "programName": "Software Isoli",
+  "hip": 0,
+  "responsible": true,
+  "wholesalePriceEUR": 52,
+  "weight": 46690,
+  "wholesalePriceDKK": 357,
+  "groupId": "drop-SOFTWARE",
+  "wholesalePriceUSD": 69,
+  "bottomWidth": 41.5,
+  "filters": [
+    "rtw2"
+  ],
+  "sizeRange": "XXS, XS, S, M, L, XL",
+  "retailPriceEUR": 145,
+  "retailPriceDKK": 999,
+  "colorId": 921
+}
