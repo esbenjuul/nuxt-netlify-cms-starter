@@ -1,1 +1,44 @@
-{"styleId":"T3202_465","name":"T3202_465_T-Shirt","program":3531,"programName":"Thin Software Jersey","material":"100% organic Cotton","groupId":"drop-SOFTWARE","colorNames":"Sweet Lilac","colorId":465,"responsible":true,"weight":46980,"sizeRange":"XXS, XS, S, M, L, XL","chest":110,"waist":0,"hip":0,"bottomWidth":53,"totalLenght":63.5,"inseamLenght":0,"sleeveLenght":0,"height":0,"length":0,"width":0,"heelHeight":0,"wholesalePriceDKK":178,"wholesalePriceEUR":27,"wholesalePriceUSD":36,"wholesalePriceGBP":24,"retailPriceDKK":499,"retailPriceEUR":75,"retailPriceUSD":85,"retailPriceGBP":65,"retailRMB":675,"filters":["rtw2"],"PRODUCT_GROUP":"T-Shirt","assets1":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/T3202_3531_465.png","assets2":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/T3202_3531_465_1.png","inclusive":true,"re-runner":true,"assets":["https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/T3202_3531_465.png","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/T3202_3531_465_1.png"]}
+{
+  "waist": 0,
+  "retailPriceUSD": 85,
+  "inseamLenght": 0,
+  "chest": 110,
+  "totalLenght": 63.5,
+  "assets": [
+    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/T3202_3531_465.png"
+  ],
+  "retailRMB": 675,
+  "program": 3531,
+  "colorNames": "Sweet Lilac",
+  "sleeveLenght": 0,
+  "width": 0,
+  "length": 0,
+  "height": 0,
+  "material": "100% organic Cotton",
+  "re-runner": true,
+  "wholesalePriceGBP": 24,
+  "heelHeight": 0,
+  "name": "T3202_465_T-Shirt",
+  "inclusive": true,
+  "styleId": "T3202_465",
+  "assets1": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/T3202_3531_465.png",
+  "assets2": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/T3202_3531_465_1.png",
+  "PRODUCT_GROUP": "T-Shirt",
+  "retailPriceGBP": 65,
+  "programName": "Thin Software Jersey",
+  "hip": 0,
+  "responsible": true,
+  "wholesalePriceEUR": 27,
+  "weight": 46980,
+  "wholesalePriceDKK": 178,
+  "groupId": "drop-SOFTWARE",
+  "wholesalePriceUSD": 36,
+  "bottomWidth": 53,
+  "filters": [
+    "rtw2"
+  ],
+  "sizeRange": "XXS, XS, S, M, L, XL",
+  "retailPriceEUR": 75,
+  "retailPriceDKK": 499,
+  "colorId": 465
+}
