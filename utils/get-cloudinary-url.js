@@ -26,7 +26,7 @@ export default function(cl, asset, transform = {}, pixelDensity = 2) {
 
 			return cl.video_url(parseUrl, transform)
 		} else {
-			transform.crop = 'fill'
+			// transform.crop = 'fill'
 
 			transform.width ? (transform.width *= pixelDensity) : null
 			transform.height ? (transform.height *= pixelDensity) : null
