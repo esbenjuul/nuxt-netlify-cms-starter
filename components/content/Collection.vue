@@ -15,8 +15,8 @@
 			<div class="collection__list" v-if="obj.styles.length">
 				<collection-item
 					v-bind="item"
-					v-for="item in obj.styles"
-					:key="item.styleId"
+					v-for="(item, i) in obj.styles"
+					:key="`${item.styleId}-${i}`"
 				/>
 			</div>
 		</div>
