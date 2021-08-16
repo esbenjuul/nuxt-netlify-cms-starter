@@ -139,5 +139,38 @@ export default {
 	},
 	['re-runner']: {
 		type: Boolean
+	},
+	assets1: {
+		type: String
+	},
+	assets2: {
+		type: String
+	},
+	assets3: {
+		type: String
+	},
+	assets4: {
+		type: String
+	},
+	assets5: {
+		type: String
+	},
+	assets6: {
+		type: String
+	},
+	inseamLenght: {
+		type: Number
+	},
+	totalLenght: {
+		type: Number
+	},
+	sleeveLenght: {
+		type: Number
+	},
+	inclusive: {
+		type: Boolean
+	},
+	product_group: {
+		type: String
 	}
 }
