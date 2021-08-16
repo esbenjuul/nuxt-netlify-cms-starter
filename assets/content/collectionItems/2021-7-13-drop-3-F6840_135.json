@@ -1,1 +1,53 @@
-{"styleId":"F6840_135","name":"F6840_135_Midi Skirt","program":6500,"programName":"Stripe Tafetta","material":"100% Recycled Polyester","groupId":"drop-3","colorNames":"Egret","colorId":135,"responsible":true,"weight":49170,"sizeRange":"32, 34, 36, 38, 40, 42, 44","chest":0,"waist":66,"hip":0,"bottomWidth":67.5,"totalLenght":84,"inseamLenght":0,"sleeveLenght":0,"height":0,"length":0,"width":0,"heelHeight":0,"wholesalePriceDKK":500,"wholesalePriceEUR":74,"wholesalePriceUSD":98,"wholesalePriceGBP":63,"retailPriceDKK":1399,"retailPriceEUR":195,"retailPriceUSD":235,"retailPriceGBP":175,"retailRMB":1895,"filters":["rtw7"],"PRODUCT_GROUP":"Midi Skirt","assets1":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6840_6500_135.png","assets2":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6840_6500_135_1.png","assets4":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_49_0049.jpg","assets5":"https://res.cloudinary.com/dd6fpxydm/video/upload/v1628679459/22.1/ECOM/GANNI_22.1_COLLECTION_ECOMVIDEO142.mov","assets6":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_49_0005.jpg","inclusive":true,"re-runner":true,"assets":["https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6840_6500_135.png","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6840_6500_135_1.png","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_49_0049.jpg","https://res.cloudinary.com/dd6fpxydm/video/upload/v1628679459/22.1/ECOM/GANNI_22.1_COLLECTION_ECOMVIDEO142.mov","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_49_0005.jpg"]}
+{
+  "waist": 66,
+  "retailPriceUSD": 235,
+  "inseamLenght": 0,
+  "chest": 0,
+  "totalLenght": 84,
+  "assets": [
+    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6840_6500_135.png",
+    [
+      "https://res.cloudinary.com/dd6fpxydm/image/upload/v1629074795/22.1/PACKSHOTS/F6840_6500_135.jpg"
+    ],
+    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_49_0049.jpg",
+    "https://res.cloudinary.com/dd6fpxydm/video/upload/v1628679459/22.1/ECOM/GANNI_22.1_COLLECTION_ECOMVIDEO142.mov",
+    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_49_0005.jpg"
+  ],
+  "retailRMB": 1895,
+  "program": 6500,
+  "colorNames": "Egret",
+  "sleeveLenght": 0,
+  "width": 0,
+  "length": 0,
+  "height": 0,
+  "material": "100% Recycled Polyester",
+  "re-runner": true,
+  "wholesalePriceGBP": 63,
+  "heelHeight": 0,
+  "name": "F6840_135_Midi Skirt",
+  "inclusive": true,
+  "styleId": "F6840_135",
+  "assets1": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6840_6500_135.png",
+  "assets2": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6840_6500_135_1.png",
+  "PRODUCT_GROUP": "Midi Skirt",
+  "retailPriceGBP": 175,
+  "programName": "Stripe Tafetta",
+  "hip": 0,
+  "assets4": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_49_0049.jpg",
+  "assets5": "https://res.cloudinary.com/dd6fpxydm/video/upload/v1628679459/22.1/ECOM/GANNI_22.1_COLLECTION_ECOMVIDEO142.mov",
+  "assets6": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_49_0005.jpg",
+  "responsible": true,
+  "wholesalePriceEUR": 74,
+  "weight": 49170,
+  "wholesalePriceDKK": 500,
+  "groupId": "drop-3",
+  "wholesalePriceUSD": 98,
+  "bottomWidth": 67.5,
+  "filters": [
+    "rtw7"
+  ],
+  "sizeRange": "32, 34, 36, 38, 40, 42, 44",
+  "retailPriceEUR": 195,
+  "retailPriceDKK": 1399,
+  "colorId": 135
+}
