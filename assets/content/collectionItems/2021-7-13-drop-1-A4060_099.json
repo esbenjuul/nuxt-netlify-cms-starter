@@ -1,1 +1,47 @@
-{"styleId":"A4060_099","name":"A4060_099_Leather Medium / Large Bag","program":5785,"programName":"Banner","material":"100% Recycled Leather","groupId":"drop-1","colorNames":"Black","colorId":99,"responsible":true,"weight":44030,"sizeRange":"ONE SIZE","chest":0,"waist":0,"hip":0,"bottomWidth":0,"totalLenght":0,"inseamLenght":0,"sleeveLenght":0,"height":18,"length":24,"width":8.5,"heelHeight":0,"wholesalePriceDKK":880,"wholesalePriceEUR":122,"wholesalePriceUSD":157,"wholesalePriceGBP":110,"retailPriceDKK":2199,"retailPriceEUR":295,"retailPriceUSD":375,"retailPriceGBP":275,"retailRMB":2895,"filters":["acc1"],"PRODUCT_GROUP":"Leather Medium / Large Bag","assets1":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4060_5785_099.png","assets2":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4060_99_1.png","assets3":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4060_099_2.png","inclusive":true,"re-runner":true,"assets":["https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4060_5785_099.png","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4060_99_1.png","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4060_099_2.png"]}
+{
+  "waist": 0,
+  "retailPriceUSD": 375,
+  "inseamLenght": 0,
+  "chest": 0,
+  "totalLenght": 0,
+  "assets": [
+    [
+      "https://res.cloudinary.com/dd6fpxydm/image/upload/v1629052951/22.1/PACKSHOTS/A4060_5785_99.png"
+    ]
+  ],
+  "retailRMB": 2895,
+  "program": 5785,
+  "colorNames": "Black",
+  "sleeveLenght": 0,
+  "width": 8.5,
+  "length": 24,
+  "height": 18,
+  "material": "100% Recycled Leather",
+  "re-runner": true,
+  "wholesalePriceGBP": 110,
+  "heelHeight": 0,
+  "name": "A4060_099_Leather Medium / Large Bag",
+  "inclusive": true,
+  "styleId": "A4060_099",
+  "assets1": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4060_5785_099.png",
+  "assets2": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4060_99_1.png",
+  "PRODUCT_GROUP": "Leather Medium / Large Bag",
+  "retailPriceGBP": 275,
+  "programName": "Banner",
+  "hip": 0,
+  "assets3": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4060_099_2.png",
+  "responsible": true,
+  "wholesalePriceEUR": 122,
+  "weight": 44030,
+  "wholesalePriceDKK": 880,
+  "groupId": "drop-1",
+  "wholesalePriceUSD": 157,
+  "bottomWidth": 0,
+  "filters": [
+    "acc1"
+  ],
+  "sizeRange": "ONE SIZE",
+  "retailPriceEUR": 295,
+  "retailPriceDKK": 2199,
+  "colorId": 99
+}
