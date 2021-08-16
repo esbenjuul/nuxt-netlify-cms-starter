@@ -66,6 +66,10 @@
 				display: block;
 			}
 		}
+
+		&.is-png {
+			object-fit: contain;
+		}
 	}
 
 	p {

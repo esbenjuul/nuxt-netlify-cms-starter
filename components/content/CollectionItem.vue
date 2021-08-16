@@ -10,6 +10,7 @@
 			v-lazy="imageUrl.src"
 			:alt="`An closeup of ${imageName}`"
 			class="fast-fade collection-item__main"
+			:class="{ 'is-png': isPng }"
 			ref="image"
 		/>
 		<video
@@ -98,6 +99,13 @@ export default {
 		},
 		onWishList() {
 			return this.wishList.find(e => e.styleId === this.styleId)
+		},
+
+		isPng() {
+			const firstImg = Array.isArray(this.assets[0])
+				? this.assets[0][0]
+				: this.assets[0]
+			return firstImg.includes('.png')
 		}
 	},
 	methods: {
