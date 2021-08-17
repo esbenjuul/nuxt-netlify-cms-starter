@@ -25,7 +25,7 @@
 					>
 						<!-- <img :src="getImageUrl(groupId, index)" alt /> -->
 						<img
-							:src="getImageUrl(sortedWishlist[groupId][index].assets[0])"
+							:src="getImageUrl(sortedWishlist[groupId][index].assets)"
 							alt
 						/>
 						<p>{{ item.name }}</p>
@@ -137,7 +137,7 @@ export default {
 		...mapActions(['collection/' + REMOVE_FROM_WISHLIST.action]),
 		overviewItemActivateHandler(groupId, idx) {
 			this.cur = { groupId, idx }
-			console.log(this.cur, this.curStyle)
+			// console.log('overviewItemActivateHandler', this.cur, this.curStyle)
 		},
 		overviewItemRemoveHandler(groupId, idx) {
 			let styleId = this.sortedWishlist[groupId][idx].styleId
@@ -146,12 +146,14 @@ export default {
 		},
 
 		removeItemHandler() {
-			let styleId = this.cur.styleId
+			let styleId = this.sortedWishlist[this.cur.groupId][this.cur.idx].styleId
 			this.cur = { groupId: '', idx: 0 }
 			this['collection/' + REMOVE_FROM_WISHLIST.action](styleId)
 		},
-		getImageUrl(asset) {
-			return getCloudinaryUrl(this.$cloudinary, { cloudinaryUrl: asset })
+		getImageUrl(assets) {
+			const allAssets = Array.isArray() ? assets.flat() : assets
+
+			return getCloudinaryUrl(this.$cloudinary, { cloudinaryUrl: allAssets[0] })
 		}
 	},
 	mounted() {
