@@ -19,11 +19,7 @@
 		<div class="assistant__ctas" v-if="wishList.length">
 			<a
 				class="button download-wishlist button--half"
-				:href="
-					__prod__
-						? `${pdfDownloadLink}&url=${encodeURIComponent(wishListUrl)}`
-						: '#'
-				"
+				:href="__prod__ ? `${pdfDownloadLink}&url=${wishListUrl}` : '#'"
 				@click="downloadWishListClickHandler"
 			>
 				<!-- :href="pdfDownloadLink" -->
@@ -94,9 +90,7 @@ export default {
 		]),
 
 		downloadWishListClickHandler(url) {
-			console.log(
-				`${this.pdfDownloadLink}&url=${encodeURIComponent(this.wishListUrl)}`
-			)
+			// console.log(`${this.pdfDownloadLink}&url=${this.wishListUrl}`)
 			if (window.GS_LOGS) console.log('Download wishlist')
 			this[DOWNLOAD_PREPARING.action](true)
 		},
