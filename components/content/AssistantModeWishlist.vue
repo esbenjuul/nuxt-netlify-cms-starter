@@ -94,6 +94,9 @@ export default {
 		]),
 
 		downloadWishListClickHandler(url) {
+			console.log(
+				`${this.pdfDownloadLink}&url=${encodeURIComponent(this.wishListUrl)}`
+			)
 			if (window.GS_LOGS) console.log('Download wishlist')
 			this[DOWNLOAD_PREPARING.action](true)
 		},

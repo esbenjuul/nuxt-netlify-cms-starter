@@ -100,9 +100,12 @@ export const state = () => ({
 
 export const getters = {
 	wishListUrl: state =>
-		`${window.location.host}/export/?styles=${state.wishList
+		`${window.location.origin}/export/?styles=${state.wishList
 			.map(style => style.styleId)
 			.join(',')}`,
+	// `https://gannispace.com/export/?styles=${state.wishList
+	// 	.map(style => style.styleId)
+	// 	.join(',')}`,
 
 	authorizedGroupsIds: state => state.authorizedGroups.map(g => g.groupId),
 

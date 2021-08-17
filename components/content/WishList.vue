@@ -137,7 +137,6 @@ export default {
 		...mapActions(['collection/' + REMOVE_FROM_WISHLIST.action]),
 		overviewItemActivateHandler(groupId, idx) {
 			this.cur = { groupId, idx }
-			// console.log('overviewItemActivateHandler', this.cur, this.curStyle)
 		},
 		overviewItemRemoveHandler(groupId, idx) {
 			let styleId = this.sortedWishlist[groupId][idx].styleId
