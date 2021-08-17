@@ -19,17 +19,17 @@
 					/>
 
 					<filter-button
-						:name="'ACC'"
-						:is-big="true"
-						:count="accessories.length"
-						:filter-id="'ACC'"
-					/>
-
-					<filter-button
 						:name="'SHOES'"
 						:is-big="true"
 						:count="shoes.length"
 						:filter-id="'SHOES'"
+					/>
+
+					<filter-button
+						:name="'ACC'"
+						:is-big="true"
+						:count="accessories.length"
+						:filter-id="'ACC'"
 					/>
 
 					<filter-button
