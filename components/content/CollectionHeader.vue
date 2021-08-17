@@ -88,7 +88,7 @@ export default {
 		greyPixel,
 		loaded: 0,
 		activeIndex: 0,
-		progress: 0,
+		progress: 1,
 		showImages: false,
 
 		scrolledAmount: 0
@@ -110,7 +110,7 @@ export default {
 				click && this.mousepos.x < this.screenSize.width / 2
 					? prevIndex(this.group.cloudinaryUrl, this.activeIndex)
 					: nextIndex(this.group.cloudinaryUrl, this.activeIndex)
-			this.progress = 0
+			this.progress = 1
 		},
 		tick() {
 			requestAnimationFrame(this.tick)
@@ -135,9 +135,9 @@ export default {
 		}
 	},
 	mounted() {
-		if (this.group.cloudinaryUrl) {
-			this.tick()
-		}
+		// if (this.group.cloudinaryUrl) {
+		// 	this.tick()
+		// }
 	}
 }
 </script>
