@@ -65,7 +65,7 @@
 </template>
 
 <script>
-import { m.hostapState, mapGetters, mapActions } from 'vuex'
+import { mapState, mapGetters, mapActions } from 'vuex'
 import {
 	OPEN_WISH_LIST,
 	DOWNLOAD_PREPARING,
@@ -108,10 +108,10 @@ export default {
 			const delimiter = filterParam && groupParam ? '&' : ''
 
 			if (filterParam || groupParam) {
-				return `${window.location.origin}export/?${filterParam}${delimiter}${groupParam}`
+				return `${window.location.origin}/export/?${filterParam}${delimiter}${groupParam}`
 			}
 			// /export with no params shows all styles
-			return `${window.location.origin}export`
+			return `${window.location.origin}/export`
 		},
 
 		currentFilters() {
