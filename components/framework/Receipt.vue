@@ -22,7 +22,7 @@ export default {
 	name: 'Receipt',
 	components: {
 		ReceiptItem,
-		ReceiptWatermark,
+		ReceiptWatermark
 	},
 	data() {
 		return {
@@ -32,11 +32,17 @@ export default {
 			urlParams: [],
 			filterGroup: [],
 			filterFilter: [],
-			filterStyles: [],
+			filterStyles: []
 		}
 	},
 	computed: {
-		...mapState('collection', ['allStyles', 'authorizedGroups']),
+		...mapState('collection', [
+			'allStyles',
+			'authorizedGroups',
+			'RTWFilters',
+			'ACCFilters',
+			'shoesFilters'
+		]),
 		receiptStyles() {
 			const sortedOnWeight = [...this.filterStyles].sort((a, b) =>
 				a.weight > b.weight ? -1 : 1
@@ -47,13 +53,14 @@ export default {
 
 				return {
 					...acc,
-					[cur.groupId]: [...acc[cur.groupId], cur],
+					[cur.groupId]: [...acc[cur.groupId], cur]
 				}
 			}, {})
 
 			return splitIntoGroups
-		},
+		}
 	},
+
 	methods: {
 		parseUrl() {
 			const url = new URL(window.location.href)
@@ -63,15 +70,25 @@ export default {
 			this.styles = styles && styles.split(',')
 
 			this.filterGroup = this.group
-				? this.allStyles.filter((s) => s.groupId === this.group)
+				? this.allStyles.filter(s => s.groupId === this.group)
 				: this.allStyles
 
 			this.filterFilter = this.filter
-				? this.filterGroup.filter((s) => s.filters.includes(this.filter))
+				? this.filterGroup.filter(s =>
+						s.filters.find(f =>
+							this.filter === 'RTW'
+								? this.RTWFilters.includes(f)
+								: this.filter === 'ACC'
+								? this.ACCFilters.includes(f)
+								: this.filter === 'SHOES'
+								? this.shoesFilters.includes(f)
+								: this.filter === f
+						)
+				  )
 				: this.filterGroup
 
 			this.filterStyles = this.styles
-				? this.filterFilter.filter((s) => this.styles.includes(s.styleId))
+				? this.filterFilter.filter(s => this.styles.includes(s.styleId))
 				: this.filterFilter
 
 			// example urls to show all styles with filter in a group:
@@ -79,10 +96,10 @@ export default {
 
 			// example to show a list of styles:
 			// http://localhost:3000/export/?styles=T2685,T2692
-		},
+		}
 	},
 	mounted() {
 		this.parseUrl()
-	},
+	}
 }
 </script>
