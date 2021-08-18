@@ -27,11 +27,12 @@ export default function(cl, asset, transform = {}, pixelDensity = 2) {
 			return cl.video_url(parseUrl, transform)
 		} else {
 			transform.crop = 'fit'
+			transform.fetch_format = 'auto'
 
 			transform.width ? (transform.width *= pixelDensity) : null
 			transform.height ? (transform.height *= pixelDensity) : null
 
-			transform.quality = transform.quality || 60
+			transform.quality = transform.quality || 80
 
 			return cl.url(parseUrl, transform)
 		}

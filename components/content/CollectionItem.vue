@@ -124,8 +124,8 @@ export default {
 						type: this.isVideo(asset) ? 'video' : 'image'
 					},
 					{
-						width: window.innerWidth < 600 ? 120 : 360,
-						height: window.innerWidth < 600 ? 183 : 548
+						width: window.innerWidth < 600 ? 120 : 250,
+						height: window.innerWidth < 600 ? 183 : 375
 					}
 				),
 				loading: this.transparentPixel

@@ -219,9 +219,9 @@ export default {
 			this.unlockAudioContext(this.audioContext) // fixes no-sound in safari
 
 			// run first time audio gets played
-			this.audio.addEventListener('play', this.setupCanvas.bind(this), {
-				once: true
-			})
+			// this.audio.addEventListener('play', this.setupCanvas.bind(this), {
+			// 	once: true
+			// })
 
 			this.duration = this.audio.duration
 
@@ -236,6 +236,11 @@ export default {
 
 				this.progress = this.audio.currentTime
 				this.$emit('progress', this.audio.currentTime)
+
+				/**
+				 * Kill switch
+				 */
+				return
 
 				if (!this.showAudioVisualizer) return
 
@@ -266,19 +271,19 @@ export default {
 
 				requestAnimationFrame(tick)
 
-				if (this.frame % 5 === 0) {
-					this.audioData = filterData(
-						[...Array(37)].map((_, idx) =>
-							this.simplex
-								? this.simplex.noise2D(idx / 100, this.frame / 100) *
-								  (250 - idx * 5)
-								: 0
-						),
-						37
-					)
-						.map(x => x / 128)
-						.filter((_, i) => i > 1 && i % 2 === 0)
-				}
+				// if (this.frame % 5 === 0) {
+				// 	this.audioData = filterData(
+				// 		[...Array(37)].map((_, idx) =>
+				// 			this.simplex
+				// 				? this.simplex.noise2D(idx / 100, this.frame / 100) *
+				// 				  (250 - idx * 5)
+				// 				: 0
+				// 		),
+				// 		37
+				// 	)
+				// 		.map(x => x / 128)
+				// 		.filter((_, i) => i > 1 && i % 2 === 0)
+				// }
 
 				this.audio.currentTime =
 					Math.floor(t / 1000) % (this.audio.duration - 30) || 60
@@ -320,7 +325,7 @@ export default {
 			{ once: true }
 		)
 		this.audio.addEventListener('ended', this.playlist.bind(this, 1))
-		this.simplex = new SimplexNoise(Math.random)
+		// this.simplex = new SimplexNoise(Math.random)
 
 		if (!this.autoplay) {
 			this.idleAnimation()

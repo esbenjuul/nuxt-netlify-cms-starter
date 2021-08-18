@@ -42,8 +42,8 @@ export default {
 		...mapState('collection', ['currentStyle']),
 		assetUrl() {
 			return getCloudinaryUrl(this.$cloudinary, this.asset, {
-				width: this.asset.aspect === 'landscape' ? 592 : 370,
-				height: this.asset.aspect === 'portrait' ? 563 : 390
+				width: this.asset.aspect === 'landscape' ? 592 : 250,
+				height: this.asset.aspect === 'portrait' ? 563 : 375
 			})
 		}
 	},
