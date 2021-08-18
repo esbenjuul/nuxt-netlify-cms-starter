@@ -1,7 +1,9 @@
 import fs from 'fs'
 import glob from 'glob'
 
-const data = fs.readFileSync('./files/csvjson.json')
+const data = fs.readFileSync(
+	'./files/22.1-bulk-upload-(new-prices-18.08)-Ark1.json'
+)
 const json = JSON.parse(data)
 
 const assetsFolder = '../assets/content/collectionItems'
@@ -18,8 +20,6 @@ json
 				...oldJson,
 				...newValues
 			}
-
-			// console.log(newContent)
 
 			fs.writeFile(file, JSON.stringify(newContent), err => {
 				if (err) return console.log(err)
