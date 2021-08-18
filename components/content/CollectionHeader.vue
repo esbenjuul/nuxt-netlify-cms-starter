@@ -98,7 +98,14 @@ export default {
 		...mapActions('utils', [TEXT_CURSOR.action]),
 		getImage(src) {
 			return {
-				src: getCloudinaryUrl(this.$cloudinary, { cloudinaryUrl: src }),
+				src: getCloudinaryUrl(
+					this.$cloudinary,
+					{ cloudinaryUrl: src },
+					{
+						width: 500,
+						quality: 80
+					}
+				),
 				loading: greyPixel
 			}
 		},
