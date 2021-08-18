@@ -5,7 +5,7 @@
 				<div
 					class="desktop__background"
 					:style="{
-						backgroundImage: `url(${various.dashboardBackground[0]})`
+						backgroundImage: `url(${imageUrl(various.dashboardBackground[0])})`
 					}"
 				></div>
 			</transition>
@@ -25,6 +25,7 @@ import {
 import BackgroundImage from '~/components/content/BackgroundImage.vue'
 import DownloadMessage from '~/components/content/DownloadMessage.vue'
 import Countdown from '~/components/elements/Countdown.vue'
+import getCloudinaryUrl from '~/utils/get-cloudinary-url'
 
 export default {
 	name: 'desktop',
@@ -121,6 +122,19 @@ export default {
 					this.activateClubs()
 				}, 5000)
 			}
+		},
+		imageUrl(url) {
+			return getCloudinaryUrl(
+				this.$cloudinary,
+				{
+					cloudinaryUrl: url,
+					asset: 'image'
+				},
+				{
+					width: 1000,
+					quality: 80
+				}
+			)
 		}
 	},
 	mounted() {

@@ -1,6 +1,6 @@
 <template>
 	<div style="background-color: var(--color-secondary)">
-		<preload-images :srcs="[various.dashboardBackground[0]]" />
+		<!-- <preload-images :srcs="[various.dashboardBackground[0]]" /> -->
 
 		<desktop />
 
