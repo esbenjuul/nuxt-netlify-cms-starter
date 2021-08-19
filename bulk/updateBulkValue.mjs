@@ -2,7 +2,7 @@ import fs from 'fs'
 import glob from 'glob'
 
 const data = fs.readFileSync(
-	'./files/22.1-bulk-upload-(new-prices-18.08)-Ark1.json'
+	'./files/22.1-bulk-upload-(size-inclusive)18_8-Ark1(2).json'
 )
 const json = JSON.parse(data)
 
