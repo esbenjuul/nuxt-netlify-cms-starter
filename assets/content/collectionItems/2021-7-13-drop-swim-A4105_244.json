@@ -23,6 +23,7 @@
   "wholesalePriceGBP": 42,
   "heelHeight": 0,
   "name": "A4105_244_Bikini Top",
+  "inclusive": true,
   "styleId": "A4105_244",
   "assets1": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4105_5795_244.png",
   "assets2": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4105_5795_244_1.png",
