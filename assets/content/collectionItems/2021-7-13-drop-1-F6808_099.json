@@ -1,1 +1,57 @@
-{"waist":0,"retailPriceUSD":475,"inseamLenght":0,"chest":124,"totalLenght":127,"assets":[["https://res.cloudinary.com/dd6fpxydm/image/upload/v1628884785/22.1/PACKSHOTS/F6808_6478_99.png"],"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_50_0015.jpg",["https://res.cloudinary.com/dd6fpxydm/image/upload/v1628884781/22.1/PACKSHOTS/F6808_6478_099_1.png"],"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_50_0044.jpg",["https://res.cloudinary.com/dd6fpxydm/video/upload/v1628861606/22.1/ECOM/GANNI_22.1_COLLECTION_ECOMVIDEO97.mov"]],"retailRMB":3.595,"program":6478,"colorNames":"Black","sleeveLenght":47,"width":0,"length":0,"height":0,"material":"54% Acetate 46% Viscose","re-runner":true,"wholesalePriceGBP":117,"heelHeight":0,"name":"F6808_099_Midi Dress","styleId":"F6808_099","assets1":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6808_6478_099.png","assets2":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6808_99_1.png","PRODUCT_GROUP":"Midi Dress","retailPriceGBP":325,"programName":"Viscose Jacquard","hip":0,"assets4":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_50_0044.jpg","assets5":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/GANNI_22.1 COLLECTION_ECOMVIDEO97.mov","assets6":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_50_0015.jpg","responsible":true,"wholesalePriceEUR":124,"weight":49700,"wholesalePriceDKK":893,"groupId":"drop-1","wholesalePriceUSD":198,"bottomWidth":62,"filters":["rtw1"],"sizeRange":"32, 34, 36, 38, 40, 42, 44, 46, 48, 50, 52","retailPriceEUR":345,"retailPriceDKK":2499,"colorId":99}
+{
+  "waist": 0,
+  "retailPriceUSD": 475,
+  "inseamLenght": 0,
+  "chest": 124,
+  "totalLenght": 127,
+  "assets": [
+    [
+      "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628884785/22.1/PACKSHOTS/F6808_6478_99.png"
+    ],
+    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_50_0015.jpg",
+    [
+      "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628884781/22.1/PACKSHOTS/F6808_6478_099_1.png"
+    ],
+    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_50_0044.jpg",
+    [
+      "https://res.cloudinary.com/dd6fpxydm/video/upload/v1628861606/22.1/ECOM/GANNI_22.1_COLLECTION_ECOMVIDEO97.mov"
+    ]
+  ],
+  "retailRMB": 3.595,
+  "program": 6478,
+  "colorNames": "Black",
+  "sleeveLenght": 47,
+  "width": 0,
+  "length": 0,
+  "height": 0,
+  "material": "54% Acetate 46% Viscose",
+  "re-runner": true,
+  "wholesalePriceGBP": 117,
+  "heelHeight": 0,
+  "name": "F6808_099_Midi Dress",
+  "inclusive": true,
+  "styleId": "F6808_099",
+  "assets1": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6808_6478_099.png",
+  "assets2": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6808_99_1.png",
+  "PRODUCT_GROUP": "Midi Dress",
+  "retailPriceGBP": 325,
+  "programName": "Viscose Jacquard",
+  "hip": 0,
+  "assets4": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_50_0044.jpg",
+  "assets5": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/GANNI_22.1 COLLECTION_ECOMVIDEO97.mov",
+  "assets6": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210731_GANNI_ECOM_50_0015.jpg",
+  "responsible": true,
+  "wholesalePriceEUR": 124,
+  "weight": 49700,
+  "wholesalePriceDKK": 893,
+  "groupId": "drop-1",
+  "wholesalePriceUSD": 198,
+  "bottomWidth": 62,
+  "filters": [
+    "rtw1"
+  ],
+  "sizeRange": "32, 34, 36, 38, 40, 42, 44, 46, 48, 50, 52",
+  "retailPriceEUR": 345,
+  "retailPriceDKK": 2499,
+  "colorId": 99
+}
