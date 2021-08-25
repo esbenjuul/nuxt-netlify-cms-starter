@@ -1,1 +1,46 @@
-{"styleId":"T2924_135","name":"T2924_135_Jersey Bottom","program":3532,"programName":"Software Isoli","material":"85% Organic Cotton 15 % Polyester","groupId":"drop-SOFTWARE","colorNames":"Egret","colorId":135,"responsible":true,"weight":46850,"sizeRange":"XXS, XS, S, M, L, XL","chest":0,"waist":70,"hip":107,"bottomWidth":0,"totalLenght":33.5,"inseamLenght":7,"sleeveLenght":0,"height":0,"length":0,"width":0,"heelHeight":0,"wholesalePriceDKK":250,"wholesalePriceEUR":34,"wholesalePriceUSD":48,"wholesalePriceGBP":34,"retailPriceDKK":699,"retailPriceEUR":95,"retailPriceUSD":115,"retailPriceGBP":95,"retailRMB":995,"filters":["rtw4","rtw5"],"PRODUCT_GROUP":"Jersey Bottom","assets1":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/T2924_3532_135.png","assets2":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/T2924_3532_135_1.png","re-runner":true,"assets":["https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/T2924_3532_135.png","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/T2924_3532_135_1.png"]}
+{
+  "waist": 70,
+  "retailPriceUSD": 115,
+  "inseamLenght": 7,
+  "chest": 0,
+  "totalLenght": 33.5,
+  "assets": [
+    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/T2924_3532_135.png",
+    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/T2924_3532_135_1.png"
+  ],
+  "retailRMB": 995,
+  "program": 3532,
+  "colorNames": "Egret",
+  "sleeveLenght": 0,
+  "width": 0,
+  "length": 0,
+  "height": 0,
+  "material": "85% Organic Cotton 15 % Polyester",
+  "re-runner": true,
+  "wholesalePriceGBP": 34,
+  "heelHeight": 0,
+  "name": "T2924_135_Jersey Bottom",
+  "styleId": "T2924_135",
+  "assets1": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/T2924_3532_135.png",
+  "assets2": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/T2924_3532_135_1.png",
+  "PRODUCT_GROUP": "Jersey Bottom",
+  "retailPriceGBP": 95,
+  "programName": "Software Isoli",
+  "hip": 107,
+  "responsible": true,
+  "wholesalePriceEUR": 34,
+  "weight": 46850,
+  "wholesalePriceDKK": 250,
+  "groupId": "drop-SOFTWARE",
+  "wholesalePriceUSD": 48,
+  "bottomWidth": 0,
+  "filters": [
+    "rtw4",
+    "rtw5",
+    "gr1"
+  ],
+  "sizeRange": "XXS, XS, S, M, L, XL",
+  "retailPriceEUR": 95,
+  "retailPriceDKK": 699,
+  "colorId": 135
+}
