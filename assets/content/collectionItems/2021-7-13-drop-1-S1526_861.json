@@ -1,1 +1,48 @@
-{"waist":0,"retailPriceUSD":245,"inseamLenght":0,"chest":0,"totalLenght":0,"assets":["https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/S1526_4628_861.png",["https://res.cloudinary.com/dd6fpxydm/image/upload/v1629070484/22.1/PACKSHOTS/S1526_4628_861_2.png"]],"retailRMB":2.095,"program":4628,"colorNames":"Kalamata","sleeveLenght":0,"width":0,"length":0,"height":0,"material":"50% Recycled Rubber 50% Rubber","re-runner":true,"wholesalePriceGBP":78,"heelHeight":0,"name":"S1526_861_Boots","styleId":"S1526_861","assets1":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/S1526_4628_861.png","assets2":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/S1526_4628_861_1.png","PRODUCT_GROUP":"Boots","retailPriceGBP":195,"programName":"Recycled Rubber","hip":0,"assets3":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/S1526_861_2.png","responsible":true,"wholesalePriceEUR":86,"weight":47215,"wholesalePriceDKK":600,"groupId":"drop-1","wholesalePriceUSD":103,"bottomWidth":0,"filters":["sho1"],"sizeRange":"35, 36, 37, 38, 39, 40, 41, 42, 43, 44","retailPriceEUR":215,"retailPriceDKK":1499,"colorId":861}
+{
+  "waist": 0,
+  "retailPriceUSD": 245,
+  "inseamLenght": 0,
+  "chest": 0,
+  "totalLenght": 0,
+  "assets": [
+    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/S1526_4628_861.png",
+    [
+      "https://res.cloudinary.com/dd6fpxydm/image/upload/v1629070484/22.1/PACKSHOTS/S1526_4628_861_2.png"
+    ]
+  ],
+  "retailRMB": 2.095,
+  "program": 4628,
+  "colorNames": "Kalamata",
+  "sleeveLenght": 0,
+  "width": 0,
+  "length": 0,
+  "height": 0,
+  "material": "50% Recycled Rubber 50% Rubber",
+  "re-runner": true,
+  "wholesalePriceGBP": 78,
+  "heelHeight": 0,
+  "name": "S1526_861_Boots",
+  "styleId": "S1526_861",
+  "assets1": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/S1526_4628_861.png",
+  "assets2": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/S1526_4628_861_1.png",
+  "PRODUCT_GROUP": "Boots",
+  "retailPriceGBP": 195,
+  "programName": "Recycled Rubber",
+  "hip": 0,
+  "assets3": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/S1526_861_2.png",
+  "responsible": true,
+  "wholesalePriceEUR": 86,
+  "weight": 47215,
+  "wholesalePriceDKK": 600,
+  "groupId": "drop-1",
+  "wholesalePriceUSD": 103,
+  "bottomWidth": 0,
+  "filters": [
+    "sho1",
+    "gr1"
+  ],
+  "sizeRange": "35, 36, 37, 38, 39, 40, 41, 42, 43, 44",
+  "retailPriceEUR": 215,
+  "retailPriceDKK": 1499,
+  "colorId": 861
+}
