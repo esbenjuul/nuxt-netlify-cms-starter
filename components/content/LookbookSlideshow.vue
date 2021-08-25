@@ -1,14 +1,14 @@
 <template>
 	<transition name="fade">
 		<div class="lookbook-slideshow">
-			<preload-images
+			<!-- <preload-images
 				:srcs="[
 					...content.map(i => getMediaUrl(i.type, i.cloudinaryUrl).src),
 					...content.map(
 						i => getMediaUrl(i.type, i.cloudinaryUrl, { thumbnail: true }).src
 					)
 				]"
-			/>
+			/> -->
 
 			<div class="lookbook-slideshow__content">
 				<transition name="fade--fast">
@@ -195,7 +195,7 @@ export default {
 				src: getCloudinaryUrl(
 					this.$cloudinary,
 					{ type, cloudinaryUrl },
-					{ width: thumbnail ? 100 : window.innerWidth < 600 ? 300 : 900 }
+					{ width: thumbnail ? 100 : window.innerWidth < 600 ? 200 : 400 }
 				),
 				loading: transparentPixel
 			}

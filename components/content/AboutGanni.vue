@@ -43,7 +43,7 @@ export default {
 				src: getCloudinaryUrl(
 					this.$cloudinary,
 					{ cloudinaryUrl: src },
-					{ quality: 90, width: 1600 }
+					{ quality: 70, width: 800 }
 				),
 				loading: greyPixel
 			}

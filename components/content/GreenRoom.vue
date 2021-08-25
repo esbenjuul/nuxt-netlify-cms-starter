@@ -17,7 +17,11 @@
 			}"
 		>
 			<!-- zIndex: items.length - idx, -->
-			<img v-lazy="item.cloudinaryUrl[0]" v-if="!item.link" class="fade" />
+			<img
+				v-lazy="imageUrl(item.cloudinaryUrl[0])"
+				v-if="!item.link"
+				class="fade"
+			/>
 
 			<a
 				v-else
@@ -26,7 +30,7 @@
 				@mouseenter="changeCursor('Read more', 'external')"
 				@mouseleave="changeCursor('')"
 			>
-				<img v-lazy="item.cloudinaryUrl[0]" class="fade" />
+				<img v-lazy="imageUrl(item.cloudinaryUrl[0])" class="fade" />
 			</a>
 			<transition name="fade" appear>
 				<div class="green-room__text" v-if="item.popup">
@@ -40,6 +44,7 @@
 <script>
 import { mapState, mapActions } from 'vuex'
 import { TEXT_CURSOR } from '~/model/constants'
+import getCloudinaryUrl from '~/utils/get-cloudinary-url'
 
 export default {
 	name: 'green-room',
@@ -51,6 +56,13 @@ export default {
 		...mapActions('utils', [TEXT_CURSOR.action]),
 		changeCursor(str, icon) {
 			this[TEXT_CURSOR.action]({ str, icon })
+		},
+		imageUrl(asset) {
+			return getCloudinaryUrl(
+				this.$cloudinary,
+				{ cloudinaryUrl: asset },
+				{ width: 600 }
+			)
 		}
 	},
 	mounted() {},

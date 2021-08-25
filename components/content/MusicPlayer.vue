@@ -318,6 +318,9 @@ export default {
 	},
 	mounted() {
 		this.audio = new Audio()
+		if (this.autoplay) {
+			this.audio.src = this.src || this.songs[this.current].src
+		}
 		this.audio.crossOrigin = 'anonymous'
 		this.audio.volume = 0.5
 		this.audio.addEventListener(
