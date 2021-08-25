@@ -1,1 +1,45 @@
-{"styleId":"T3200_921","name":"T3200_921_T-Shirt","program":3531,"programName":"Thin Software Jersey","material":"100% organic Cotton","groupId":"drop-SOFTWARE","colorNames":"Paloma Melange","colorId":921,"responsible":true,"weight":47100,"sizeRange":"XXS, XS, S, M, L, XL","chest":100,"waist":0,"hip":0,"bottomWidth":52,"totalLenght":65,"inseamLenght":0,"sleeveLenght":23,"height":0,"length":0,"width":0,"heelHeight":0,"wholesalePriceDKK":178,"wholesalePriceEUR":27,"wholesalePriceUSD":36,"wholesalePriceGBP":24,"retailPriceDKK":499,"retailPriceEUR":75,"retailPriceUSD":85,"retailPriceGBP":65,"retailRMB":725,"filters":["rtw2"],"PRODUCT_GROUP":"T-Shirt","assets1":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/T3200_3531_921.png","assets2":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/T3200_3531_921_1.png","re-runner":true,"assets":["https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/T3200_3531_921.png","https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/T3200_3531_921_1.png"]}
+{
+  "waist": 0,
+  "retailPriceUSD": 85,
+  "inseamLenght": 0,
+  "chest": 100,
+  "totalLenght": 65,
+  "assets": [
+    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/T3200_3531_921.png",
+    "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/T3200_3531_921_1.png"
+  ],
+  "retailRMB": 725,
+  "program": 3531,
+  "colorNames": "Paloma Melange",
+  "sleeveLenght": 23,
+  "width": 0,
+  "length": 0,
+  "height": 0,
+  "material": "100% organic Cotton",
+  "re-runner": true,
+  "wholesalePriceGBP": 24,
+  "heelHeight": 0,
+  "name": "T3200_921_T-Shirt",
+  "styleId": "T3200_921",
+  "assets1": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/T3200_3531_921.png",
+  "assets2": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/T3200_3531_921_1.png",
+  "PRODUCT_GROUP": "T-Shirt",
+  "retailPriceGBP": 65,
+  "programName": "Thin Software Jersey",
+  "hip": 0,
+  "responsible": true,
+  "wholesalePriceEUR": 27,
+  "weight": 47100,
+  "wholesalePriceDKK": 178,
+  "groupId": "drop-SOFTWARE",
+  "wholesalePriceUSD": 36,
+  "bottomWidth": 52,
+  "filters": [
+    "rtw2",
+    "gr1"
+  ],
+  "sizeRange": "XXS, XS, S, M, L, XL",
+  "retailPriceEUR": 75,
+  "retailPriceDKK": 499,
+  "colorId": 921
+}
