@@ -38,7 +38,8 @@
   "wholesalePriceUSD": 111,
   "bottomWidth": 68,
   "filters": [
-    "rtw11"
+    "rtw11",
+    "gr1"
   ],
   "sizeRange": "32, 34, 36, 38, 40, 42, 44",
   "retailPriceEUR": 225,
