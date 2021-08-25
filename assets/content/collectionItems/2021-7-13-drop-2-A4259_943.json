@@ -1,1 +1,48 @@
-{"waist":0,"retailPriceUSD":95,"inseamLenght":0,"chest":0,"totalLenght":0,"assets":[["https://res.cloudinary.com/dd6fpxydm/image/upload/v1629040660/22.1/PACKSHOTS/A4259_5802_943.png"],["https://res.cloudinary.com/dd6fpxydm/image/upload/v1628876456/22.1/COMMERCIAL/GANNI_SS22_COMMERCIAL_BTS_LANA_OHRIMENKO_HIGHRES_10.jpg"]],"retailRMB":845,"program":5801,"colorNames":"Leopard","sleeveLenght":0,"width":0,"length":0,"height":0,"material":"100% Organic Cotton","re-runner":true,"wholesalePriceGBP":30,"heelHeight":0,"name":"A4259_943_Hat","styleId":"A4259_943","assets1":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4259_5801_943.png","PRODUCT_GROUP":"Hat","retailPriceGBP":75,"programName":"Coated Canvas Accessories","hip":0,"responsible":true,"wholesalePriceEUR":34,"weight":45180,"wholesalePriceDKK":240,"groupId":"drop-2","wholesalePriceUSD":44,"bottomWidth":0,"filters":["acc4"],"sizeRange":"ONE SIZE","retailPriceEUR":85,"retailPriceDKK":599,"colorId":943}
+{
+  "waist": 0,
+  "retailPriceUSD": 95,
+  "inseamLenght": 0,
+  "chest": 0,
+  "totalLenght": 0,
+  "assets": [
+    [
+      "https://res.cloudinary.com/dd6fpxydm/image/upload/v1629040660/22.1/PACKSHOTS/A4259_5802_943.png"
+    ],
+    [
+      "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628876456/22.1/COMMERCIAL/GANNI_SS22_COMMERCIAL_BTS_LANA_OHRIMENKO_HIGHRES_10.jpg"
+    ]
+  ],
+  "retailRMB": 845,
+  "program": 5801,
+  "colorNames": "Leopard",
+  "sleeveLenght": 0,
+  "width": 0,
+  "length": 0,
+  "height": 0,
+  "material": "100% Organic Cotton",
+  "re-runner": true,
+  "wholesalePriceGBP": 30,
+  "heelHeight": 0,
+  "name": "A4259_943_Hat",
+  "styleId": "A4259_943",
+  "assets1": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/A4259_5801_943.png",
+  "PRODUCT_GROUP": "Hat",
+  "retailPriceGBP": 75,
+  "programName": "Coated Canvas Accessories",
+  "hip": 0,
+  "responsible": true,
+  "wholesalePriceEUR": 34,
+  "weight": 45180,
+  "wholesalePriceDKK": 240,
+  "groupId": "drop-2",
+  "wholesalePriceUSD": 44,
+  "bottomWidth": 0,
+  "filters": [
+    "acc4",
+    "gr1"
+  ],
+  "sizeRange": "ONE SIZE",
+  "retailPriceEUR": 85,
+  "retailPriceDKK": 599,
+  "colorId": 943
+}
