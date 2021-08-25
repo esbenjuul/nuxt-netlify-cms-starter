@@ -41,7 +41,8 @@
   "wholesalePriceUSD": 44,
   "bottomWidth": 0,
   "filters": [
-    "rtw14"
+    "rtw14",
+    "gr1"
   ],
   "sizeRange": "32, 34, 36, 38, 40, 42, 44",
   "retailPriceEUR": 85,
