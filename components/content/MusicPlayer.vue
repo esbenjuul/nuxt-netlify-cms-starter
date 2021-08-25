@@ -149,6 +149,10 @@ export default {
 			this.playNewSong()
 		},
 		toggle() {
+			if (!this.audio.src) {
+				this.audio.src = this.src || this.songs[this.current].src
+			}
+
 			this[MUSIC_PLAY_PAUSE.action](!this.musicPlaying)
 		},
 		playNewSong() {
@@ -313,7 +317,7 @@ export default {
 		}
 	},
 	mounted() {
-		this.audio = new Audio(this.src || this.songs[this.current].src)
+		this.audio = new Audio()
 		this.audio.crossOrigin = 'anonymous'
 		this.audio.volume = 0.5
 		this.audio.addEventListener(
