@@ -81,7 +81,7 @@ export default {
 			// placed here to be 'globally' available
 			audioContext: null,
 			analyser: null,
-			dataArray: null,
+			dataArray: new Uint8Array(0),
 			ctx: null,
 			barWidth: null,
 			BG_COLOR: null, // computed from css value
@@ -235,7 +235,8 @@ export default {
 		},
 		updateData() {
 			const renderFrame = () => {
-				if (!this.musicPlaying && this.dataArray.every(v => v === 0)) return
+				// if (!this.musicPlaying && this.dataArray.every(v => v === 0)) return
+				if (!this.musicPlaying) return
 				requestAnimationFrame(renderFrame)
 
 				this.progress = this.audio.currentTime
@@ -289,8 +290,7 @@ export default {
 				// 		.filter((_, i) => i > 1 && i % 2 === 0)
 				// }
 
-				this.audio.currentTime =
-					Math.floor(t / 1000) % (this.audio.duration - 30) || 60
+				this.audio.currentTime = Math.floor(t / 1000) % 60 || 60
 
 				this.$emit('progress', this.audio.currentTime)
 
@@ -323,7 +323,7 @@ export default {
 		this.audio.addEventListener(
 			'canplaythrough',
 			() => {
-				this.audio.currentTime = 0
+				// this.audio.currentTime = 0
 				this.setLoadedState()
 			},
 			{ once: true }
