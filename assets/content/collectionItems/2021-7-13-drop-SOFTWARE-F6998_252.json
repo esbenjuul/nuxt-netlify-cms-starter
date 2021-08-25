@@ -1,1 +1,47 @@
-{"styleId":"F6998_252","name":"F6998_252_Rainwear Top","program":6485,"programName":"Rainwear","material":"100% Recycled polyamide","groupId":"drop-SOFTWARE","colorNames":"Phantom","colorId":252,"responsible":true,"weight":45710,"sizeRange":"32, 34, 36, 38, 40, 42, 44","chest":124,"waist":0,"hip":0,"bottomWidth":68,"totalLenght":116,"inseamLenght":0,"sleeveLenght":74,"height":0,"length":0,"width":0,"heelHeight":0,"wholesalePriceDKK":640,"wholesalePriceEUR":90,"wholesalePriceUSD":111,"wholesalePriceGBP":82,"retailPriceDKK":1599,"retailPriceEUR":225,"retailPriceUSD":265,"retailPriceGBP":205,"retailRMB":2.295,"filters":["rtw11"],"PRODUCT_GROUP":"Rainwear Top","assets1":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6998_6485_252.png","re-runner":true,"assets":["https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6998_6485_252.png"]}
+{
+  "waist": 0,
+  "retailPriceUSD": 265,
+  "inseamLenght": 0,
+  "chest": 124,
+  "totalLenght": 116,
+  "assets": [
+    [
+      "https://res.cloudinary.com/dd6fpxydm/image/upload/v1629311902/22.1/PACKSHOTS/F6998_6485_252.png"
+    ],
+    [
+      "https://res.cloudinary.com/dd6fpxydm/image/upload/v1629311900/22.1/PACKSHOTS/F6998_6485_252_1.png"
+    ]
+  ],
+  "retailRMB": 2.295,
+  "program": 6485,
+  "colorNames": "Phantom",
+  "sleeveLenght": 74,
+  "width": 0,
+  "length": 0,
+  "height": 0,
+  "material": "100% Recycled polyamide",
+  "re-runner": true,
+  "wholesalePriceGBP": 82,
+  "heelHeight": 0,
+  "name": "F6998_252_Rainwear Top",
+  "styleId": "F6998_252",
+  "assets1": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/F6998_6485_252.png",
+  "PRODUCT_GROUP": "Rainwear Top",
+  "retailPriceGBP": 205,
+  "programName": "Rainwear",
+  "hip": 0,
+  "responsible": true,
+  "wholesalePriceEUR": 90,
+  "weight": 45710,
+  "wholesalePriceDKK": 640,
+  "groupId": "drop-SOFTWARE",
+  "wholesalePriceUSD": 111,
+  "bottomWidth": 68,
+  "filters": [
+    "rtw11"
+  ],
+  "sizeRange": "32, 34, 36, 38, 40, 42, 44",
+  "retailPriceEUR": 225,
+  "retailPriceDKK": 1599,
+  "colorId": 252
+}
