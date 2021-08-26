@@ -1,1 +1,24 @@
-{"styleId":"F6001_478","name":"F6001_478_Maxi Dress","program":6270,"programName":"Cotton Seersucker","material":"100% Organic Cotton","groupId":"drop-2","colorNames":"Pink Nectar","colorId":478,"filters":["rtw1"],"responsible":true,"weight":2800,"wholesalePriceDKK":643,"wholesalePriceEUR":92,"wholesalePriceUSD":123,"wholesalePriceGPB":81,"retailPriceDKK":1799,"retailPriceEUR":255,"retailPriceUSD":295,"retailPriceGBP":225}
+{
+  "retailPriceUSD": 295,
+  "program": 6270,
+  "colorNames": "Pink Nectar",
+  "material": "100% Organic Cotton",
+  "wholesalePriceGBP": 81,
+  "name": "F6001_478_Maxi Dress",
+  "styleId": "F6001_478",
+  "retailPriceGBP": 225,
+  "programName": "Cotton Seersucker",
+  "responsible": true,
+  "wholesalePriceEUR": 92,
+  "weight": 2800,
+  "wholesalePriceDKK": 643,
+  "groupId": "drop-2",
+  "wholesalePriceUSD": 123,
+  "filters": [
+    "rtw1",
+    "misc2"
+  ],
+  "retailPriceEUR": 255,
+  "retailPriceDKK": 1799,
+  "colorId": 478
+}

@@ -1,1 +1,26 @@
-{"styleId":"F6005_99","name":"F6005_99_Top","program":6278,"programName":"Seersucker Check","material":"44% REC POLY, 42% ORG COT, 14% PA","groupId":"drop-1","colorNames":"Black","colorId":99,"filters":["rtw8"],"responsible":true,"weight":3300,"wholesalePriceDKK":285,"wholesalePriceEUR":42,"wholesalePriceUSD":57,"wholesalePriceGPB":38,"retailPriceDKK":799,"retailPriceEUR":115,"retailPriceUSD":135,"retailPriceGBP":105}
+{
+  "retailPriceUSD": 135,
+  "program": 6278,
+  "colorNames": "Black",
+  "material": "44% REC POLY, 42% ORG COT, 14% PA",
+  "wholesalePriceGBP": 38,
+  "name": "F6005_99_Top",
+  "styleId": "F6005_99",
+  "retailPriceGBP": 105,
+  "programName": "Seersucker Check",
+  "responsible": true,
+  "wholesalePriceEUR": 42,
+  "weight": 3300,
+  "wholesalePriceDKK": 285,
+  "groupId": "drop-3",
+  "wholesalePriceUSD": 57,
+  "filters": [
+    "rtw8"
+  ],
+  "retailPriceEUR": 115,
+  "retailPriceDKK": 799,
+  "colorId": 99,
+  "group": [
+    "drop-3"
+  ]
+}

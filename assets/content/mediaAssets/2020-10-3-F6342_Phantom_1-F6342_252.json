@@ -1,1 +1,12 @@
-{"assetId":"F6342_Phantom 1","styleId":"F6342_252","name":"F6342_252_Trench Coat","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Coats / Jackets"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604692825/PF21_21.2/packshots_drawings/F6342_252_obnjiq.png",
+  "assetId": "F6342_Phantom 1",
+  "name": "F6342_252_Trench Coat",
+  "styleId": "F6342_252",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Coats / Jackets"
+}

@@ -1,1 +1,12 @@
-{"assetId":"A3393_Pale Banana 1","styleId":"A3393_321","name":"A3393_321_Collar","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Accessories"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440366/PF21_21.2/packshots_collection/A3393_6274_321_pznumf.jpg",
+  "assetId": "A3393_Pale Banana 1",
+  "name": "A3393_321_Collar",
+  "styleId": "A3393_321",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Accessories"
+}

@@ -1,1 +1,23 @@
-{"styleId":"F6098_861","name":"F6098_861_Quited Wrap Coat","program":6264,"programName":"Stretch Canvas","material":"72% Organic Cotton, 25% Polyamide, 3% Elastane","groupId":"drop-1","colorNames":"Kalamata","colorId":861,"filters":["rtw3"],"responsible":true,"weight":3460,"wholesalePriceDKK":800,"wholesalePriceEUR":110,"wholesalePriceUSD":144,"wholesalePriceGPB":102,"retailPriceDKK":1999,"retailPriceEUR":275,"retailPriceUSD":345,"retailPriceGBP":255}
+{
+  "retailPriceUSD": 345,
+  "program": 6264,
+  "colorNames": "Kalamata",
+  "material": "72% Organic Cotton, 25% Polyamide, 3% Elastane",
+  "wholesalePriceGBP": 102,
+  "name": "F6098_861_Quited Wrap Coat",
+  "styleId": "F6098_861",
+  "retailPriceGBP": 255,
+  "programName": "Stretch Canvas",
+  "responsible": true,
+  "wholesalePriceEUR": 110,
+  "weight": 3460,
+  "wholesalePriceDKK": 800,
+  "groupId": "drop-1",
+  "wholesalePriceUSD": 144,
+  "filters": [
+    "rtw3"
+  ],
+  "retailPriceEUR": 275,
+  "retailPriceDKK": 1999,
+  "colorId": 861
+}

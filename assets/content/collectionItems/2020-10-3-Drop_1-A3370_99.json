@@ -1,1 +1,23 @@
-{"styleId":"A3370_99","name":"A3370_99_Bandeau Bikini Top","program":5660,"programName":"Glitter Swim","material":"70% Polyester, 16% Polyester lurex, 8% Polyamide, 6% Elastane","groupId":"drop-1","colorNames":"Black","colorId":99,"filters":["acc4"],"responsible":false,"weight":4230,"wholesalePriceDKK":285,"wholesalePriceEUR":46,"wholesalePriceUSD":57,"wholesalePriceGPB":42,"retailPriceDKK":799,"retailPriceEUR":115,"retailPriceUSD":135,"retailPriceGBP":105}
+{
+  "retailPriceUSD": 135,
+  "program": 5660,
+  "colorNames": "Black",
+  "material": "70% Polyester, 16% Polyester lurex, 8% Polyamide, 6% Elastane",
+  "wholesalePriceGBP": 42,
+  "name": "A3370_99_Bandeau Bikini Top",
+  "styleId": "A3370_99",
+  "retailPriceGBP": 105,
+  "programName": "Glitter Swim",
+  "responsible": false,
+  "wholesalePriceEUR": 46,
+  "weight": 4230,
+  "wholesalePriceDKK": 285,
+  "groupId": "drop-1",
+  "wholesalePriceUSD": 57,
+  "filters": [
+    "acc4"
+  ],
+  "retailPriceEUR": 115,
+  "retailPriceDKK": 799,
+  "colorId": 99
+}

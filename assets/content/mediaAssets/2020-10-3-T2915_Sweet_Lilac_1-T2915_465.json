@@ -1,1 +1,12 @@
-{"assetId":"T2915_Sweet Lilac 1","styleId":"T2915_465","name":"T2915_465_Straight Leg Pants","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"software","filters":"rtw9"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604704204/PF21_21.2/packshots_drawings/T2915_465_fzc4wj.png",
+  "assetId": "T2915_Sweet Lilac 1",
+  "name": "T2915_465_Straight Leg Pants",
+  "styleId": "T2915_465",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "software",
+  "filters": "rtw9"
+}

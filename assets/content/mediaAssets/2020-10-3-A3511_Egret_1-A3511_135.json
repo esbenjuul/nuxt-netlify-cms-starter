@@ -1,1 +1,12 @@
-{"assetId":"A3511_Egret 1","styleId":"A3511_135","name":"A3511_135_Scarf","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Accessories"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440374/PF21_21.2/packshots_collection/A3511_5676_135_vlizbo.jpg",
+  "assetId": "A3511_Egret 1",
+  "name": "A3511_135_Scarf",
+  "styleId": "A3511_135",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Accessories"
+}

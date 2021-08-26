@@ -1,1 +1,12 @@
-{"assetId":"F5954_Pale Banana 1","styleId":"F5954_321","name":"F5954_321_Oversized Dress","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Dresses"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440385/PF21_21.2/packshots_collection/F5954_6254_321_kxlcjn.jpg",
+  "assetId": "F5954_Pale Banana 1",
+  "name": "F5954_321_Oversized Dress",
+  "styleId": "F5954_321",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Dresses"
+}

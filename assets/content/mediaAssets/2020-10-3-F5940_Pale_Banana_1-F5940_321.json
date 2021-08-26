@@ -1,1 +1,12 @@
-{"assetId":"F5940_Pale Banana 1","styleId":"F5940_321","name":"F5940_321_High-wasted Shorts","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Shorts"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440380/PF21_21.2/packshots_collection/F5940_6274_321_pyi6ti.jpg",
+  "assetId": "F5940_Pale Banana 1",
+  "name": "F5940_321_High-wasted Shorts",
+  "styleId": "F5940_321",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Shorts"
+}

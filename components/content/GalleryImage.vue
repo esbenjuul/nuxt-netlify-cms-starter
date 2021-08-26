@@ -1,15 +1,17 @@
 <template>
 	<div class="gallery-image">
-		<img v-lazy="imageUrl" alt="img">
+		<loading />
+		<img v-lazy="imageUrl" alt="img" />
 	</div>
 </template>
 
 <script>
-
 import getCloudinaryUrl from '~/utils/get-cloudinary-url'
+import Loading from '~/components/content/Loading.vue'
 
 export default {
-	name:'gallery-image',
+	name: 'gallery-image',
+	components: { Loading },
 	props: {
 		asset: {
 			type: Object,
@@ -22,13 +24,13 @@ export default {
 	},
 	computed: {
 		imageUrl() {
-			return getCloudinaryUrl(this.$cloudinary, this.asset, {width: 1000});
+			return getCloudinaryUrl(this.$cloudinary, this.asset, { width: 1000 })
 		}
 	},
 	mounted() {
-		if ( this.focused ) {
-			setTimeout(()=> this.$el.scrollIntoView({behavior:'smooth'}), 500);
+		if (this.focused) {
+			setTimeout(() => this.$el.scrollIntoView({ behavior: 'smooth' }), 500)
 		}
 	}
-};
+}
 </script>

@@ -1,1 +1,23 @@
-{"styleId":"T2797_151","name":"T2797_151_T-shirt, Smiley","program":3501,"programName":"Basic Cotton Jersey","material":"100% Organic Cotton","groupId":"drop-2","colorNames":"Bright White","colorId":151,"filters":["rtw10"],"responsible":true,"weight":3100,"wholesalePriceDKK":214,"wholesalePriceEUR":31,"wholesalePriceUSD":44,"wholesalePriceGPB":27,"retailPriceDKK":599,"retailPriceEUR":85,"retailPriceUSD":105,"retailPriceGBP":75}
+{
+  "retailPriceUSD": 105,
+  "program": 3501,
+  "colorNames": "Bright White",
+  "material": "100% Organic Cotton",
+  "wholesalePriceGBP": 27,
+  "name": "T2797_151_T-shirt, Smiley",
+  "styleId": "T2797_151",
+  "retailPriceGBP": 75,
+  "programName": "Basic Cotton Jersey",
+  "responsible": true,
+  "wholesalePriceEUR": 31,
+  "weight": 3100,
+  "wholesalePriceDKK": 214,
+  "groupId": "drop-2",
+  "wholesalePriceUSD": 44,
+  "filters": [
+    "rtw10"
+  ],
+  "retailPriceEUR": 85,
+  "retailPriceDKK": 599,
+  "colorId": 151
+}

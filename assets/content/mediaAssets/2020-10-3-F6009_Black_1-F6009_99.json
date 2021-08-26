@@ -1,1 +1,12 @@
-{"assetId":"F6009_Black 1","styleId":"F6009_99","name":"F6009_99_Blouse","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Tops"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440397/PF21_21.2/packshots_collection/F6009_6278_099_x1rk6c.jpg",
+  "assetId": "F6009_Black 1",
+  "name": "F6009_99_Blouse",
+  "styleId": "F6009_99",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Tops"
+}

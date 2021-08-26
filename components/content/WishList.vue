@@ -91,11 +91,11 @@
 									<td>DKK {{ currentWishListItem.wholesalePriceDKK }}</td>
 								</tr>
 								<tr v-if="SHOW_WHOLESALE_PRICE">
-									<th>Wholesale price</th>
+									<th></th>
 									<td>EUR {{ currentWishListItem.wholesalePriceEUR }}</td>
 								</tr>
 								<tr v-if="SHOW_WHOLESALE_PRICE">
-									<th>Wholesale price</th>
+									<th></th>
 									<td>USD {{ currentWishListItem.wholesalePriceUSD }}</td>
 								</tr>
 								<tr
@@ -104,7 +104,7 @@
 											SHOW_WHOLESALE_PRICE
 									"
 								>
-									<th>Wholesale price</th>
+									<th></th>
 									<td>GBP {{ currentWishListItem.wholesalePriceGBP }}</td>
 								</tr>
 
@@ -118,15 +118,15 @@
 									<td>DKK {{ currentWishListItem.retailPriceDKK }}</td>
 								</tr>
 								<tr>
-									<th>Suggested retail price</th>
+									<th></th>
 									<td>EUR {{ currentWishListItem.retailPriceEUR }}</td>
 								</tr>
 								<tr>
-									<th>Suggested retail price</th>
+									<th></th>
 									<td>USD {{ currentWishListItem.retailPriceUSD }}</td>
 								</tr>
 								<tr v-if="currentWishListItem.retailPriceGBP">
-									<th>Suggested retail price</th>
+									<th></th>
 									<td>GBP {{ currentWishListItem.retailPriceGBP }}</td>
 								</tr>
 							</tbody>

@@ -1,1 +1,12 @@
-{"assetId":"A3394_Daphne 1","styleId":"A3394_572","name":"A3394_572_Collar","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Accessories"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440365/PF21_21.2/packshots_collection/A3394_6236_527_nbygoa.jpg",
+  "assetId": "A3394_Daphne 1",
+  "name": "A3394_572_Collar",
+  "styleId": "A3394_572",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Accessories"
+}

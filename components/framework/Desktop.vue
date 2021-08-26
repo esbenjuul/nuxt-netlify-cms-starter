@@ -4,13 +4,10 @@
 			class="desktop"
 			:class="idle && 'screensaver-running'"
 			:style="{
-				backgroundSize: webcamImage && '400px',
-				backgroundColor: desktopBackground.color
+				backgroundSize: webcamImage && '400px'
 			}"
 		>
-			<div class="desktop__background">
-				<img v-if="desktopBackground.image" :src="desktopBackground.image" />
-			</div>
+			<background-image />
 
 			<div
 				:class="{
@@ -101,24 +98,6 @@
 						</header>
 						<div class="window__content">
 							<span class="icon">
-								<!-- <svg
-									viewBox="0 0 56 56"
-									fill="none"
-									xmlns="http://www.w3.org/2000/svg"
-								>
-									<path
-										d="M27.958 55.916c15.441 0 27.959-12.517 27.959-27.958C55.916 12.518 43.398 0 27.957 0 12.518 0 0 12.517 0 27.958 0 43.4 12.517 55.917 27.958 55.917z"
-										fill="#FF0"
-									/>
-									<path
-										d="M27.958 46.319c-10.182 0-18.444-8.262-18.444-18.444 0-.25.167-.418.417-.418.25 0 .417.168.417.418 0 9.68 7.929 17.61 17.61 17.61 9.68 0 17.61-7.93 17.61-17.694 0-.25.166-.417.417-.417.25 0 .417.167.417.417 0 10.182-8.262 18.528-18.444 18.528z"
-										fill="#000"
-									/>
-									<path
-										d="M21.115 27.625c1.336 0 2.42-2.616 2.42-5.843 0-3.226-1.084-5.842-2.42-5.842-1.337 0-2.42 2.616-2.42 5.842 0 3.227 1.083 5.843 2.42 5.843zM33.633 27.625c1.337 0 2.42-2.616 2.42-5.843 0-3.226-1.083-5.842-2.42-5.842s-2.42 2.616-2.42 5.842c0 3.227 1.084 5.843 2.42 5.843z"
-										fill="#000"
-									/>
-								</svg> -->
 								<img src="/img/smiley-bw.png" />
 
 								<p>
@@ -165,6 +144,7 @@ import Window from '~/components/framework/Window.vue'
 import Assistant from '~/components/framework/Assistant.vue'
 import Support from '~/components/framework/Support.vue'
 import Marquee from '~/components/content/Marquee.vue'
+import BackgroundImage from '~/components/content/BackgroundImage.vue'
 
 import ContentTypes from '~/model/content-types'
 
@@ -179,11 +159,11 @@ export default {
 		Marquee,
 		Assistant,
 		Support,
-		VueDraggableResizable
+		VueDraggableResizable,
+		BackgroundImage
 	},
 	computed: {
 		...mapState(['wallpaperIndex', 'windowList']),
-		...mapState('assets', ['desktopBackground']),
 		...mapState('collage', ['webcamImage']),
 		...mapState('shortcuts', ['list', 'textStyledWithoutIcon']),
 		...mapState('user', ['copyrightAccepted', 'mousepos', 'idle']),
@@ -208,10 +188,10 @@ export default {
 			return this.list.filter(s => s.type == ShortcutTypes.BADGE)
 		},
 
-		backgroundImageObj() {
-			return {
-				src: `/img/wallpapers/wallpaper3.jpg`
-			}
+		backgroundImage() {
+			// return {
+			// 	src: `/img/wallpapers/wallpaper3.jpg`
+			// }
 			// src: `/img/wallpapers/wallpaper${getRandomInt(1,this.wallpaperCount)}.jpg`
 			// loading: '/img/login-slide.jpg'
 		}
@@ -238,7 +218,8 @@ export default {
 		return {
 			showClipboardMessage: false,
 			showDownloadMessage: false,
-			wallpaperCount: 6
+			wallpaperCount: 6,
+			backgrounds: []
 		}
 	},
 	methods: {

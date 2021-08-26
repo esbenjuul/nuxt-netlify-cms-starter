@@ -1,1 +1,23 @@
-{"styleId":"F6016_696","name":"F6016_696_High-waisted Bootcut Jeans","program":6276,"programName":"Heavy Denim","material":"100% Organic Cotton","groupId":"drop-2","colorNames":"Dark Indigo","colorId":696,"filters":["rtw2"],"responsible":true,"weight":2730,"wholesalePriceDKK":592,"wholesalePriceEUR":84,"wholesalePriceUSD":111,"wholesalePriceGPB":76,"retailPriceDKK":1599,"retailPriceEUR":225,"retailPriceUSD":265,"retailPriceGBP":205}
+{
+  "retailPriceUSD": 265,
+  "program": 6276,
+  "colorNames": "Dark Indigo",
+  "material": "100% Organic Cotton",
+  "wholesalePriceGBP": 76,
+  "name": "F6016_696_High-waisted Bootcut Jeans",
+  "styleId": "F6016_696",
+  "retailPriceGBP": 205,
+  "programName": "Heavy Denim",
+  "responsible": true,
+  "wholesalePriceEUR": 84,
+  "weight": 2730,
+  "wholesalePriceDKK": 592,
+  "groupId": "drop-2",
+  "wholesalePriceUSD": 111,
+  "filters": [
+    "rtw2"
+  ],
+  "retailPriceEUR": 225,
+  "retailPriceDKK": 1599,
+  "colorId": 696
+}

@@ -1,1 +1,12 @@
-{"assetId":"S1553_Shocking Pink 1","styleId":"S1553_546","name":"S1553_546_City Boot","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Shoes"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604840605/PF21_21.2/packshots_collection/S1553_4628_546_c4d4f4.jpg",
+  "assetId": "S1553_Shocking Pink 1",
+  "name": "S1553_546_City Boot",
+  "styleId": "S1553_546",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Shoes"
+}

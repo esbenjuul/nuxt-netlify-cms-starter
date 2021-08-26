@@ -1,1 +1,12 @@
-{"assetId":"A3353_Pink Nectar 1","styleId":"A3353_478","name":"A3353_478_Gathered Swimsuit","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Swimwear"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440362/PF21_21.2/packshots_collection/A3353_5658_478_ybntdm.jpg",
+  "assetId": "A3353_Pink Nectar 1",
+  "name": "A3353_478_Gathered Swimsuit",
+  "styleId": "A3353_478",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Swimwear"
+}

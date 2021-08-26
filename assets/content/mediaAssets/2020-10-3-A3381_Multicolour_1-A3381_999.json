@@ -1,1 +1,12 @@
-{"assetId":"A3381_Multicolour 1","styleId":"A3381_999","name":"A3381_999_Purse","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Accessories"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604839976/PF21_21.2/packshots_collection/A3381_5669_999_zemidr.jpg",
+  "assetId": "A3381_Multicolour 1",
+  "name": "A3381_999_Purse",
+  "styleId": "A3381_999",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Accessories"
+}

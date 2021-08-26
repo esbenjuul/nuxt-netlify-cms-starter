@@ -1,1 +1,24 @@
-{"styleId":"F6082_321","name":"F6082_321_Pants","program":6273,"programName":"Summer Suiting","material":"56% Recycled Polyester, 44% Viscose","groupId":"drop-2","colorNames":"Pale Banana","colorId":321,"filters":["rtw9"],"responsible":true,"weight":2740,"wholesalePriceDKK":840,"wholesalePriceEUR":102,"wholesalePriceUSD":144,"wholesalePriceGPB":95,"retailPriceDKK":2099,"retailPriceEUR":285,"retailPriceUSD":345,"retailPriceGBP":265}
+{
+  "retailPriceUSD": 345,
+  "program": 6273,
+  "colorNames": "Pale Banana",
+  "material": "56% Recycled Polyester, 44% Viscose",
+  "wholesalePriceGBP": 95,
+  "name": "F6082_321_Pants",
+  "styleId": "F6082_321",
+  "retailPriceGBP": 265,
+  "programName": "Summer Suiting",
+  "responsible": true,
+  "wholesalePriceEUR": 102,
+  "weight": 2740,
+  "wholesalePriceDKK": 840,
+  "groupId": "drop-2",
+  "wholesalePriceUSD": 144,
+  "filters": [
+    "rtw9",
+    "misc2"
+  ],
+  "retailPriceEUR": 285,
+  "retailPriceDKK": 2099,
+  "colorId": 321
+}

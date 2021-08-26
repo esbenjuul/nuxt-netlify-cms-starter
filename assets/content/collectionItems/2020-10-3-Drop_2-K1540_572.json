@@ -1,1 +1,23 @@
-{"styleId":"K1540_572","name":"K1540_572_Vest","program":2513,"programName":"Rib Knit","material":"60% Recycled Wool, 10% Wool,18% Polyamide, 7% Recycled Polyamide, 5% Other fibers.","groupId":"drop-2","colorNames":"Daphne","colorId":572,"filters":["rtw5"],"responsible":true,"weight":3180,"wholesalePriceDKK":480,"wholesalePriceEUR":70,"wholesalePriceUSD":86,"wholesalePriceGPB":62,"retailPriceDKK":1199,"retailPriceEUR":175,"retailPriceUSD":195,"retailPriceGBP":155}
+{
+  "retailPriceUSD": 195,
+  "program": 2513,
+  "colorNames": "Daphne",
+  "material": "60% Recycled Wool, 10% Wool,18% Polyamide, 7% Recycled Polyamide, 5% Other fibers.",
+  "wholesalePriceGBP": 62,
+  "name": "K1540_572_Vest",
+  "styleId": "K1540_572",
+  "retailPriceGBP": 155,
+  "programName": "Rib Knit",
+  "responsible": true,
+  "wholesalePriceEUR": 70,
+  "weight": 3180,
+  "wholesalePriceDKK": 480,
+  "groupId": "drop-2",
+  "wholesalePriceUSD": 86,
+  "filters": [
+    "rtw5"
+  ],
+  "retailPriceEUR": 175,
+  "retailPriceDKK": 1199,
+  "colorId": 572
+}

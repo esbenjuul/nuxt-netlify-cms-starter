@@ -1,1 +1,12 @@
-{"assetId":"K1574_Kelly Green 1","styleId":"K1574_801","name":"K1574_801_Vest","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-3","filters":"Knitwear"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440466/PF21_21.2/packshots_collection/K1574_2518_801_vosnrj.jpg",
+  "assetId": "K1574_Kelly Green 1",
+  "name": "K1574_801_Vest",
+  "styleId": "K1574_801",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-3",
+  "filters": "Knitwear"
+}

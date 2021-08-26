@@ -1,1 +1,24 @@
-{"styleId":"F6024_483","name":"F6024_483_Wrap Dress","program":6245,"programName":"Printed Cotton Poplin","material":"100% Organic Cotton","groupId":"drop-1","colorNames":"Shocking Pink","colorId":483,"filters":["rtw1"],"responsible":true,"weight":3650,"wholesalePriceDKK":678,"wholesalePriceEUR":95,"wholesalePriceUSD":136,"wholesalePriceGPB":88,"retailPriceDKK":1899,"retailPriceEUR":265,"retailPriceUSD":325,"retailPriceGBP":245}
+{
+  "retailPriceUSD": 325,
+  "program": 6245,
+  "colorNames": "Shocking Pink",
+  "material": "100% Organic Cotton",
+  "wholesalePriceGBP": 88,
+  "name": "F6024_483_Wrap Dress",
+  "styleId": "F6024_483",
+  "retailPriceGBP": 245,
+  "programName": "Printed Cotton Poplin",
+  "responsible": true,
+  "wholesalePriceEUR": 95,
+  "weight": 3650,
+  "wholesalePriceDKK": 678,
+  "groupId": "drop-1",
+  "wholesalePriceUSD": 136,
+  "filters": [
+    "rtw1",
+    "misc2"
+  ],
+  "retailPriceEUR": 265,
+  "retailPriceDKK": 1899,
+  "colorId": 483
+}

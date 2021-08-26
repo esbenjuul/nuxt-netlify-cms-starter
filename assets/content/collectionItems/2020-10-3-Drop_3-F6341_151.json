@@ -1,1 +1,24 @@
-{"styleId":"F6341_151","name":"F6341_151_Dress","program":6246,"programName":"Cotton Poplin","material":"100% Organic Cotton","groupId":"drop-3","colorNames":"Bright White","colorId":151,"filters":["rtw1","misc1"],"responsible":true,"weight":2290,"wholesalePriceDKK":643,"wholesalePriceEUR":92,"wholesalePriceUSD":123,"wholesalePriceGPB":81,"retailPriceDKK":1799,"retailPriceEUR":255,"retailPriceUSD":295,"retailPriceGBP":225}
+{
+  "retailPriceUSD": 295,
+  "program": 6246,
+  "colorNames": "Bright White",
+  "material": "100% Organic Cotton",
+  "wholesalePriceGBP": 81,
+  "name": "F6341_151_Dress",
+  "styleId": "F6341_151",
+  "retailPriceGBP": 225,
+  "programName": "Cotton Poplin",
+  "responsible": true,
+  "wholesalePriceEUR": 92,
+  "weight": 2290,
+  "wholesalePriceDKK": 643,
+  "groupId": "drop-3",
+  "wholesalePriceUSD": 123,
+  "filters": [
+    "rtw1",
+    "misc1"
+  ],
+  "retailPriceEUR": 255,
+  "retailPriceDKK": 1799,
+  "colorId": 151
+}

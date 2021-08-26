@@ -1,1 +1,12 @@
-{"assetId":"F6339_Bright White 1","styleId":"F6339_151","name":"F6339_151_Shirt","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-3","filters":"Tops"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440439/PF21_21.2/packshots_collection/F6339_6246_151_vrgtre.jpg",
+  "assetId": "F6339_Bright White 1",
+  "name": "F6339_151_Shirt",
+  "styleId": "F6339_151",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-3",
+  "filters": "Tops"
+}

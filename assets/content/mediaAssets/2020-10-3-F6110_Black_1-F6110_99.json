@@ -1,1 +1,12 @@
-{"assetId":"F6110_Black 1","styleId":"F6110_99","name":"F6110_99_High-waisted Shorts","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-2","filters":"Shorts"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440424/PF21_21.2/packshots_collection/F6110_6280_009_tdexe8.jpg",
+  "assetId": "F6110_Black 1",
+  "name": "F6110_99_High-waisted Shorts",
+  "styleId": "F6110_99",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-2",
+  "filters": "Shorts"
+}

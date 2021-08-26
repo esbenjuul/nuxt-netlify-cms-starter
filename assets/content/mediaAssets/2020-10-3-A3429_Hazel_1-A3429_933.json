@@ -1,1 +1,12 @@
-{"assetId":"A3429_Hazel 1","styleId":"A3429_933","name":"A3429_933_Hat","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"software","filters":"acc5"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1605630777/PF21_21.2/packshots_collection/A3429_933_ptb0if.jpg",
+  "assetId": "A3429_Hazel 1",
+  "name": "A3429_933_Hat",
+  "styleId": "A3429_933",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "software",
+  "filters": "acc5"
+}

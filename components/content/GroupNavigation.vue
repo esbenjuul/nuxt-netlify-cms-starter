@@ -2,7 +2,7 @@
 	<div class="group-navigation">
 		<label
 			for="all"
-			:style="{ width: `${100 / (authorizedGroups.length + 1)}%` }"
+			:style="{ width: `${75 / (authorizedGroups.length + 1)}%` }"
 		>
 			<input
 				id="all"
@@ -15,9 +15,15 @@
 		</label>
 		<label
 			:for="group.groupId"
-			v-for="group in authorizedGroups"
+			v-for="(group, i) in authorizedGroups"
 			:key="group.name"
-			:style="{ width: `${100 / (authorizedGroups.length + 1)}%` }"
+			:style="{
+				width: `${
+					i === authorizedGroups.length - 1
+						? 25
+						: 75 / (authorizedGroups.length + 1)
+				}%`
+			}"
 		>
 			<input
 				:id="group.groupId"

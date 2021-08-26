@@ -69,6 +69,8 @@
 		img {
 			width: 100%;
 			background-color: $color-lightgrey;
+			object-fit: cover;
+
 			@include mq($from: screen-md) {
 				height: rem(298);
 			}

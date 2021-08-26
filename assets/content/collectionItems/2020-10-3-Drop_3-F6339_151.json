@@ -1,1 +1,24 @@
-{"styleId":"F6339_151","name":"F6339_151_Shirt","program":6246,"programName":"Cotton Poplin","material":"100% Organic Cotton","groupId":"drop-3","colorNames":"Bright White","colorId":151,"filters":["rtw8","misc1"],"responsible":true,"weight":2310,"wholesalePriceDKK":357,"wholesalePriceEUR":52,"wholesalePriceUSD":69,"wholesalePriceGPB":45,"retailPriceDKK":999,"retailPriceEUR":145,"retailPriceUSD":165,"retailPriceGBP":125}
+{
+  "retailPriceUSD": 165,
+  "program": 6246,
+  "colorNames": "Bright White",
+  "material": "100% Organic Cotton",
+  "wholesalePriceGBP": 45,
+  "name": "F6339_151_Shirt",
+  "styleId": "F6339_151",
+  "retailPriceGBP": 125,
+  "programName": "Cotton Poplin",
+  "responsible": true,
+  "wholesalePriceEUR": 52,
+  "weight": 3541,
+  "wholesalePriceDKK": 357,
+  "groupId": "drop-3",
+  "wholesalePriceUSD": 69,
+  "filters": [
+    "rtw8",
+    "misc1"
+  ],
+  "retailPriceEUR": 145,
+  "retailPriceDKK": 999,
+  "colorId": 151
+}

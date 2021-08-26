@@ -122,12 +122,12 @@
 import { vuex, mapActions, mapState } from 'vuex'
 import {
 	CLOSE_WINDOW_GROUP,
-	SHOW_NEXT_STYLE,
-	SHOW_PREVIOUS_STYLE,
+	// SHOW_NEXT_STYLE,
+	SHOW_NEW_STYLE,
 	ASSISTANT_MODE,
 	ASSISTANT_EXPANDED,
 	CURRENT_STYLE,
-	SET_HIDDEN_ASSETS
+	SET_HIDDEN_ASSETS,
 } from '~/model/constants'
 
 import AssistantModeWelcome from '~/components/content/AssistantModeWelcome.vue'
@@ -152,11 +152,11 @@ export default {
 		AssistantModeWishlist,
 		AssistantModeCollectionSeen,
 		AssistantModeCustom,
-		AssistantModePuzzle
+		AssistantModePuzzle,
 	},
 	data() {
 		return {
-			filterName: null
+			filterName: null,
 		}
 	},
 	computed: {
@@ -166,14 +166,14 @@ export default {
 			'allStyles',
 			'currentStyle',
 			'currentStyles',
-			'activeFilter'
+			'activeFilter',
 		]),
 		...mapState('assistant', ['assistantMode', 'expanded']),
 		...mapState('utils', ['isMobile']),
 
 		filterStatusText() {
 			return this.filterName || 'Filter'
-		}
+		},
 	},
 	watch: {
 		activeFilter(newVal) {
@@ -204,7 +204,7 @@ export default {
 							contentComponentProps.asset.styleId
 						) {
 							const currentStyle = this.allStyles.filter(
-								e => e.styleId === contentComponentProps.asset.styleId
+								(e) => e.styleId === contentComponentProps.asset.styleId
 							)[0]
 							this[CURRENT_STYLE.action](currentStyle)
 							this[SET_HIDDEN_ASSETS.action]()
@@ -236,27 +236,33 @@ export default {
 			) {
 				this[ASSISTANT_MODE.action](AssistantModes.WELCOME)
 			}
-		}
+		},
 	},
 	methods: {
 		...mapActions([CLOSE_WINDOW_GROUP.action]),
 		...mapActions('collection', [
-			SHOW_PREVIOUS_STYLE.action,
-			SHOW_NEXT_STYLE.action,
+			SHOW_NEW_STYLE.action,
+			// SHOW_NEXT_STYLE.action,
 			CURRENT_STYLE.action,
-			SET_HIDDEN_ASSETS.action
+			SET_HIDDEN_ASSETS.action,
 		]),
 		...mapActions('assistant', [
 			ASSISTANT_MODE.action,
-			ASSISTANT_EXPANDED.action
+			ASSISTANT_EXPANDED.action,
 		]),
 
 		previousStyleHandler() {
-			this[SHOW_PREVIOUS_STYLE.action](this.currentStyle.styleId)
+			this[SHOW_NEW_STYLE.action]({
+				styleId: this.currentStyle.styleId,
+				previous: true,
+			})
 		},
 
 		nextStyleHandler() {
-			this[SHOW_NEXT_STYLE.action](this.currentStyle.styleId)
+			this[SHOW_NEW_STYLE.action]({
+				styleId: this.currentStyle.styleId,
+				next: true,
+			})
 		},
 
 		closeStyleHandler() {
@@ -265,12 +271,12 @@ export default {
 
 		toggleContentHandler() {
 			this[ASSISTANT_EXPANDED.action](!this.expanded)
-		}
+		},
 	},
 	mounted() {
 		if (this.isMobile) {
 			this[ASSISTANT_EXPANDED.action](false)
 		}
-	}
+	},
 }
 </script>

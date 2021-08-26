@@ -1,1 +1,12 @@
-{"assetId":"K1523_Black 1","styleId":"K1523_99","name":"K1523_99_Top","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-2","filters":"Tops"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440442/PF21_21.2/packshots_collection/K1523_2515_099_fb1arl.jpg",
+  "assetId": "K1523_Black 1",
+  "name": "K1523_99_Top",
+  "styleId": "K1523_99",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-2",
+  "filters": "Tops"
+}

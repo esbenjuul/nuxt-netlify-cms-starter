@@ -1,1 +1,24 @@
-{"styleId":"F5972_470","name":"F5972_470_Wrap Dress","program":6253,"programName":"Embellished Cotton","material":"100% Organic Cotton","groupId":"drop-2","colorNames":"Madder Brown","colorId":470,"filters":["rtw1"],"responsible":true,"weight":2850,"wholesalePriceDKK":1000,"wholesalePriceEUR":138,"wholesalePriceUSD":178,"wholesalePriceGPB":130,"retailPriceDKK":2499,"retailPriceEUR":345,"retailPriceUSD":425,"retailPriceGBP":325}
+{
+  "retailPriceUSD": 425,
+  "program": 6253,
+  "colorNames": "Madder Brown",
+  "material": "100% Organic Cotton",
+  "wholesalePriceGBP": 130,
+  "name": "F5972_470_Wrap Dress",
+  "styleId": "F5972_470",
+  "retailPriceGBP": 325,
+  "programName": "Embellished Cotton",
+  "responsible": true,
+  "wholesalePriceEUR": 138,
+  "weight": 2850,
+  "wholesalePriceDKK": 1000,
+  "groupId": "drop-2",
+  "wholesalePriceUSD": 178,
+  "filters": [
+    "rtw1",
+    "misc2"
+  ],
+  "retailPriceEUR": 345,
+  "retailPriceDKK": 2499,
+  "colorId": 470
+}

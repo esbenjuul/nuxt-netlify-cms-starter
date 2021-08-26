@@ -1,1 +1,23 @@
-{"styleId":"T2910_135","name":"T2910_135_Oversized Sweatshirt","program":3529,"programName":"software Isoli","material":"50% Recycled Cot, 50% Recycled Poly","groupId":"software","colorNames":"Egret","colorId":135,"filters":["rtw8"],"responsible":true,"weight":1900,"wholesalePriceDKK":393,"wholesalePriceEUR":56,"wholesalePriceUSD":78,"wholesalePriceGPB":52,"retailPriceDKK":1099,"retailPriceEUR":155,"retailPriceUSD":185,"retailPriceGBP":145}
+{
+  "retailPriceUSD": 185,
+  "program": 3529,
+  "colorNames": "Egret",
+  "material": "50% Recycled Cot, 50% Recycled Poly",
+  "name": "T2910_135_Oversized Sweatshirt",
+  "styleId": "T2910_135",
+  "wholesalePriceGBP": 52,
+  "retailPriceGBP": 145,
+  "programName": "software Isoli",
+  "responsible": true,
+  "wholesalePriceEUR": 56,
+  "weight": 1900,
+  "wholesalePriceDKK": 393,
+  "groupId": "software",
+  "wholesalePriceUSD": 78,
+  "filters": [
+    "rtw8"
+  ],
+  "retailPriceEUR": 165,
+  "retailPriceDKK": 1099,
+  "colorId": 135
+}

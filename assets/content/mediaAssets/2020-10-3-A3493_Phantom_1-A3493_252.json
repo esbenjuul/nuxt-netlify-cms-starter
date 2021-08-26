@@ -1,1 +1,12 @@
-{"assetId":"A3493_Phantom 1","styleId":"A3493_252","name":"A3493_252_Scrunchie","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-3","filters":"Accessories"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440372/PF21_21.2/packshots_collection/A3493_6248_252_bnxj3x.jpg",
+  "assetId": "A3493_Phantom 1",
+  "name": "A3493_252_Scrunchie",
+  "styleId": "A3493_252",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-3",
+  "filters": "Accessories"
+}

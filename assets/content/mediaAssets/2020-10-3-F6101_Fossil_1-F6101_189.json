@@ -1,1 +1,12 @@
-{"assetId":"F6101_Fossil 1","styleId":"F6101_189","name":"F6101_189_Shorts","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-3","filters":"Shorts"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440420/PF21_21.2/packshots_collection/F6101_6262_189_bmiguq.jpg",
+  "assetId": "F6101_Fossil 1",
+  "name": "F6101_189_Shorts",
+  "styleId": "F6101_189",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-3",
+  "filters": "Shorts"
+}

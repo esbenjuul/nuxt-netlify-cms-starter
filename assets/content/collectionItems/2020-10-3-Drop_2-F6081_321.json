@@ -1,1 +1,24 @@
-{"styleId":"F6081_321","name":"F6081_321_Blazer","program":6273,"programName":"Summer Suiting","material":"56% Recycled Polyester, 44% Viscose","groupId":"drop-2","colorNames":"Pale Banana","colorId":321,"filters":["rtw3"],"responsible":true,"weight":2760,"wholesalePriceDKK":1040,"wholesalePriceEUR":134,"wholesalePriceUSD":178,"wholesalePriceGPB":117,"retailPriceDKK":2599,"retailPriceEUR":375,"retailPriceUSD":425,"retailPriceGBP":325}
+{
+  "retailPriceUSD": 425,
+  "program": 6273,
+  "colorNames": "Pale Banana",
+  "material": "56% Recycled Polyester, 44% Viscose",
+  "wholesalePriceGBP": 117,
+  "name": "F6081_321_Blazer",
+  "styleId": "F6081_321",
+  "retailPriceGBP": 325,
+  "programName": "Summer Suiting",
+  "responsible": true,
+  "wholesalePriceEUR": 134,
+  "weight": 2760,
+  "wholesalePriceDKK": 1040,
+  "groupId": "drop-2",
+  "wholesalePriceUSD": 178,
+  "filters": [
+    "rtw3",
+    "misc2"
+  ],
+  "retailPriceEUR": 375,
+  "retailPriceDKK": 2599,
+  "colorId": 321
+}

@@ -1,1 +1,12 @@
-{"assetId":"A3445_Pink Nectar 1","styleId":"A3445_478","name":"A3445_478_String Bikini Top","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Swimwear"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440370/PF21_21.2/packshots_collection/A3445_5658_478_bbczoh.jpg",
+  "assetId": "A3445_Pink Nectar 1",
+  "name": "A3445_478_String Bikini Top",
+  "styleId": "A3445_478",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Swimwear"
+}

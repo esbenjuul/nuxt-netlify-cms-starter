@@ -1,1 +1,23 @@
-{"styleId":"K1577_196","name":"K1577_196_Cardigan","program":2530,"programName":"Cotton Rope Knit","material":"55% Cotton, 45% Polyamide + 100% Cotton","groupId":"drop-2","colorNames":"Brazilian Sand","colorId":196,"filters":["rtw5"],"responsible":false,"weight":3120,"wholesalePriceDKK":1000,"wholesalePriceEUR":138,"wholesalePriceUSD":178,"wholesalePriceGPB":130,"retailPriceDKK":2499,"retailPriceEUR":345,"retailPriceUSD":425,"retailPriceGBP":325}
+{
+  "retailPriceUSD": 425,
+  "program": 2530,
+  "colorNames": "Brazilian Sand",
+  "material": "55% Cotton, 45% Polyamide + 100% Cotton",
+  "wholesalePriceGBP": 130,
+  "name": "K1577_196_Cardigan",
+  "styleId": "K1577_196",
+  "retailPriceGBP": 325,
+  "programName": "Cotton Rope Knit",
+  "responsible": false,
+  "wholesalePriceEUR": 138,
+  "weight": 3120,
+  "wholesalePriceDKK": 1000,
+  "groupId": "drop-2",
+  "wholesalePriceUSD": 178,
+  "filters": [
+    "rtw5"
+  ],
+  "retailPriceEUR": 345,
+  "retailPriceDKK": 2499,
+  "colorId": 196
+}

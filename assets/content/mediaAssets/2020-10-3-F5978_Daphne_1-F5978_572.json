@@ -1,1 +1,12 @@
-{"assetId":"F5978_Daphne 1","styleId":"F5978_572","name":"F5978_572_Shirt","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Tops"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440390/PF21_21.2/packshots_collection/F5978_6236_527_bk57jm.jpg",
+  "assetId": "F5978_Daphne 1",
+  "name": "F5978_572_Shirt",
+  "styleId": "F5978_572",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Tops"
+}

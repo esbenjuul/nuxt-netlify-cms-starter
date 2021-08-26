@@ -1,1 +1,12 @@
-{"assetId":"F5966_Phantom 1","styleId":"F5966_252","name":"F5966_252_Fitted Dress","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-3","filters":"Dresses"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440387/PF21_21.2/packshots_collection/F5966_6251_252_jmnqpx.jpg",
+  "assetId": "F5966_Phantom 1",
+  "name": "F5966_252_Fitted Dress",
+  "styleId": "F5966_252",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-3",
+  "filters": "Dresses"
+}

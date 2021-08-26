@@ -1,1 +1,23 @@
-{"styleId":"F6029_483","name":"F6029_483_Mini Dress","program":6245,"programName":"Printed Cotton Poplin","material":"100% Organic Cotton","groupId":"drop-1","colorNames":"Shocking Pink","colorId":483,"filters":["rtw1"],"responsible":true,"weight":3620,"wholesalePriceDKK":464,"wholesalePriceEUR":67,"wholesalePriceUSD":90,"wholesalePriceGPB":59,"retailPriceDKK":1299,"retailPriceEUR":185,"retailPriceUSD":215,"retailPriceGBP":165}
+{
+  "retailPriceUSD": 215,
+  "program": 6245,
+  "colorNames": "Shocking Pink",
+  "material": "100% Organic Cotton",
+  "wholesalePriceGBP": 59,
+  "name": "F6029_483_Mini Dress",
+  "styleId": "F6029_483",
+  "retailPriceGBP": 165,
+  "programName": "Printed Cotton Poplin",
+  "responsible": true,
+  "wholesalePriceEUR": 67,
+  "weight": 3620,
+  "wholesalePriceDKK": 464,
+  "groupId": "drop-1",
+  "wholesalePriceUSD": 90,
+  "filters": [
+    "rtw1"
+  ],
+  "retailPriceEUR": 185,
+  "retailPriceDKK": 1299,
+  "colorId": 483
+}

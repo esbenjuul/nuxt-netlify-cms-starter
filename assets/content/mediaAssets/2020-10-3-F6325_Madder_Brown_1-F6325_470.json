@@ -1,1 +1,12 @@
-{"assetId":"F6325_Madder Brown 1","styleId":"F6325_470","name":"F6325_470_Shirt","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-3","filters":"Tops"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440431/PF21_21.2/packshots_collection/F6325_6239_470_jahuqg.jpg",
+  "assetId": "F6325_Madder Brown 1",
+  "name": "F6325_470_Shirt",
+  "styleId": "F6325_470",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-3",
+  "filters": "Tops"
+}

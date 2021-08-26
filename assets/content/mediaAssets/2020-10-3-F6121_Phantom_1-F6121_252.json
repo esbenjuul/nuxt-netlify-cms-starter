@@ -1,1 +1,12 @@
-{"assetId":"F6121_Phantom 1","styleId":"F6121_252","name":"F6121_252_Fitted Blouse","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-3","filters":"Tops"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440429/PF21_21.2/packshots_collection/F6121_6251_252_eflqpo.jpg",
+  "assetId": "F6121_Phantom 1",
+  "name": "F6121_252_Fitted Blouse",
+  "styleId": "F6121_252",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-3",
+  "filters": "Tops"
+}

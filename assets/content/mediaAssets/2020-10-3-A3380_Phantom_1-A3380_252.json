@@ -1,1 +1,12 @@
-{"assetId":"A3380_Phantom 1","styleId":"A3380_252","name":"A3380_252_Festival Bag","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Bags"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440362/PF21_21.2/packshots_collection/A3380_5669_252_nw8ksp.jpg",
+  "assetId": "A3380_Phantom 1",
+  "name": "A3380_252_Festival Bag",
+  "styleId": "A3380_252",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Bags"
+}

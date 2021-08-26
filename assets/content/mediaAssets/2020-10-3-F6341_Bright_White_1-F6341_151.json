@@ -1,1 +1,12 @@
-{"assetId":"F6341_Bright White 1","styleId":"F6341_151","name":"F6341_151_Dress","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-3","filters":"Dresses"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440440/PF21_21.2/packshots_collection/F6341_6246_151_d64wuu.jpg",
+  "assetId": "F6341_Bright White 1",
+  "name": "F6341_151_Dress",
+  "styleId": "F6341_151",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-3",
+  "filters": "Dresses"
+}

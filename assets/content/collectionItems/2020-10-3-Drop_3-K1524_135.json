@@ -1,1 +1,24 @@
-{"styleId":"K1524_135","name":"K1524_135_Cardigan","program":2513,"programName":"Rib Knit","material":"60% Recycled Wool, 10% Wool,18% Polyamide, 7% Recycled Polyamide, 5% Other fibers.","groupId":"drop-3","colorNames":"Egret","colorId":135,"filters":["rtw5"],"responsible":true,"weight":2640,"wholesalePriceDKK":760,"wholesalePriceEUR":106,"wholesalePriceUSD":136,"wholesalePriceGPB":98,"retailPriceDKK":1899,"retailPriceEUR":265,"retailPriceUSD":325,"retailPriceGBP":245}
+{
+  "retailPriceUSD": 325,
+  "program": 2513,
+  "colorNames": "Egret",
+  "material": "60% Recycled Wool, 10% Wool,18% Polyamide, 7% Recycled Polyamide, 5% Other fibers.",
+  "wholesalePriceGBP": 98,
+  "name": "K1524_135_Cardigan",
+  "styleId": "K1524_135",
+  "retailPriceGBP": 245,
+  "programName": "Rib Knit",
+  "responsible": true,
+  "wholesalePriceEUR": 106,
+  "weight": 2640,
+  "wholesalePriceDKK": 760,
+  "groupId": "drop-3",
+  "wholesalePriceUSD": 136,
+  "filters": [
+    "rtw5",
+    "misc2"
+  ],
+  "retailPriceEUR": 265,
+  "retailPriceDKK": 1899,
+  "colorId": 135
+}

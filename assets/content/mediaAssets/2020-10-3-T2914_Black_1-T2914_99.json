@@ -1,1 +1,12 @@
-{"assetId":"T2914_Black 1","styleId":"T2914_99","name":"T2914_99_Elasticated Pants","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"software","filters":"rtw9"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1591792309/collection/Packshots/Software/T2772_3490_099_kxvqnh.jpg",
+  "assetId": "T2914_Black 1",
+  "name": "T2914_99_Elasticated Pants",
+  "styleId": "T2914_99",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "software",
+  "filters": "rtw9"
+}

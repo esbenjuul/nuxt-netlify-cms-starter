@@ -1,1 +1,12 @@
-{"assetId":"F6039_Black 1","styleId":"F6039_99","name":"F6039_99_Belt Pants","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Trousers"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440410/PF21_21.2/packshots_collection/F6039_6269_099_tgymxe.jpg",
+  "assetId": "F6039_Black 1",
+  "name": "F6039_99_Belt Pants",
+  "styleId": "F6039_99",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Trousers"
+}

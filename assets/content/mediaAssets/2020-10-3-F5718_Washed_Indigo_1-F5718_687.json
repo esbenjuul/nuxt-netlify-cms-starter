@@ -1,1 +1,12 @@
-{"assetId":"F5718_Washed Indigo 1","styleId":"F5718_687","name":"F5718_687_High-waisted Cropped Jeans","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-2","filters":"Denim"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440528/PF21_21.2/packshots_rerunners/F5718_6182_687_djhj9w.jpg",
+  "assetId": "F5718_Washed Indigo 1",
+  "name": "F5718_687_High-waisted Cropped Jeans",
+  "styleId": "F5718_687",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-2",
+  "filters": "Denim"
+}

@@ -1,1 +1,25 @@
-{"styleId":"F5969_99","name":"F5969_99_Mini Dress","program":6239,"programName":"Lamb Leather","material":"100% Lamb Leather","groupId":"drop-2","colorNames":"Black","colorId":99,"filters":["rtw1","misc3"],"responsible":false,"weight":2970,"wholesalePriceDKK":1600,"wholesalePriceEUR":218,"wholesalePriceUSD":282,"wholesalePriceGPB":210,"retailPriceDKK":3999,"retailPriceEUR":545,"retailPriceUSD":675,"retailPriceGBP":525}
+{
+  "retailPriceUSD": 675,
+  "program": 6239,
+  "colorNames": "Black",
+  "material": "100% Lamb Leather",
+  "wholesalePriceGBP": 210,
+  "name": "F5969_99_Mini Dress",
+  "styleId": "F5969_99",
+  "retailPriceGBP": 525,
+  "programName": "Lamb Leather",
+  "responsible": false,
+  "wholesalePriceEUR": 218,
+  "weight": 2970,
+  "wholesalePriceDKK": 1600,
+  "groupId": "drop-2",
+  "wholesalePriceUSD": 282,
+  "filters": [
+    "rtw1",
+    "misc3",
+    "misc2"
+  ],
+  "retailPriceEUR": 545,
+  "retailPriceDKK": 3999,
+  "colorId": 99
+}

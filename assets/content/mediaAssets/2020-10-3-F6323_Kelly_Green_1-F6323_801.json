@@ -1,1 +1,12 @@
-{"assetId":"F6323_Kelly Green 1","styleId":"F6323_801","name":"F6323_801_Kaftan","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Dresses"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440431/PF21_21.2/packshots_collection/F6323_6279_801_htz3q8.jpg",
+  "assetId": "F6323_Kelly Green 1",
+  "name": "F6323_801_Kaftan",
+  "styleId": "F6323_801",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Dresses"
+}

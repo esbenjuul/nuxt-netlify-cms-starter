@@ -1,1 +1,12 @@
-{"assetId":"F6002_Pink Nectar 1","styleId":"F6002_478","name":"F6002_478_Mini Dress","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-2","filters":"Dresses"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604839921/PF21_21.2/packshots_collection/F6002_6270_478_zasl9v.jpg",
+  "assetId": "F6002_Pink Nectar 1",
+  "name": "F6002_478_Mini Dress",
+  "styleId": "F6002_478",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-2",
+  "filters": "Dresses"
+}

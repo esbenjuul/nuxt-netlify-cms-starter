@@ -1,1 +1,23 @@
-{"styleId":"T2798_151","name":"T2798_151_T-shirt, Butterfly","program":3501,"programName":"Basic Cotton Jersey","material":"100% Organic Cotton","groupId":"drop-1","colorNames":"Bright White","colorId":151,"filters":["rtw10"],"responsible":true,"weight":4840,"wholesalePriceDKK":250,"wholesalePriceEUR":34,"wholesalePriceUSD":48,"wholesalePriceGPB":34,"retailPriceDKK":699,"retailPriceEUR":95,"retailPriceUSD":115,"retailPriceGBP":95}
+{
+  "retailPriceUSD": 115,
+  "program": 3501,
+  "colorNames": "Bright White",
+  "material": "100% Organic Cotton",
+  "wholesalePriceGBP": 34,
+  "name": "T2798_151_T-shirt, Butterfly",
+  "styleId": "T2798_151",
+  "retailPriceGBP": 95,
+  "programName": "Basic Cotton Jersey",
+  "responsible": true,
+  "wholesalePriceEUR": 34,
+  "weight": 4840,
+  "wholesalePriceDKK": 250,
+  "groupId": "drop-1",
+  "wholesalePriceUSD": 48,
+  "filters": [
+    "rtw10"
+  ],
+  "retailPriceEUR": 95,
+  "retailPriceDKK": 699,
+  "colorId": 151
+}

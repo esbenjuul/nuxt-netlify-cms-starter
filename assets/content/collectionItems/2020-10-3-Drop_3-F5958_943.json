@@ -1,1 +1,26 @@
-{"styleId":"F5958_943","name":"F5958_943_Shorts","program":6240,"programName":"Linen Canvas","material":"55% Linen, 45% Cotton","groupId":"drop-3","colorNames":"Leopard","colorId":943,"filters":["rtw11"],"responsible":false,"weight":2390,"wholesalePriceDKK":428,"wholesalePriceEUR":63,"wholesalePriceUSD":86,"wholesalePriceGPB":56,"retailPriceDKK":1199,"retailPriceEUR":175,"retailPriceUSD":195,"retailPriceGBP":155}
+{
+  "retailPriceUSD": 195,
+  "program": 6240,
+  "colorNames": "Leopard",
+  "material": "55% Linen, 45% Cotton",
+  "wholesalePriceGBP": 56,
+  "name": "F5958_943_Shorts",
+  "styleId": "F5958_943",
+  "retailPriceGBP": 155,
+  "programName": "Linen Canvas",
+  "responsible": false,
+  "wholesalePriceEUR": 63,
+  "weight": 2390,
+  "wholesalePriceDKK": 428,
+  "groupId": "drop-1",
+  "wholesalePriceUSD": 86,
+  "filters": [
+    "rtw11"
+  ],
+  "retailPriceEUR": 175,
+  "retailPriceDKK": 1199,
+  "colorId": 943,
+  "group": [
+    "drop-1"
+  ]
+}

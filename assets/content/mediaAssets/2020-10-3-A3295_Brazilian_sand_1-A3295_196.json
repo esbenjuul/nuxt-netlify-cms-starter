@@ -1,11 +1,12 @@
 {
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604839985/PF21_21.2/packshots_collection/A3295_5643_196_ej08uo.jpg",
   "assetId": "A3295_Brazilian sand 1",
-  "styleId": "A3295_196",
   "name": "A3295_196_Drawstring Purse",
-  "type": "image",
-  "aspect": "portrait",
-  "onTop": true,
+  "styleId": "A3295_196",
   "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
   "groupId": "drop-1",
   "filters": "Accessories"
 }

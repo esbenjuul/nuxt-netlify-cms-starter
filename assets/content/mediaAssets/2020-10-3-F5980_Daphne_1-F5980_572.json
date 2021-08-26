@@ -1,1 +1,12 @@
-{"assetId":"F5980_Daphne 1","styleId":"F5980_572","name":"F5980_572_Oversized Sleeveless Shirt","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Tops"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440390/PF21_21.2/packshots_collection/F5980_6236_527_jdbdkp.jpg",
+  "assetId": "F5980_Daphne 1",
+  "name": "F5980_572_Oversized Sleeveless Shirt",
+  "styleId": "F5980_572",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Tops"
+}

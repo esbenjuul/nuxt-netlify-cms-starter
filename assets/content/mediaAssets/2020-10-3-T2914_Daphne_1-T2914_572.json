@@ -1,1 +1,12 @@
-{"assetId":"T2914_Daphne 1","styleId":"T2914_572","name":"T2914_572_Elasticated Pants","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"software","filters":"rtw9"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604839977/PF21_21.2/packshots_collection/T2914_3529_572_onohxm.jpg",
+  "assetId": "T2914_Daphne 1",
+  "name": "T2914_572_Elasticated Pants",
+  "styleId": "T2914_572",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "software",
+  "filters": "rtw9"
+}

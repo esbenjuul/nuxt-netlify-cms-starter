@@ -1,1 +1,23 @@
-{"styleId":"F5996_574","name":"F5996_574_Wrap Dress","program":6252,"programName":"Crispy Taffeta","material":"50% Recycled Polyester, 50% Acetate","groupId":"drop-3","colorNames":"Airy Blue","colorId":574,"filters":["rtw1"],"responsible":true,"weight":2160,"wholesalePriceDKK":643,"wholesalePriceEUR":92,"wholesalePriceUSD":123,"wholesalePriceGPB":81,"retailPriceDKK":1799,"retailPriceEUR":255,"retailPriceUSD":295,"retailPriceGBP":225}
+{
+  "retailPriceUSD": 295,
+  "program": 6252,
+  "colorNames": "Airy Blue",
+  "material": "50% Recycled Polyester, 50% Acetate",
+  "wholesalePriceGBP": 81,
+  "name": "F5996_574_Wrap Dress",
+  "styleId": "F5996_574",
+  "retailPriceGBP": 225,
+  "programName": "Crispy Taffeta",
+  "responsible": true,
+  "wholesalePriceEUR": 92,
+  "weight": 2160,
+  "wholesalePriceDKK": 643,
+  "groupId": "drop-3",
+  "wholesalePriceUSD": 123,
+  "filters": [
+    "rtw1"
+  ],
+  "retailPriceEUR": 255,
+  "retailPriceDKK": 1799,
+  "colorId": 574
+}

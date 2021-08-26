@@ -1,1 +1,12 @@
-{"assetId":"F5805_Black 1","styleId":"F5805_99","name":"F5805_99_Mini Skirt","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Skirts"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440526/PF21_21.2/packshots_rerunners/F5805_6176_099_tmsbtu.jpg",
+  "assetId": "F5805_Black 1",
+  "name": "F5805_99_Mini Skirt",
+  "styleId": "F5805_99",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Skirts"
+}

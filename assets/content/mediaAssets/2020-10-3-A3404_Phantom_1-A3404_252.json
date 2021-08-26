@@ -1,1 +1,12 @@
-{"assetId":"A3404_Phantom 1","styleId":"A3404_252","name":"A3404_252_Cap","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Hats"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1605090412/PF21_21.2/packshots_collection/A3404_5669_252_NY_nyhgte.jpg",
+  "assetId": "A3404_Phantom 1",
+  "name": "A3404_252_Cap",
+  "styleId": "A3404_252",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Hats"
+}

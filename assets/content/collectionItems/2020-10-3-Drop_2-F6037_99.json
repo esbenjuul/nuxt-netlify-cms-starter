@@ -1,1 +1,24 @@
-{"styleId":"F6037_99","name":"F6037_99_Dress","program":6246,"programName":"Cotton Poplin","material":"100% Organic Cotton","groupId":"drop-2","colorNames":"Black","colorId":99,"filters":["rtw1"],"responsible":true,"weight":2940,"wholesalePriceDKK":643,"wholesalePriceEUR":92,"wholesalePriceUSD":123,"wholesalePriceGPB":81,"retailPriceDKK":1799,"retailPriceEUR":255,"retailPriceUSD":295,"retailPriceGBP":225}
+{
+  "retailPriceUSD": 295,
+  "program": 6246,
+  "colorNames": "Black",
+  "material": "100% Organic Cotton",
+  "wholesalePriceGBP": 81,
+  "name": "F6037_99_Dress",
+  "styleId": "F6037_99",
+  "retailPriceGBP": 225,
+  "programName": "Cotton Poplin",
+  "responsible": true,
+  "wholesalePriceEUR": 92,
+  "weight": 2940,
+  "wholesalePriceDKK": 643,
+  "groupId": "drop-2",
+  "wholesalePriceUSD": 123,
+  "filters": [
+    "rtw1",
+    "misc2"
+  ],
+  "retailPriceEUR": 255,
+  "retailPriceDKK": 1799,
+  "colorId": 99
+}

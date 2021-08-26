@@ -1,1 +1,24 @@
-{"styleId":"F5976_572","name":"F5976_572_Strap Dress","program":6236,"programName":"Stripe Cotton","material":"100% Organic Cotton","groupId":"drop-1","colorNames":"Daphne","colorId":572,"filters":["rtw1"],"responsible":true,"weight":3770,"wholesalePriceDKK":607,"wholesalePriceEUR":88,"wholesalePriceUSD":119,"wholesalePriceGPB":77,"retailPriceDKK":1699,"retailPriceEUR":245,"retailPriceUSD":285,"retailPriceGBP":215}
+{
+  "retailPriceUSD": 285,
+  "program": 6236,
+  "colorNames": "Daphne",
+  "material": "100% Organic Cotton",
+  "wholesalePriceGBP": 77,
+  "name": "F5976_572_Strap Dress",
+  "styleId": "F5976_572",
+  "retailPriceGBP": 215,
+  "programName": "Stripe Cotton",
+  "responsible": true,
+  "wholesalePriceEUR": 88,
+  "weight": 3770,
+  "wholesalePriceDKK": 607,
+  "groupId": "drop-1",
+  "wholesalePriceUSD": 119,
+  "filters": [
+    "rtw1",
+    "misc2"
+  ],
+  "retailPriceEUR": 245,
+  "retailPriceDKK": 1699,
+  "colorId": 572
+}

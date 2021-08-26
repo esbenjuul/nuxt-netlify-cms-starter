@@ -1,1 +1,12 @@
-{"assetId":"S1549_Black 1","styleId":"S1549_99","name":"S1549_99_High Chelsea","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Shoes"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604692148/PF21_21.2/packshots_collection/S1549_99_io6lax.jpg",
+  "assetId": "S1549_Black 1",
+  "name": "S1549_99_High Chelsea",
+  "styleId": "S1549_99",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Shoes"
+}

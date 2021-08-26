@@ -1,1 +1,12 @@
-{"assetId":"S1548_Black 1","styleId":"S1548_99","name":"S1548_99_Mid Chelsea","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Shoes"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604692404/S1548_blgrfe.jpg",
+  "assetId": "S1548_Black 1",
+  "name": "S1548_99_Mid Chelsea",
+  "styleId": "S1548_99",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Shoes"
+}

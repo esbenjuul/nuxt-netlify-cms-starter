@@ -1,1 +1,12 @@
-{"assetId":"S1535_Egret 1","styleId":"S1535_135","name":"S1535_135_Mid Deco Sandal","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Shoes"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604840061/PF21_21.2/packshots_collection/S1535_4306_135_t0m8wo.jpg",
+  "assetId": "S1535_Egret 1",
+  "name": "S1535_135_Mid Deco Sandal",
+  "styleId": "S1535_135",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Shoes"
+}

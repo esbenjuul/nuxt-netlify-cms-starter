@@ -1,1 +1,24 @@
-{"styleId":"F5948_861","name":"F5948_861_Trench Coat","program":6264,"programName":"Stretch Canvas","material":"72% Organic Cotton, 25% Polyamide, 3% Elastane","groupId":"drop-1","colorNames":"Kalamata","colorId":861,"filters":["rtw3"],"responsible":true,"weight":3470,"wholesalePriceDKK":1160,"wholesalePriceEUR":158,"wholesalePriceUSD":198,"wholesalePriceGPB":150,"retailPriceDKK":2899,"retailPriceEUR":395,"retailPriceUSD":475,"retailPriceGBP":375}
+{
+  "retailPriceUSD": 475,
+  "program": 6264,
+  "colorNames": "Kalamata",
+  "material": "72% Organic Cotton, 25% Polyamide, 3% Elastane",
+  "wholesalePriceGBP": 150,
+  "name": "F5948_861_Trench Coat",
+  "styleId": "F5948_861",
+  "retailPriceGBP": 375,
+  "programName": "Stretch Canvas",
+  "responsible": true,
+  "wholesalePriceEUR": 158,
+  "weight": 3470,
+  "wholesalePriceDKK": 1160,
+  "groupId": "drop-1",
+  "wholesalePriceUSD": 198,
+  "filters": [
+    "rtw3",
+    "misc2"
+  ],
+  "retailPriceEUR": 395,
+  "retailPriceDKK": 2899,
+  "colorId": 861
+}

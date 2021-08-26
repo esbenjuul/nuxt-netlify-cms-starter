@@ -1,1 +1,12 @@
-{"assetId":"S1516_Black 1","styleId":"S1516_99","name":"S1516_99_Slingback Mocassin","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Shoes"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1605081306/PF21_21.2/packshots_collection/S1516_099_2_g91obp.jpg",
+  "assetId": "S1516_Black 1",
+  "name": "S1516_99_Slingback Mocassin",
+  "styleId": "S1516_99",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Shoes"
+}

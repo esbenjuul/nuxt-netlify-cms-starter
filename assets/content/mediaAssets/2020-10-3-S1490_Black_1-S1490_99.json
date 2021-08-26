@@ -1,1 +1,12 @@
-{"assetId":"S1490_Black 1","styleId":"S1490_99","name":"S1490_99_Low Chelsea","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Shoes"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1605080691/PF21_21.2/packshots_collection/S1490_99_zgaqvl.jpg",
+  "assetId": "S1490_Black 1",
+  "name": "S1490_99_Low Chelsea",
+  "styleId": "S1490_99",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Shoes"
+}

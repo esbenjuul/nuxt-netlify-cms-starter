@@ -1,1 +1,12 @@
-{"assetId":"F6035_Bright White 1","styleId":"F6035_151","name":"F6035_151_Wrap Blouse","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Tops"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440406/PF21_21.2/packshots_collection/F6035_6246_151_th9tz1.jpg",
+  "assetId": "F6035_Bright White 1",
+  "name": "F6035_151_Wrap Blouse",
+  "styleId": "F6035_151",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Tops"
+}

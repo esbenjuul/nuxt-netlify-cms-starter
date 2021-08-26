@@ -1,1 +1,12 @@
-{"assetId":"F6333_Multicolour 1","styleId":"F6333_999","name":"F6333_999_Skirt","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Skirts"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440437/PF21_21.2/packshots_collection/F6333_6238_999_rtr4u9.jpg",
+  "assetId": "F6333_Multicolour 1",
+  "name": "F6333_999_Skirt",
+  "styleId": "F6333_999",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Skirts"
+}

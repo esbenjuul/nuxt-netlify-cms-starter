@@ -1,1 +1,12 @@
-{"assetId":"A3395_Egret 1","styleId":"A3395_135","name":"A3395_135_Scrunchie","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-2","filters":"Accessories"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440364/PF21_21.2/packshots_collection/A3395_6248_135_yedor1.jpg",
+  "assetId": "A3395_Egret 1",
+  "name": "A3395_135_Scrunchie",
+  "styleId": "A3395_135",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-2",
+  "filters": "Accessories"
+}

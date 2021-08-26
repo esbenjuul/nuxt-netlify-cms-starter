@@ -1,1 +1,24 @@
-{"styleId":"F6119_683","name":"F6119_683_Shorts","program":6272,"programName":"Stretch Stripe","material":"62% POLY, 32% VIS, 6% EL","groupId":"drop-3","colorNames":"Sky Captain","colorId":683,"filters":["rtw11"],"responsible":false,"weight":2040,"wholesalePriceDKK":500,"wholesalePriceEUR":74,"wholesalePriceUSD":98,"wholesalePriceGPB":63,"retailPriceDKK":1399,"retailPriceEUR":195,"retailPriceUSD":235,"retailPriceGBP":175}
+{
+  "retailPriceUSD": 235,
+  "program": 6272,
+  "colorNames": "Sky Captain",
+  "material": "62% POLY, 32% VIS, 6% EL",
+  "wholesalePriceGBP": 63,
+  "name": "F6119_683_Shorts",
+  "styleId": "F6119_683",
+  "retailPriceGBP": 175,
+  "programName": "Stretch Stripe",
+  "responsible": false,
+  "wholesalePriceEUR": 74,
+  "weight": 2040,
+  "wholesalePriceDKK": 500,
+  "groupId": "drop-3",
+  "wholesalePriceUSD": 98,
+  "filters": [
+    "rtw11",
+    "misc2"
+  ],
+  "retailPriceEUR": 195,
+  "retailPriceDKK": 1399,
+  "colorId": 683
+}

@@ -1,1 +1,23 @@
-{"styleId":"S1550_630","name":"S1550_630_Retro Sneaker","program":4816,"programName":"Sporty Mix","material":"U:60%Rec CO 40%Rec PL, L: 100%PL O:100%Rubber","groupId":"drop-1","colorNames":"Denim","colorId":630,"filters":["acc3"],"responsible":true,"weight":4470,"wholesalePriceDKK":800,"wholesalePriceEUR":110,"wholesalePriceUSD":144,"wholesalePriceGPB":102,"retailPriceDKK":1999,"retailPriceEUR":275,"retailPriceUSD":345,"retailPriceGBP":255}
+{
+  "retailPriceUSD": 345,
+  "program": 4816,
+  "colorNames": "Denim",
+  "material": "U:60%Rec CO 40%Rec PL, L: 100%PL O:100%Rubber",
+  "wholesalePriceGBP": 102,
+  "name": "S1550_630_Retro Sneaker",
+  "styleId": "S1550_630",
+  "retailPriceGBP": 255,
+  "programName": "Sporty Mix",
+  "responsible": true,
+  "wholesalePriceEUR": 110,
+  "weight": 4470,
+  "wholesalePriceDKK": 800,
+  "groupId": "drop-1",
+  "wholesalePriceUSD": 144,
+  "filters": [
+    "acc3"
+  ],
+  "retailPriceEUR": 275,
+  "retailPriceDKK": 1999,
+  "colorId": 630
+}

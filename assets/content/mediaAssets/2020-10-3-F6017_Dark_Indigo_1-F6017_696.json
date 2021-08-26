@@ -1,1 +1,12 @@
-{"assetId":"F6017_Dark Indigo 1","styleId":"F6017_696","name":"F6017_696_Jacket","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-2","filters":"Coats / Jackets"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604839896/PF21_21.2/packshots_collection/F6017_6276_696_h5yntp.jpg",
+  "assetId": "F6017_Dark Indigo 1",
+  "name": "F6017_696_Jacket",
+  "styleId": "F6017_696",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-2",
+  "filters": "Coats / Jackets"
+}

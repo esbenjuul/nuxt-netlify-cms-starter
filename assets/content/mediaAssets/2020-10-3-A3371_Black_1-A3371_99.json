@@ -1,1 +1,12 @@
-{"assetId":"A3371_Black 1","styleId":"A3371_99","name":"A3371_99_Highrise Bikini Briefs","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Swimwear"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440367/PF21_21.2/packshots_collection/A3371_5660_099_z9qugy.jpg",
+  "assetId": "A3371_Black 1",
+  "name": "A3371_99_Highrise Bikini Briefs",
+  "styleId": "A3371_99",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Swimwear"
+}

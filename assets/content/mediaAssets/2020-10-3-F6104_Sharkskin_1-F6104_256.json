@@ -1,1 +1,12 @@
-{"assetId":"F6104_Sharkskin 1","styleId":"F6104_256","name":"F6104_256_Wrap Blouse","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-2","filters":"Tops"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440421/PF21_21.2/packshots_collection/F6104_6237_256_ap9rbi.jpg",
+  "assetId": "F6104_Sharkskin 1",
+  "name": "F6104_256_Wrap Blouse",
+  "styleId": "F6104_256",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-2",
+  "filters": "Tops"
+}

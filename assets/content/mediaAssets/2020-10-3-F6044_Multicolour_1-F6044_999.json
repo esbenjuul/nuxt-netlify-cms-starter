@@ -1,1 +1,12 @@
-{"assetId":"F6044_Multicolour 1","styleId":"F6044_999","name":"F6044_999_Top","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Tops"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440412/PF21_21.2/packshots_collection/F6044_6238_999_jitx62.jpg",
+  "assetId": "F6044_Multicolour 1",
+  "name": "F6044_999_Top",
+  "styleId": "F6044_999",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Tops"
+}

@@ -1,1 +1,26 @@
-{"styleId":"T2885_256","name":"T2885_256_Puff Sleeve Pullover","program":3497,"programName":"Striped Cotton Jersey","material":"100% Organic Cotton","groupId":"drop-1","colorNames":"Sharkskin","colorId":256,"filters":["rtw8"],"responsible":true,"weight":4890,"wholesalePriceDKK":285,"wholesalePriceEUR":42,"wholesalePriceUSD":57,"wholesalePriceGPB":38,"retailPriceDKK":799,"retailPriceEUR":115,"retailPriceUSD":135,"retailPriceGBP":105}
+{
+  "retailPriceUSD": 135,
+  "program": 3497,
+  "colorNames": "Sharkskin",
+  "material": "100% Organic Cotton",
+  "wholesalePriceGBP": 38,
+  "name": "T2885_256_Puff Sleeve Pullover",
+  "styleId": "T2885_256",
+  "retailPriceGBP": 105,
+  "programName": "Striped Cotton Jersey",
+  "responsible": true,
+  "wholesalePriceEUR": 42,
+  "weight": 4890,
+  "wholesalePriceDKK": 285,
+  "groupId": "drop-2",
+  "wholesalePriceUSD": 57,
+  "filters": [
+    "rtw8"
+  ],
+  "retailPriceEUR": 115,
+  "retailPriceDKK": 799,
+  "colorId": 256,
+  "group": [
+    "drop-2"
+  ]
+}

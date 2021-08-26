@@ -89,6 +89,7 @@ import GanniGirls from '~/components/content/GanniGirls.vue'
 import LookBook from '~/components/content/LookBook.vue'
 import Collage from '~/components/content/Collage.vue'
 import Puzzle from '~/components/content/Puzzle.vue'
+import DownloadModal from '~/components/content/DownloadModal.vue'
 
 import StatusStatic from '~/components/content/StatusStatic.vue'
 import StatusCollection from '~/components/content/StatusCollection.vue'
@@ -114,7 +115,8 @@ export default {
 		GanniGirls,
 		LookBook,
 		Collage,
-		Puzzle
+		Puzzle,
+		DownloadModal
 	},
 	props: {
 		modifierClass: {

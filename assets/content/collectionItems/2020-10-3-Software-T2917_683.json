@@ -1,1 +1,23 @@
-{"styleId":"T2917_683","name":"T2917_683_O-neck T-shirt","program":3531,"programName":"Thin software Jersey","material":"50% Recycled Cot, 50% Recycled Poly","groupId":"software","colorNames":"Sky Captain","colorId":683,"filters":["rtw10"],"responsible":true,"weight":1330,"wholesalePriceDKK":178,"wholesalePriceEUR":27,"wholesalePriceUSD":36,"wholesalePriceGPB":24,"retailPriceDKK":499,"retailPriceEUR":75,"retailPriceUSD":85,"retailPriceGBP":65}
+{
+  "retailPriceUSD": 85,
+  "program": 3531,
+  "colorNames": "Sky Captain",
+  "material": "50% Recycled Cot, 50% Recycled Poly",
+  "name": "T2917_683_O-neck T-shirt",
+  "styleId": "T2917_683",
+  "wholesalePriceGBP": 24,
+  "retailPriceGBP": 65,
+  "programName": "Thin software Jersey",
+  "responsible": true,
+  "wholesalePriceEUR": 27,
+  "weight": 1330,
+  "wholesalePriceDKK": 178,
+  "groupId": "software",
+  "wholesalePriceUSD": 36,
+  "filters": [
+    "rtw10"
+  ],
+  "retailPriceEUR": 65,
+  "retailPriceDKK": 499,
+  "colorId": 683
+}

@@ -1,1 +1,24 @@
-{"styleId":"F6062_683","name":"F6062_683_Top","program":6272,"programName":"Stretch Stripe","material":"62% POLY, 32% VIS, 6% EL","groupId":"drop-3","colorNames":"Sky Captain","colorId":683,"filters":["rtw8"],"responsible":false,"weight":2070,"wholesalePriceDKK":321,"wholesalePriceEUR":45,"wholesalePriceUSD":65,"wholesalePriceGPB":42,"retailPriceDKK":899,"retailPriceEUR":125,"retailPriceUSD":155,"retailPriceGBP":115}
+{
+  "retailPriceUSD": 155,
+  "program": 6272,
+  "colorNames": "Sky Captain",
+  "material": "62% POLY, 32% VIS, 6% EL",
+  "wholesalePriceGBP": 42,
+  "name": "F6062_683_Top",
+  "styleId": "F6062_683",
+  "retailPriceGBP": 115,
+  "programName": "Stretch Stripe",
+  "responsible": false,
+  "wholesalePriceEUR": 45,
+  "weight": 2070,
+  "wholesalePriceDKK": 321,
+  "groupId": "drop-3",
+  "wholesalePriceUSD": 65,
+  "filters": [
+    "rtw8",
+    "misc2"
+  ],
+  "retailPriceEUR": 125,
+  "retailPriceDKK": 899,
+  "colorId": 683
+}

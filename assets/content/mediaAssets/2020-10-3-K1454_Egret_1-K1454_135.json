@@ -1,1 +1,12 @@
-{"assetId":"K1454_Egret 1","styleId":"K1454_135","name":"K1454_135_Cardigan","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-3","filters":"Knitwear"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1590752056/collection/Packshots/20.4/K1454_2500_135_sxe5kz.jpg",
+  "assetId": "K1454_Egret 1",
+  "name": "K1454_135_Cardigan",
+  "styleId": "K1454_135",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-3",
+  "filters": "Knitwear"
+}

@@ -1,1 +1,25 @@
-{"styleId":"F6106_687","name":"F6106_687_Dress","program":6277,"programName":"Light Denim","material":"64% Organic Cotton, 36% Refibra","groupId":"drop-2","colorNames":"Washed Indigo","colorId":687,"filters":["rtw1"],"responsible":true,"weight":2700,"wholesalePriceDKK":889,"wholesalePriceEUR":121,"wholesalePriceUSD":165,"wholesalePriceGPB":113,"retailPriceDKK":2399,"retailPriceEUR":325,"retailPriceUSD":395,"retailPriceGBP":305}
+{
+  "retailPriceUSD": 395,
+  "program": 6277,
+  "colorNames": "Washed Indigo",
+  "material": "64% Organic Cotton, 36% Refibra",
+  "wholesalePriceGBP": 113,
+  "name": "F6106_687_Dress",
+  "styleId": "F6106_687",
+  "retailPriceGBP": 305,
+  "programName": "Light Denim",
+  "responsible": true,
+  "wholesalePriceEUR": 121,
+  "weight": 2700,
+  "wholesalePriceDKK": 889,
+  "groupId": "drop-2",
+  "wholesalePriceUSD": 165,
+  "filters": [
+    "rtw1",
+    "rtw2",
+    "misc2"
+  ],
+  "retailPriceEUR": 325,
+  "retailPriceDKK": 2399,
+  "colorId": 687
+}

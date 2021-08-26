@@ -1,1 +1,24 @@
-{"styleId":"F6060_99","name":"F6060_99_Slip Dress","program":6265,"programName":"Viscose Satin","material":"100% Viscose","groupId":"drop-2","colorNames":"Black","colorId":99,"filters":["rtw1"],"responsible":false,"weight":2830,"wholesalePriceDKK":500,"wholesalePriceEUR":74,"wholesalePriceUSD":98,"wholesalePriceGPB":63,"retailPriceDKK":1399,"retailPriceEUR":195,"retailPriceUSD":235,"retailPriceGBP":175}
+{
+  "retailPriceUSD": 235,
+  "program": 6265,
+  "colorNames": "Black",
+  "material": "100% Viscose",
+  "wholesalePriceGBP": 63,
+  "name": "F6060_99_Slip Dress",
+  "styleId": "F6060_99",
+  "retailPriceGBP": 175,
+  "programName": "Viscose Satin",
+  "responsible": false,
+  "wholesalePriceEUR": 74,
+  "weight": 2830,
+  "wholesalePriceDKK": 500,
+  "groupId": "drop-2",
+  "wholesalePriceUSD": 98,
+  "filters": [
+    "rtw1",
+    "misc2"
+  ],
+  "retailPriceEUR": 195,
+  "retailPriceDKK": 1399,
+  "colorId": 99
+}

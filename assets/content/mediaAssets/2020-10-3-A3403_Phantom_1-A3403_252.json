@@ -1,1 +1,12 @@
-{"assetId":"A3403_Phantom 1","styleId":"A3403_252","name":"A3403_252_Bucket Hat","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Hats"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440367/PF21_21.2/packshots_collection/A3403_5669_252_wk2jyy.jpg",
+  "assetId": "A3403_Phantom 1",
+  "name": "A3403_252_Bucket Hat",
+  "styleId": "A3403_252",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Accessories"
+}

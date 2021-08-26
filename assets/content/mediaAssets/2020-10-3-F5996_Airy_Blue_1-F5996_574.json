@@ -1,1 +1,12 @@
-{"assetId":"F5996_Airy Blue 1","styleId":"F5996_574","name":"F5996_574_Wrap Dress","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-3","filters":"Dresses"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440395/PF21_21.2/packshots_collection/F5996_6252_574_u8q6wi.jpg",
+  "assetId": "F5996_Airy Blue 1",
+  "name": "F5996_574_Wrap Dress",
+  "styleId": "F5996_574",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-3",
+  "filters": "Dresses"
+}

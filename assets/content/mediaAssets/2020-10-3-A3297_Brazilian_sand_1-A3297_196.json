@@ -1,1 +1,12 @@
-{"assetId":"A3297_Brazilian sand 1","styleId":"A3297_196","name":"A3297_196_Duffle Bag","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Bags"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604839981/PF21_21.2/packshots_collection/A3297_5643_196_r3rzav.jpg",
+  "assetId": "A3297_Brazilian sand 1",
+  "name": "A3297_196_Duffle Bag",
+  "styleId": "A3297_196",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Bags"
+}

@@ -1,1 +1,12 @@
-{"assetId":"F5937_Pale Banana 1","styleId":"F5937_321","name":"F5937_321_High-waisted Bootcut Jeans","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Denim"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440382/PF21_21.2/packshots_collection/F5937_6274_321_z1detg.jpg",
+  "assetId": "F5937_Pale Banana 1",
+  "name": "F5937_321_High-waisted Bootcut Jeans",
+  "styleId": "F5937_321",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Denim"
+}

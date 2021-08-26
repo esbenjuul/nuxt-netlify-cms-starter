@@ -1,1 +1,26 @@
-{"styleId":"F5956_943","name":"F5956_943_Jacket","program":6240,"programName":"Linen Canvas","material":"55% Linen, 45% Cotton","groupId":"drop-3","colorNames":"Leopard","colorId":943,"filters":["rtw3"],"responsible":false,"weight":2400,"wholesalePriceDKK":678,"wholesalePriceEUR":95,"wholesalePriceUSD":136,"wholesalePriceGPB":88,"retailPriceDKK":1899,"retailPriceEUR":265,"retailPriceUSD":325,"retailPriceGBP":245}
+{
+  "retailPriceUSD": 325,
+  "program": 6240,
+  "colorNames": "Leopard",
+  "material": "55% Linen, 45% Cotton",
+  "wholesalePriceGBP": 88,
+  "name": "F5956_943_Jacket",
+  "styleId": "F5956_943",
+  "retailPriceGBP": 245,
+  "programName": "Linen Canvas",
+  "responsible": false,
+  "wholesalePriceEUR": 95,
+  "weight": 2400,
+  "wholesalePriceDKK": 678,
+  "groupId": "drop-1",
+  "wholesalePriceUSD": 136,
+  "filters": [
+    "rtw3"
+  ],
+  "retailPriceEUR": 265,
+  "retailPriceDKK": 1899,
+  "colorId": 943,
+  "group": [
+    "drop-1"
+  ]
+}

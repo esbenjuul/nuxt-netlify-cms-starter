@@ -1,1 +1,12 @@
-{"assetId":"F6118_Kelly Green 1","styleId":"F6118_801","name":"F6118_801_Shorts","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-3","filters":"Shorts"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1606075111/PF21_21.2/packshots_collection/F6118_6267_801_gsxn0j.jpg",
+  "assetId": "F6118_Kelly Green 1",
+  "name": "F6118_801_Shorts",
+  "styleId": "F6118_801",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-3",
+  "filters": "Shorts"
+}

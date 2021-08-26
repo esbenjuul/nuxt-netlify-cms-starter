@@ -1,1 +1,12 @@
-{"assetId":"F6027_Shocking Pink 1","styleId":"F6027_483","name":"F6027_483_Top","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Tops"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440404/PF21_21.2/packshots_collection/F6027_6245_483_ovalab.jpg",
+  "assetId": "F6027_Shocking Pink 1",
+  "name": "F6027_483_Top",
+  "styleId": "F6027_483",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Tops"
+}

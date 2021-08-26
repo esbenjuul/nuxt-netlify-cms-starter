@@ -1,1 +1,12 @@
-{"assetId":"T2911_Sweet Lilac 1","styleId":"T2911_465","name":"T2911_465_Oversized Hoodie","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"software","filters":"rtw8"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604442519/PF21_21.2/packshots_software/T2773_3490_465_cadz83.jpg",
+  "assetId": "T2911_Sweet Lilac 1",
+  "name": "T2911_465_Oversized Hoodie",
+  "styleId": "T2911_465",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "software",
+  "filters": "rtw8"
+}

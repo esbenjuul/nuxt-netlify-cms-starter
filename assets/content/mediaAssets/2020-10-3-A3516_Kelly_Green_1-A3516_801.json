@@ -1,1 +1,12 @@
-{"assetId":"A3516_Kelly Green 1","styleId":"A3516_801","name":"A3516_801_Hat","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Hats"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604943943/PF21_21.2/packshots_collection/A3516_5682_801_svfhyw.jpg",
+  "assetId": "A3516_Kelly Green 1",
+  "name": "A3516_801_Hat",
+  "styleId": "A3516_801",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Hats"
+}

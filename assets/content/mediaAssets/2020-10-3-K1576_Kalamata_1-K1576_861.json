@@ -1,1 +1,12 @@
-{"assetId":"K1576_Kalamata 1","styleId":"K1576_861","name":"K1576_861_Cardigan","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Knitwear"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604840106/PF21_21.2/packshots_collection/K1576_2529_861_b9jezf.jpg",
+  "assetId": "K1576_Kalamata 1",
+  "name": "K1576_861_Cardigan",
+  "styleId": "K1576_861",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Knitwear"
+}

@@ -1,1 +1,12 @@
-{"assetId":"K1578_Brazilian Sand 1","styleId":"K1578_196","name":"K1578_196_Vest","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-2","filters":"Knitwear"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1605708381/PF21_21.2/packshots_collection/K1578_2530_196_dmiiho.jpg",
+  "assetId": "K1578_Brazilian Sand 1",
+  "name": "K1578_196_Vest",
+  "styleId": "K1578_196",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-2",
+  "filters": "Knitwear"
+}

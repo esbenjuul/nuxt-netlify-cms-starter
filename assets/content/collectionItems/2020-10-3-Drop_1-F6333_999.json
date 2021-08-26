@@ -1,1 +1,23 @@
-{"styleId":"F6333_999","name":"F6333_999_Skirt","program":6238,"programName":"Pleated Georgette","material":"100% Recycled Polyester","groupId":"drop-1","colorNames":"Multicolour","colorId":999,"filters":["rtw6"],"responsible":true,"weight":3720,"wholesalePriceDKK":464,"wholesalePriceEUR":67,"wholesalePriceUSD":90,"wholesalePriceGPB":59,"retailPriceDKK":1299,"retailPriceEUR":185,"retailPriceUSD":215,"retailPriceGBP":165}
+{
+  "retailPriceUSD": 215,
+  "program": 6238,
+  "colorNames": "Multicolour",
+  "material": "100% Recycled Polyester",
+  "wholesalePriceGBP": 59,
+  "name": "F6333_999_Skirt",
+  "styleId": "F6333_999",
+  "retailPriceGBP": 165,
+  "programName": "Pleated Georgette",
+  "responsible": true,
+  "wholesalePriceEUR": 67,
+  "weight": 3720,
+  "wholesalePriceDKK": 464,
+  "groupId": "drop-1",
+  "wholesalePriceUSD": 90,
+  "filters": [
+    "rtw6"
+  ],
+  "retailPriceEUR": 185,
+  "retailPriceDKK": 1299,
+  "colorId": 999
+}

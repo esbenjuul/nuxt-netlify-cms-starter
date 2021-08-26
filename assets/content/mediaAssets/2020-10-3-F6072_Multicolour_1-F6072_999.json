@@ -1,1 +1,12 @@
-{"assetId":"F6072_Multicolour 1","styleId":"F6072_999","name":"F6072_999_Blouse","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Tops"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440416/PF21_21.2/packshots_collection/F6072_6266_999_whdnis.jpg",
+  "assetId": "F6072_Multicolour 1",
+  "name": "F6072_999_Blouse",
+  "styleId": "F6072_999",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Tops"
+}

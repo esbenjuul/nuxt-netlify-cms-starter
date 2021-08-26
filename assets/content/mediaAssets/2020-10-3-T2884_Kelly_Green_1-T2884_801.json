@@ -1,1 +1,12 @@
-{"assetId":"T2884_Kelly Green 1","styleId":"T2884_801","name":"T2884_801_Leggings","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-3","filters":"Trousers"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440473/PF21_21.2/packshots_collection/T2884_3499_801_xoemmp.jpg",
+  "assetId": "T2884_Kelly Green 1",
+  "name": "T2884_801_Leggings",
+  "styleId": "T2884_801",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-3",
+  "filters": "Trousers"
+}

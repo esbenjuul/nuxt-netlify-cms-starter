@@ -1,1 +1,23 @@
-{"styleId":"K1544_99","name":"K1544_99_Dress","program":2515,"programName":"Melange Knit","material":"55% Rayon, 29% Polyamide, 16% Elastane","groupId":"drop-2","colorNames":"Black","colorId":99,"filters":["rtw1"],"responsible":false,"weight":3140,"wholesalePriceDKK":600,"wholesalePriceEUR":86,"wholesalePriceUSD":103,"wholesalePriceGPB":78,"retailPriceDKK":1499,"retailPriceEUR":215,"retailPriceUSD":245,"retailPriceGBP":195}
+{
+  "retailPriceUSD": 245,
+  "program": 2515,
+  "colorNames": "Black",
+  "material": "55% Rayon, 29% Polyamide, 16% Elastane",
+  "wholesalePriceGBP": 78,
+  "name": "K1544_99_Dress",
+  "styleId": "K1544_99",
+  "retailPriceGBP": 195,
+  "programName": "Melange Knit",
+  "responsible": false,
+  "wholesalePriceEUR": 86,
+  "weight": 3140,
+  "wholesalePriceDKK": 600,
+  "groupId": "drop-2",
+  "wholesalePriceUSD": 103,
+  "filters": [
+    "rtw1"
+  ],
+  "retailPriceEUR": 215,
+  "retailPriceDKK": 1499,
+  "colorId": 99
+}

@@ -1,1 +1,12 @@
-{"assetId":"S1559_Multicolor 1","styleId":"S1559_999","name":"S1559_999_Sandal","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Shoes"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440467/PF21_21.2/packshots_collection/S1559_4810_999_ho3kud.jpg",
+  "assetId": "S1559_Multicolor 1",
+  "name": "S1559_999_Sandal",
+  "styleId": "S1559_999",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Shoes"
+}

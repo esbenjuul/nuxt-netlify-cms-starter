@@ -1,1 +1,24 @@
-{"styleId":"T2808_801","name":"T2808_801_Mini Dress","program":3499,"programName":"Printed Mesh","material":"94% Polyamide, 6% Elastane","groupId":"drop-3","colorNames":"Kelly Green","colorId":801,"filters":["rtw1"],"responsible":false,"weight":2500,"wholesalePriceDKK":535,"wholesalePriceEUR":77,"wholesalePriceUSD":103,"wholesalePriceGPB":70,"retailPriceDKK":1499,"retailPriceEUR":215,"retailPriceUSD":245,"retailPriceGBP":195}
+{
+  "retailPriceUSD": 245,
+  "program": 3499,
+  "colorNames": "Kelly Green",
+  "material": "94% Polyamide, 6% Elastane",
+  "wholesalePriceGBP": 70,
+  "name": "T2808_801_Mini Dress",
+  "styleId": "T2808_801",
+  "retailPriceGBP": 195,
+  "programName": "Printed Mesh",
+  "responsible": false,
+  "wholesalePriceEUR": 77,
+  "weight": 2500,
+  "wholesalePriceDKK": 535,
+  "groupId": "drop-3",
+  "wholesalePriceUSD": 103,
+  "filters": [
+    "rtw1",
+    "misc2"
+  ],
+  "retailPriceEUR": 215,
+  "retailPriceDKK": 1499,
+  "colorId": 801
+}

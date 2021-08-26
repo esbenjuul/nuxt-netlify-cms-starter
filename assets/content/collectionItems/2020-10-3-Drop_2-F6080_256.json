@@ -1,1 +1,23 @@
-{"styleId":"F6080_256","name":"F6080_256_Dress","program":6237,"programName":"Structured Jacquard","material":"78% Recycled Polyester, 20% Polyester, 2% Metal fiber","groupId":"drop-2","colorNames":"Sharkskin","colorId":256,"filters":["rtw1"],"responsible":true,"weight":3030,"wholesalePriceDKK":1200,"wholesalePriceEUR":152,"wholesalePriceUSD":207,"wholesalePriceGPB":134,"retailPriceDKK":2999,"retailPriceEUR":425,"retailPriceUSD":495,"retailPriceGBP":375}
+{
+  "retailPriceUSD": 495,
+  "program": 6237,
+  "colorNames": "Sharkskin",
+  "material": "78% Recycled Polyester, 20% Polyester, 2% Metal fiber",
+  "wholesalePriceGBP": 134,
+  "name": "F6080_256_Dress",
+  "styleId": "F6080_256",
+  "retailPriceGBP": 375,
+  "programName": "Structured Jacquard",
+  "responsible": true,
+  "wholesalePriceEUR": 152,
+  "weight": 3030,
+  "wholesalePriceDKK": 1200,
+  "groupId": "drop-2",
+  "wholesalePriceUSD": 207,
+  "filters": [
+    "rtw1"
+  ],
+  "retailPriceEUR": 425,
+  "retailPriceDKK": 2999,
+  "colorId": 256
+}

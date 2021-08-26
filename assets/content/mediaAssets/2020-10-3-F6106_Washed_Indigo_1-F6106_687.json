@@ -1,1 +1,12 @@
-{"assetId":"F6106_Washed Indigo 1","styleId":"F6106_687","name":"F6106_687_Dress","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-2","filters":"Dresses"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440425/PF21_21.2/packshots_collection/F6106_6277_687_o54fiu.jpg",
+  "assetId": "F6106_Washed Indigo 1",
+  "name": "F6106_687_Dress",
+  "styleId": "F6106_687",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-2",
+  "filters": "Dresses"
+}

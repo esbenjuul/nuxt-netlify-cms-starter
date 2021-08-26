@@ -1,1 +1,12 @@
-{"assetId":"F5500_Bright White 1","styleId":"F5500_151","name":"F5500_151_Fitted Shirt","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Tops"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1591792343/collection/Packshots/20.4/F5500_6045_151_kvxae5.jpg",
+  "assetId": "F5500_Bright White 1",
+  "name": "F5500_151_Fitted Shirt",
+  "styleId": "F5500_151",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Tops"
+}

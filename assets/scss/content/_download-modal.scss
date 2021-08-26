@@ -1,0 +1,33 @@
+.download-modal {
+	display: flex !important;
+	box-sizing: border-box !important;
+	padding: 2em;
+
+	.icon {
+		flex-shrink: 0;
+	}
+
+	img {
+		@keyframes jump {
+			from {
+				opacity: 0;
+				transform: translateY(25%);
+			}
+			to {
+				transform: translateY(-25%);
+			}
+		}
+		animation: jump 0.5s infinite alternate cubic-bezier(0.65, 0, 0.35, 1);
+		width: 40px;
+		height: auto;
+		margin-right: 2em;
+	}
+
+	p,
+	a {
+		@include bodytext();
+
+		margin-bottom: 1em;
+		color: $color-black;
+	}
+}

@@ -1,1 +1,12 @@
-{"assetId":"F6328_Madder Brown 1","styleId":"F6328_470","name":"F6328_470_Mini Dress","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-3","filters":"Dresses"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604840106/PF21_21.2/packshots_collection/F6328_6239_470_sz0xf3.jpg",
+  "assetId": "F6328_Madder Brown 1",
+  "name": "F6328_470_Mini Dress",
+  "styleId": "F6328_470",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-3",
+  "filters": "Dresses"
+}

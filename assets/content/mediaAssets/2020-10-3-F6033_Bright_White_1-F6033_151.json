@@ -1,1 +1,12 @@
-{"assetId":"F6033_Bright White 1","styleId":"F6033_151","name":"F6033_151_Wavy Shirt","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-3","filters":"Tops"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440405/PF21_21.2/packshots_collection/F6033_6246_151_zc1nnb.jpg",
+  "assetId": "F6033_Bright White 1",
+  "name": "F6033_151_Wavy Shirt",
+  "styleId": "F6033_151",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-3",
+  "filters": "Tops"
+}

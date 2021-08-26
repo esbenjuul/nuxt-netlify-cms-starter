@@ -1,1 +1,23 @@
-{"styleId":"F6105_694","name":"F6105_694_Midi Dress","program":6238,"programName":"Pleated Georgette","material":"100% Recycled Polyester","groupId":"drop-2","colorNames":"Heather","colorId":694,"filters":["rtw1"],"responsible":true,"weight":3000,"wholesalePriceDKK":607,"wholesalePriceEUR":88,"wholesalePriceUSD":119,"wholesalePriceGPB":77,"retailPriceDKK":1699,"retailPriceEUR":245,"retailPriceUSD":285,"retailPriceGBP":215}
+{
+  "retailPriceUSD": 285,
+  "program": 6238,
+  "colorNames": "Heather",
+  "material": "100% Recycled Polyester",
+  "wholesalePriceGBP": 77,
+  "name": "F6105_694_Midi Dress",
+  "styleId": "F6105_694",
+  "retailPriceGBP": 215,
+  "programName": "Pleated Georgette",
+  "responsible": true,
+  "wholesalePriceEUR": 88,
+  "weight": 3000,
+  "wholesalePriceDKK": 607,
+  "groupId": "drop-2",
+  "wholesalePriceUSD": 119,
+  "filters": [
+    "rtw1"
+  ],
+  "retailPriceEUR": 245,
+  "retailPriceDKK": 1699,
+  "colorId": 694
+}

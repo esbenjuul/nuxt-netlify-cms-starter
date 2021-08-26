@@ -1,1 +1,12 @@
-{"assetId":"F6067_Multicolour 1","styleId":"F6067_999","name":"F6067_999_Wrap Dress","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Dresses"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440416/PF21_21.2/packshots_collection/F6067_6266_999_dwxhud.jpg",
+  "assetId": "F6067_Multicolour 1",
+  "name": "F6067_999_Wrap Dress",
+  "styleId": "F6067_999",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Dresses"
+}

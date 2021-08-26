@@ -1,1 +1,12 @@
-{"assetId":"S1545_Madder Brown 1","styleId":"S1545_470","name":"S1545_470_Country Boot","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Shoes"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604840048/PF21_21.2/packshots_collection/S1545_4628_470_vn4vpr.jpg",
+  "assetId": "S1545_Madder Brown 1",
+  "name": "S1545_470_Country Boot",
+  "styleId": "S1545_470",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Shoes"
+}

@@ -1,1 +1,12 @@
-{"assetId":"F5948_Kalamata 1","styleId":"F5948_861","name":"F5948_861_Trench Coat","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Coats / Jackets"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604439619/PF21_21.2/ecom_lookbook/F5937_321_T2886_099_F5948_861_S1526_099_greobb.jpg",
+  "assetId": "F5948_Kalamata 2",
+  "name": "F5948_861_Trench Coat",
+  "styleId": "F5948_861",
+  "visible": true,
+  "onTop": false,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Coats / Jackets"
+}

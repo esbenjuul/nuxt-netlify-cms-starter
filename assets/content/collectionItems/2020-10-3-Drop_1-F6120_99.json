@@ -1,1 +1,26 @@
-{"styleId":"F6120_99","name":"F6120_99_Maxi Dress","program":6278,"programName":"Seersucker Check","material":"44% REC POLY, 42% ORG COT, 14% PA","groupId":"drop-1","colorNames":"Black","colorId":99,"filters":["rtw1"],"responsible":true,"weight":3250,"wholesalePriceDKK":571,"wholesalePriceEUR":81,"wholesalePriceUSD":111,"wholesalePriceGPB":74,"retailPriceDKK":1599,"retailPriceEUR":225,"retailPriceUSD":265,"retailPriceGBP":205}
+{
+  "retailPriceUSD": 265,
+  "program": 6278,
+  "colorNames": "Black",
+  "material": "44% REC POLY, 42% ORG COT, 14% PA",
+  "wholesalePriceGBP": 74,
+  "name": "F6120_99_Maxi Dress",
+  "styleId": "F6120_99",
+  "retailPriceGBP": 205,
+  "programName": "Seersucker Check",
+  "responsible": true,
+  "wholesalePriceEUR": 81,
+  "weight": 3250,
+  "wholesalePriceDKK": 571,
+  "groupId": "drop-3",
+  "wholesalePriceUSD": 111,
+  "filters": [
+    "rtw1"
+  ],
+  "retailPriceEUR": 225,
+  "retailPriceDKK": 1599,
+  "colorId": 99,
+  "group": [
+    "drop-3"
+  ]
+}

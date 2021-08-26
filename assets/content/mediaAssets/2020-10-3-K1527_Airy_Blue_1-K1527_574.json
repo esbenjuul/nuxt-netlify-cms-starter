@@ -1,1 +1,12 @@
-{"assetId":"K1527_Airy Blue 1","styleId":"K1527_574","name":"K1527_574_Pullover","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-3","filters":"Knitwear"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440464/PF21_21.2/packshots_collection/K1527_2518_574_jt8hz6.jpg",
+  "assetId": "K1527_Airy Blue 1",
+  "name": "K1527_574_Pullover",
+  "styleId": "K1527_574",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-3",
+  "filters": "Knitwear"
+}

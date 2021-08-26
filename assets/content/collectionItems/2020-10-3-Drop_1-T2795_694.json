@@ -1,1 +1,26 @@
-{"styleId":"T2795_694","name":"T2795_694_Shorts","program":3495,"programName":"Isoli","material":"50% Recycled Cot, 50% Recycled Poly","groupId":"drop-1","colorNames":"Heather","colorId":694,"filters":["rtw11"],"responsible":true,"weight":4920,"wholesalePriceDKK":285,"wholesalePriceEUR":42,"wholesalePriceUSD":57,"wholesalePriceGPB":38,"retailPriceDKK":799,"retailPriceEUR":115,"retailPriceUSD":135,"retailPriceGBP":105}
+{
+  "retailPriceUSD": 135,
+  "program": 3495,
+  "colorNames": "Heather",
+  "material": "50% Recycled Cot, 50% Recycled Poly",
+  "wholesalePriceGBP": 38,
+  "name": "T2795_694_Shorts",
+  "styleId": "T2795_694",
+  "retailPriceGBP": 105,
+  "programName": "Isoli",
+  "responsible": true,
+  "wholesalePriceEUR": 42,
+  "weight": 4920,
+  "wholesalePriceDKK": 285,
+  "groupId": "drop-2",
+  "wholesalePriceUSD": 57,
+  "filters": [
+    "rtw11"
+  ],
+  "retailPriceEUR": 115,
+  "retailPriceDKK": 799,
+  "colorId": 694,
+  "group": [
+    "drop-2"
+  ]
+}

@@ -1,5 +1,5 @@
 <template>
-	<div oncontextmenu="return false;">
+	<div :oncontextmenu="__prod__ ? `return false;` : ''">
 		<!-- TO PREVENT DOWNLOADS -->
 		<login v-if="!loggedIn" />
 		<desktop v-else />
@@ -44,7 +44,7 @@ export default {
 	},
 	computed: {
 		...mapState('user', ['loggedIn', 'cookiesAccepted', 'idle']),
-		...mapState('utils', ['isMobile']),
+		...mapState('utils', ['isMobile', '__prod__']),
 		mobile() {
 			return (this.viewPortSize = ViewportSizes.SMALL)
 		}

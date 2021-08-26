@@ -1,1 +1,12 @@
-{"assetId":"F6327_Madder Brown 1","styleId":"F6327_470","name":"F6327_470_Top","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-3","filters":"Tops"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440435/PF21_21.2/packshots_collection/F6327_6239_470_o0nzhi.jpg",
+  "assetId": "F6327_Madder Brown 1",
+  "name": "F6327_470_Top",
+  "styleId": "F6327_470",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-3",
+  "filters": "Tops"
+}

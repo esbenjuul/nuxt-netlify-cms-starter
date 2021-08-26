@@ -1,1 +1,12 @@
-{"assetId":"F6056_Black 1","styleId":"F6056_99","name":"F6056_99_Skirt","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-2","filters":"Skirts"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440413/PF21_21.2/packshots_collection/F6056_6265_099_egve5f.jpg",
+  "assetId": "F6056_Black 1",
+  "name": "F6056_99_Skirt",
+  "styleId": "F6056_99",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-2",
+  "filters": "Skirts"
+}

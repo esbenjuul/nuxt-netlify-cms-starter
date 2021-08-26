@@ -17,7 +17,7 @@ export default {
 		}
 	},
 	data: () => ({
-		backgroundColors: ['#fdef76', '#7581e3', '#e63755'],
+		backgroundColors: ['#fae199', '#d8aab7', '#93b7d5'],
 		backgroundColor: ''
 	}),
 	methods: {

@@ -1,1 +1,12 @@
-{"assetId":"T2917_White 1","styleId":"T2917_1","name":"T2917_1_O-neck T-shirt","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"software","filters":"rtw10"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1591792310/collection/Packshots/Software/T2775_j3ntlm.jpg",
+  "assetId": "T2917_White 1",
+  "name": "T2917_1_O-neck T-shirt",
+  "styleId": "T2917_1",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "software",
+  "filters": "rtw10"
+}

@@ -1,1 +1,24 @@
-{"styleId":"F5962_252","name":"F5962_252_Dress","program":6251,"programName":"Silk Stretch Satin","material":"92% Silk, 8% Elastane","groupId":"drop-3","colorNames":"Phantom","colorId":252,"filters":["rtw1"],"responsible":false,"weight":2210,"wholesalePriceDKK":1320,"wholesalePriceEUR":178,"wholesalePriceUSD":228,"wholesalePriceGPB":170,"retailPriceDKK":3299,"retailPriceEUR":445,"retailPriceUSD":545,"retailPriceGBP":425}
+{
+  "retailPriceUSD": 545,
+  "program": 6251,
+  "colorNames": "Phantom",
+  "material": "92% Silk, 8% Elastane",
+  "wholesalePriceGBP": 170,
+  "name": "F5962_252_Dress",
+  "styleId": "F5962_252",
+  "retailPriceGBP": 425,
+  "programName": "Silk Stretch Satin",
+  "responsible": false,
+  "wholesalePriceEUR": 178,
+  "weight": 2210,
+  "wholesalePriceDKK": 1320,
+  "groupId": "drop-3",
+  "wholesalePriceUSD": 228,
+  "filters": [
+    "rtw1",
+    "misc2"
+  ],
+  "retailPriceEUR": 445,
+  "retailPriceDKK": 3299,
+  "colorId": 252
+}

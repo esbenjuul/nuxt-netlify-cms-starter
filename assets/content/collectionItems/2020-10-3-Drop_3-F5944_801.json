@@ -1,1 +1,23 @@
-{"styleId":"F5944_801","name":"F5944_801_Skirt","program":6267,"programName":"Ripstop Viscose","material":"66% Viscose, 34% Lenzing ECOVERO Viscose","groupId":"drop-3","colorNames":"Kelly Green","colorId":801,"filters":["rtw6"],"responsible":false,"weight":2100,"wholesalePriceDKK":464,"wholesalePriceEUR":67,"wholesalePriceUSD":90,"wholesalePriceGPB":59,"retailPriceDKK":1299,"retailPriceEUR":185,"retailPriceUSD":215,"retailPriceGBP":165}
+{
+  "retailPriceUSD": 215,
+  "program": 6267,
+  "colorNames": "Kelly Green",
+  "material": "66% Viscose, 34% Lenzing ECOVERO Viscose",
+  "wholesalePriceGBP": 59,
+  "name": "F5944_801_Skirt",
+  "styleId": "F5944_801",
+  "retailPriceGBP": 165,
+  "programName": "Ripstop Viscose",
+  "responsible": false,
+  "wholesalePriceEUR": 67,
+  "weight": 2100,
+  "wholesalePriceDKK": 464,
+  "groupId": "drop-3",
+  "wholesalePriceUSD": 90,
+  "filters": [
+    "rtw6"
+  ],
+  "retailPriceEUR": 185,
+  "retailPriceDKK": 1299,
+  "colorId": 801
+}

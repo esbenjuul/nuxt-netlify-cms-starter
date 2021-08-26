@@ -1,1 +1,12 @@
-{"assetId":"F5806_Black 1","styleId":"F5806_99","name":"F5806_99_Wrap Dress","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Dresses"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440529/PF21_21.2/packshots_rerunners/F5806_6176_099_omatgn.jpg",
+  "assetId": "F5806_Black 1",
+  "name": "F5806_99_Wrap Dress",
+  "styleId": "F5806_99",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Dresses"
+}

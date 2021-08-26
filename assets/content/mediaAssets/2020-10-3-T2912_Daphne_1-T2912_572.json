@@ -1,1 +1,12 @@
-{"assetId":"T2912_Daphne 1","styleId":"T2912_572","name":"T2912_572_Oversized Hoodie, Cutline","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"software","filters":"rtw8"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604839902/PF21_21.2/packshots_collection/T2927_3533_135_tvdqxz.jpg",
+  "assetId": "T2912_Daphne 1",
+  "name": "T2912_572_Oversized Hoodie, Cutline",
+  "styleId": "T2912_572",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "software",
+  "filters": "rtw8"
+}

@@ -1,1 +1,12 @@
-{"assetId":"F6007_Black 1","styleId":"F6007_99","name":"F6007_99_Shorts","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Shorts"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440398/PF21_21.2/packshots_collection/F6007_6278_099_ltyvzj.jpg",
+  "assetId": "F6007_Black 1",
+  "name": "F6007_99_Shorts",
+  "styleId": "F6007_99",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Shorts"
+}

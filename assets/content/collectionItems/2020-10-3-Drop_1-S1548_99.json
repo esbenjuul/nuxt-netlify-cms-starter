@@ -1,1 +1,23 @@
-{"styleId":"S1548_99","name":"S1548_99_Mid Chelsea","program":4682,"programName":"Calf Leather","material":"100% Calf Leather Sole: TR","groupId":"drop-1","colorNames":"Black","colorId":99,"filters":["acc3"],"responsible":false,"weight":4690,"wholesalePriceDKK":1080,"wholesalePriceEUR":150,"wholesalePriceUSD":186,"wholesalePriceGPB":138,"retailPriceDKK":2699,"retailPriceEUR":375,"retailPriceUSD":445,"retailPriceGBP":345}
+{
+  "retailPriceUSD": 445,
+  "program": 4682,
+  "colorNames": "Black",
+  "material": "100% Calf Leather Sole: TR",
+  "wholesalePriceGBP": 138,
+  "name": "S1548_99_Mid Chelsea",
+  "styleId": "S1548_99",
+  "retailPriceGBP": 345,
+  "programName": "Calf Leather",
+  "responsible": false,
+  "wholesalePriceEUR": 150,
+  "weight": 4690,
+  "wholesalePriceDKK": 1080,
+  "groupId": "drop-3",
+  "wholesalePriceUSD": 186,
+  "filters": [
+    "acc3"
+  ],
+  "retailPriceEUR": 375,
+  "retailPriceDKK": 2699,
+  "colorId": 99
+}

@@ -1,1 +1,12 @@
-{"assetId":"A3399_Shocking Pink 1","styleId":"A3399_483","name":"A3399_483_Scrunchie","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Accessories"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440367/PF21_21.2/packshots_collection/A3399_6245_483_oj3egf.jpg",
+  "assetId": "A3399_Shocking Pink 1",
+  "name": "A3399_483_Scrunchie",
+  "styleId": "A3399_483",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Accessories"
+}

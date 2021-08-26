@@ -1,1 +1,12 @@
-{"assetId":"A3370_Black 1","styleId":"A3370_99","name":"A3370_99_Bandeau Bikini Top","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Swimwear"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440361/PF21_21.2/packshots_collection/A3370_5660_099_cnczq4.jpg",
+  "assetId": "A3370_Black 1",
+  "name": "A3370_99_Bandeau Bikini Top",
+  "styleId": "A3370_99",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Swimwear"
+}

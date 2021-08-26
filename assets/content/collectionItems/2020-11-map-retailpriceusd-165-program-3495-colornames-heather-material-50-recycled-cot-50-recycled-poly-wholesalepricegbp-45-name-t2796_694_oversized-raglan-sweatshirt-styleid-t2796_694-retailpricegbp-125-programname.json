@@ -1,0 +1,23 @@
+{
+  "retailPriceUSD": 165,
+  "program": 3495,
+  "colorNames": "Heather",
+  "material": "50% Recycled Cot, 50% Recycled Poly",
+  "wholesalePriceGBP": 45,
+  "name": "T2796_694_Oversized Raglan Sweatshirt",
+  "styleId": "T2796_694",
+  "retailPriceGBP": 125,
+  "programName": "Isoli",
+  "responsible": true,
+  "wholesalePriceEUR": 52,
+  "weight": 4910,
+  "wholesalePriceDKK": 357,
+  "groupId": "drop-2",
+  "wholesalePriceUSD": 69,
+  "filters": [
+    "rtw8"
+  ],
+  "retailPriceEUR": 145,
+  "retailPriceDKK": 999,
+  "colorId": 694
+}

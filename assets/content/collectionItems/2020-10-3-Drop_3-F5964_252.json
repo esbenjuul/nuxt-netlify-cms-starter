@@ -1,1 +1,23 @@
-{"styleId":"F5964_252","name":"F5964_252_Skirt","program":6251,"programName":"Silk Stretch Satin","material":"92% Silk, 8% Elastane","groupId":"drop-3","colorNames":"Phantom","colorId":252,"filters":["rtw6"],"responsible":false,"weight":2200,"wholesalePriceDKK":760,"wholesalePriceEUR":106,"wholesalePriceUSD":136,"wholesalePriceGPB":98,"retailPriceDKK":1899,"retailPriceEUR":265,"retailPriceUSD":325,"retailPriceGBP":245}
+{
+  "retailPriceUSD": 325,
+  "program": 6251,
+  "colorNames": "Phantom",
+  "material": "92% Silk, 8% Elastane",
+  "wholesalePriceGBP": 98,
+  "name": "F5964_252_Skirt",
+  "styleId": "F5964_252",
+  "retailPriceGBP": 245,
+  "programName": "Silk Stretch Satin",
+  "responsible": false,
+  "wholesalePriceEUR": 106,
+  "weight": 2200,
+  "wholesalePriceDKK": 760,
+  "groupId": "drop-3",
+  "wholesalePriceUSD": 136,
+  "filters": [
+    "rtw6"
+  ],
+  "retailPriceEUR": 265,
+  "retailPriceDKK": 1899,
+  "colorId": 252
+}

@@ -1,1 +1,12 @@
-{"assetId":"K1530_Pale Banana 1","styleId":"K1530_321","name":"K1530_321_Dress","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-3","filters":"Dresses"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604943947/PF21_21.2/packshots_collection/K1530_2517_321_xgt40r.jpg",
+  "assetId": "K1530_Pale Banana 1",
+  "name": "K1530_321_Dress",
+  "styleId": "K1530_321",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-3",
+  "filters": "Dresses"
+}

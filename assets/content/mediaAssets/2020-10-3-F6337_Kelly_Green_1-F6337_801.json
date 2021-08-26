@@ -1,1 +1,12 @@
-{"assetId":"F6337_Kelly Green 1","styleId":"F6337_801","name":"F6337_801_Maxi Skirt","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-3","filters":"Skirts"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440438/PF21_21.2/packshots_collection/F6337_6245_801_gaqd6s.jpg",
+  "assetId": "F6337_Kelly Green 1",
+  "name": "F6337_801_Maxi Skirt",
+  "styleId": "F6337_801",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-3",
+  "filters": "Skirts"
+}

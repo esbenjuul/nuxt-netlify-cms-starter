@@ -1,1 +1,23 @@
-{"styleId":"T2911_465","name":"T2911_465_Oversized Hoodie","program":3529,"programName":"software Isoli","material":"50% Recycled Cot, 50% Recycled Poly","groupId":"software","colorNames":"Sweet Lilac","colorId":465,"filters":["rtw8"],"responsible":true,"weight":1760,"wholesalePriceDKK":393,"wholesalePriceEUR":56,"wholesalePriceUSD":78,"wholesalePriceGPB":52,"retailPriceDKK":1099,"retailPriceEUR":155,"retailPriceUSD":185,"retailPriceGBP":145}
+{
+  "retailPriceUSD": 185,
+  "program": 3529,
+  "colorNames": "Sweet Lilac",
+  "material": "50% Recycled Cot, 50% Recycled Poly",
+  "name": "T2911_465_Oversized Hoodie",
+  "styleId": "T2911_465",
+  "wholesalePriceGBP": 52,
+  "retailPriceGBP": 145,
+  "programName": "software Isoli",
+  "responsible": true,
+  "wholesalePriceEUR": 56,
+  "weight": 1760,
+  "wholesalePriceDKK": 393,
+  "groupId": "software",
+  "wholesalePriceUSD": 78,
+  "filters": [
+    "rtw8"
+  ],
+  "retailPriceEUR": 165,
+  "retailPriceDKK": 1099,
+  "colorId": 465
+}

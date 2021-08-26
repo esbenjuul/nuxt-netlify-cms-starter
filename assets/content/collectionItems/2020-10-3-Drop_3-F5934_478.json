@@ -1,1 +1,24 @@
-{"styleId":"F5934_478","name":"F5934_478_High-waisted Cropped Jeans","program":6275,"programName":"Yarndyed Denim","material":"85% Cotton, 15% Recycled Cotton","groupId":"drop-3","colorNames":"Pink Nectar","colorId":478,"filters":["rtw2"],"responsible":false,"weight":2030,"wholesalePriceDKK":518,"wholesalePriceEUR":76,"wholesalePriceUSD":98,"wholesalePriceGPB":65,"retailPriceDKK":1399,"retailPriceEUR":195,"retailPriceUSD":235,"retailPriceGBP":175}
+{
+  "retailPriceUSD": 235,
+  "program": 6275,
+  "colorNames": "Pink Nectar",
+  "material": "85% Cotton, 15% Recycled Cotton",
+  "wholesalePriceGBP": 65,
+  "name": "F5934_478_High-waisted Cropped Jeans",
+  "styleId": "F5934_478",
+  "retailPriceGBP": 175,
+  "programName": "Yarndyed Denim",
+  "responsible": false,
+  "wholesalePriceEUR": 76,
+  "weight": 2030,
+  "wholesalePriceDKK": 518,
+  "groupId": "drop-3",
+  "wholesalePriceUSD": 98,
+  "filters": [
+    "rtw2",
+    "misc2"
+  ],
+  "retailPriceEUR": 195,
+  "retailPriceDKK": 1399,
+  "colorId": 478
+}

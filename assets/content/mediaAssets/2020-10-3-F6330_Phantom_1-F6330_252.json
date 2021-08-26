@@ -1,1 +1,12 @@
-{"assetId":"F6330_Phantom 1","styleId":"F6330_252","name":"F6330_252_Pants","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-3","filters":"Trousers"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440434/PF21_21.2/packshots_collection/F6330_6248_252_yg9jdh.jpg",
+  "assetId": "F6330_Phantom 1",
+  "name": "F6330_252_Pants",
+  "styleId": "F6330_252",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-3",
+  "filters": "Trousers"
+}

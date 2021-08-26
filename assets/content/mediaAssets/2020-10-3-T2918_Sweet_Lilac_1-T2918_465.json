@@ -1,1 +1,12 @@
-{"assetId":"T2918_Sweet Lilac 1","styleId":"T2918_465","name":"T2918_465_V-neck T-shirt","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"software","filters":"rtw10"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604850736/PF21_21.2/packshots_drawings/T2918_465_ewgegc.png",
+  "assetId": "T2918_Sweet Lilac 1",
+  "name": "T2918_465_V-neck T-shirt",
+  "styleId": "T2918_465",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "software",
+  "filters": "rtw10"
+}

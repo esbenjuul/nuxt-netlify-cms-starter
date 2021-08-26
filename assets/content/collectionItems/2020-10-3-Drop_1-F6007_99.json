@@ -1,1 +1,26 @@
-{"styleId":"F6007_99","name":"F6007_99_Shorts","program":6278,"programName":"Seersucker Check","material":"44% REC POLY, 42% ORG COT, 14% PA","groupId":"drop-1","colorNames":"Black","colorId":99,"filters":["rtw11"],"responsible":true,"weight":3280,"wholesalePriceDKK":357,"wholesalePriceEUR":52,"wholesalePriceUSD":69,"wholesalePriceGPB":45,"retailPriceDKK":999,"retailPriceEUR":145,"retailPriceUSD":165,"retailPriceGBP":125}
+{
+  "retailPriceUSD": 165,
+  "program": 6278,
+  "colorNames": "Black",
+  "material": "44% REC POLY, 42% ORG COT, 14% PA",
+  "wholesalePriceGBP": 45,
+  "name": "F6007_99_Shorts",
+  "styleId": "F6007_99",
+  "retailPriceGBP": 125,
+  "programName": "Seersucker Check",
+  "responsible": true,
+  "wholesalePriceEUR": 52,
+  "weight": 3280,
+  "wholesalePriceDKK": 357,
+  "groupId": "drop-3",
+  "wholesalePriceUSD": 69,
+  "filters": [
+    "rtw11"
+  ],
+  "retailPriceEUR": 145,
+  "retailPriceDKK": 999,
+  "colorId": 99,
+  "group": [
+    "drop-3"
+  ]
+}

@@ -1,1 +1,12 @@
-{"assetId":"S1527_Kalamata 1","styleId":"S1527_861","name":"S1527_861_Country Boot","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Shoes"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440531/PF21_21.2/packshots_rerunners/S1527_4628_861_jbluys.jpg",
+  "assetId": "S1527_Kalamata 1",
+  "name": "S1527_861_Country Boot",
+  "styleId": "S1527_861",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Shoes"
+}

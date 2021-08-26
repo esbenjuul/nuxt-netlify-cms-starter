@@ -1,1 +1,26 @@
-{"styleId":"A3401_99","name":"A3401_99_Scrunchie","program":6278,"programName":"Seersucker Check","material":"44% REC POLY, 42% ORG COT, 14% PA","groupId":"drop-1","colorNames":"Black","colorId":99,"filters":["acc1"],"responsible":true,"weight":3310,"wholesalePriceDKK":53,"wholesalePriceEUR":8,"wholesalePriceUSD":11,"wholesalePriceGPB":8,"retailPriceDKK":149,"retailPriceEUR":20,"retailPriceUSD":25,"retailPriceGBP":20}
+{
+  "retailPriceUSD": 25,
+  "program": 6278,
+  "colorNames": "Black",
+  "material": "44% REC POLY, 42% ORG COT, 14% PA",
+  "wholesalePriceGBP": 8,
+  "name": "A3401_99_Scrunchie",
+  "styleId": "A3401_99",
+  "retailPriceGBP": 20,
+  "programName": "Seersucker Check",
+  "responsible": true,
+  "wholesalePriceEUR": 8,
+  "weight": 3310,
+  "wholesalePriceDKK": 53,
+  "groupId": "drop-3",
+  "wholesalePriceUSD": 11,
+  "filters": [
+    "acc1"
+  ],
+  "retailPriceEUR": 20,
+  "retailPriceDKK": 149,
+  "colorId": 99,
+  "group": [
+    "drop-3"
+  ]
+}

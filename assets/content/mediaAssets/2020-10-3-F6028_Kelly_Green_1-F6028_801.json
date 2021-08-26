@@ -1,1 +1,12 @@
-{"assetId":"F6028_Kelly Green 1","styleId":"F6028_801","name":"F6028_801_Shirt Dress","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-3","filters":"Dresses"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440402/PF21_21.2/packshots_collection/F6028_6245_801_e2zbwv.jpg",
+  "assetId": "F6028_Kelly Green 1",
+  "name": "F6028_801_Shirt Dress",
+  "styleId": "F6028_801",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-3",
+  "filters": "Dresses"
+}

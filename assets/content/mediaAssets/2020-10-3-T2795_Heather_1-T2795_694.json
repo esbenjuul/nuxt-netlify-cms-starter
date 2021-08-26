@@ -1,1 +1,12 @@
-{"assetId":"T2795_Heather 1","styleId":"T2795_694","name":"T2795_694_Shorts","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Shorts"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440468/PF21_21.2/packshots_collection/T2795_3495_151_b1je0g.jpg",
+  "assetId": "T2795_Heather 1",
+  "name": "T2795_694_Shorts",
+  "styleId": "T2795_694",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Shorts"
+}

@@ -1,1 +1,23 @@
-{"styleId":"A3445_478","name":"A3445_478_String Bikini Top","program":5658,"programName":"Recycled Matte","material":"79% Recycled Polyamide, 21% Elastane","groupId":"drop-1","colorNames":"Pink Nectar","colorId":478,"filters":["acc4"],"responsible":true,"weight":4350,"wholesalePriceDKK":200,"wholesalePriceEUR":30,"wholesalePriceUSD":36,"wholesalePriceGPB":26,"retailPriceDKK":499,"retailPriceEUR":75,"retailPriceUSD":85,"retailPriceGBP":65}
+{
+  "retailPriceUSD": 85,
+  "program": 5658,
+  "colorNames": "Pink Nectar",
+  "material": "79% Recycled Polyamide, 21% Elastane",
+  "wholesalePriceGBP": 26,
+  "name": "A3445_478_String Bikini Top",
+  "styleId": "A3445_478",
+  "retailPriceGBP": 65,
+  "programName": "Recycled Matte",
+  "responsible": true,
+  "wholesalePriceEUR": 30,
+  "weight": 4350,
+  "wholesalePriceDKK": 200,
+  "groupId": "drop-1",
+  "wholesalePriceUSD": 36,
+  "filters": [
+    "acc4"
+  ],
+  "retailPriceEUR": 75,
+  "retailPriceDKK": 499,
+  "colorId": 478
+}

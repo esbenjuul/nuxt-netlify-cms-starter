@@ -1,1 +1,12 @@
-{"assetId":"F6020_Black 1","styleId":"F6020_99","name":"F6020_99_Mid-waist Straight Jeans","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-2","filters":"Denim"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440400/PF21_21.2/packshots_collection/F6020_6280_009_rqyywx.jpg",
+  "assetId": "F6020_Black 1",
+  "name": "F6020_99_Mid-waist Straight Jeans",
+  "styleId": "F6020_99",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-2",
+  "filters": "Denim"
+}

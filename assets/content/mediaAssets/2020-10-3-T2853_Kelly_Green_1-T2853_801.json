@@ -1,1 +1,12 @@
-{"assetId":"T2853_Kelly Green 1","styleId":"T2853_801","name":"T2853_801_Dress","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-3","filters":"Dresses"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440472/PF21_21.2/packshots_collection/T2853_3499_801_cfs7pn.jpg",
+  "assetId": "T2853_Kelly Green 1",
+  "name": "T2853_801_Dress",
+  "styleId": "T2853_801",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-3",
+  "filters": "Dresses"
+}

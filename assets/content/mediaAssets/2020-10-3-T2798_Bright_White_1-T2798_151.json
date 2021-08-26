@@ -1,1 +1,12 @@
-{"assetId":"T2798_Bright White 1","styleId":"T2798_151","name":"T2798_151_T-shirt, Butterfly","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"T-Shirts"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1605650141/PF21_21.2/packshots_collection/T2798_3501_151_ye4idh.jpg",
+  "assetId": "T2798_Bright White 1",
+  "name": "T2798_151_T-shirt, Butterfly",
+  "styleId": "T2798_151",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "T-Shirts"
+}

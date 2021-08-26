@@ -1,1 +1,12 @@
-{"assetId":"T2919_Black 1","styleId":"T2919_99","name":"T2919_99_Relaxed T-Shirt Dress","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"software","filters":"rtw1"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1598013728/SS21/Packshots/Software/T2787_3492_099_vhbzta.jpg",
+  "assetId": "T2919_Black 1",
+  "name": "T2919_99_Relaxed T-Shirt Dress",
+  "styleId": "T2919_99",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "software",
+  "filters": "rtw1"
+}

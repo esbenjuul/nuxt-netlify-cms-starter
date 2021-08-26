@@ -1,1 +1,12 @@
-{"assetId":"F6001_Pink Nectar 1","styleId":"F6001_478","name":"F6001_478_Maxi Dress","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-2","filters":"Dresses"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604839920/PF21_21.2/packshots_collection/F6001_6270_478_lx4rq4.jpg",
+  "assetId": "F6001_Pink Nectar 1",
+  "name": "F6001_478_Maxi Dress",
+  "styleId": "F6001_478",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-2",
+  "filters": "Dresses"
+}

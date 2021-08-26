@@ -1,10 +1,6 @@
 <template>
 	<div class="video-player">
-		<video
-			ref="videoElement"
-			:src="videoUrl"
-			v-bind="{ ...videoAttributes }"
-		></video>
+		<video ref="videoElement" :src="videoUrl" v-bind="videoAttributes"></video>
 
 		<div class="poster" v-if="!loaded">
 			<img :src="poster" alt="poster" />

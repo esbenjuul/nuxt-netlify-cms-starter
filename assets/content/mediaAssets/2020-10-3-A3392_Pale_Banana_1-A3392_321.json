@@ -1,1 +1,12 @@
-{"assetId":"A3392_Pale Banana 1","styleId":"A3392_321","name":"A3392_321_Scrunchie","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Accessories"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440364/PF21_21.2/packshots_collection/A3392_6254_321_debtis.jpg",
+  "assetId": "A3392_Pale Banana 1",
+  "name": "A3392_321_Scrunchie",
+  "styleId": "A3392_321",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Accessories"
+}

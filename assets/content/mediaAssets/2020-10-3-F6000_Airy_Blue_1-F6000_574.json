@@ -1,1 +1,12 @@
-{"assetId":"F6000_Airy Blue 1","styleId":"F6000_574","name":"F6000_574_Dress","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-3","filters":"Dresses"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440395/PF21_21.2/packshots_collection/F6000_6252_574_pf3ja9.jpg",
+  "assetId": "F6000_Airy Blue 1",
+  "name": "F6000_574_Dress",
+  "styleId": "F6000_574",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-3",
+  "filters": "Dresses"
+}

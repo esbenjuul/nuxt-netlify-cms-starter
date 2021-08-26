@@ -1,1 +1,23 @@
-{"styleId":"F5986_135","name":"F5986_135_Mini Dress","program":6248,"programName":"Printed Crepe","material":"50% viscose + 50% LENZING™ ECOVERO™","groupId":"drop-2","colorNames":"Egret","colorId":135,"filters":["rtw1"],"responsible":true,"weight":2900,"wholesalePriceDKK":464,"wholesalePriceEUR":67,"wholesalePriceUSD":90,"wholesalePriceGPB":59,"retailPriceDKK":1299,"retailPriceEUR":185,"retailPriceUSD":215,"retailPriceGBP":165}
+{
+  "retailPriceUSD": 215,
+  "program": 6248,
+  "colorNames": "Egret",
+  "material": "50% viscose + 50% LENZING™ ECOVERO™",
+  "wholesalePriceGBP": 59,
+  "name": "F5986_135_Mini Dress",
+  "styleId": "F5986_135",
+  "retailPriceGBP": 165,
+  "programName": "Printed Crepe",
+  "responsible": true,
+  "wholesalePriceEUR": 67,
+  "weight": 2900,
+  "wholesalePriceDKK": 464,
+  "groupId": "drop-2",
+  "wholesalePriceUSD": 90,
+  "filters": [
+    "rtw1"
+  ],
+  "retailPriceEUR": 185,
+  "retailPriceDKK": 1299,
+  "colorId": 135
+}

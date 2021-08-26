@@ -1,1 +1,12 @@
-{"assetId":"F5984_Egret 1","styleId":"F5984_135","name":"F5984_135_Dress","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-2","filters":"Dresses"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440393/PF21_21.2/packshots_collection/F5984_6248_135_r3pts0.jpg",
+  "assetId": "F5984_Egret 1",
+  "name": "F5984_135_Dress",
+  "styleId": "F5984_135",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-2",
+  "filters": "Dresses"
+}

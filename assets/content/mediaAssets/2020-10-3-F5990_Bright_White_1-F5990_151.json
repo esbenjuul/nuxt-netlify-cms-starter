@@ -1,1 +1,12 @@
-{"assetId":"F5990_Bright White 1","styleId":"F5990_151","name":"F5990_151_Oversized Dress","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Dresses"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440394/PF21_21.2/packshots_collection/F5990_6263_151_yyz55q.jpg",
+  "assetId": "F5990_Bright White 1",
+  "name": "F5990_151_Oversized Dress",
+  "styleId": "F5990_151",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Dresses"
+}

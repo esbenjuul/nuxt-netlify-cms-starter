@@ -1,1 +1,12 @@
-{"assetId":"T2799_Bright White 1","styleId":"T2799_151","name":"T2799_151_T-shirt, Flowers Light","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-3","filters":"T-Shirts"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440469/PF21_21.2/packshots_collection/T2799_3501_151_ovpyfx.jpg",
+  "assetId": "T2799_Bright White 1",
+  "name": "T2799_151_T-shirt, Flowers Light",
+  "styleId": "T2799_151",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-3",
+  "filters": "T-Shirts"
+}

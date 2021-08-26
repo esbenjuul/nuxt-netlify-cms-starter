@@ -1,1 +1,12 @@
-{"assetId":"K1540_Daphne 1","styleId":"K1540_572","name":"K1540_572_Vest","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-2","filters":"Knitwear"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604840118/PF21_21.2/packshots_collection/K1540_2513_572_wfzveg.jpg",
+  "assetId": "K1540_Daphne 1",
+  "name": "K1540_572_Vest",
+  "styleId": "K1540_572",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-2",
+  "filters": "Knitwear"
+}

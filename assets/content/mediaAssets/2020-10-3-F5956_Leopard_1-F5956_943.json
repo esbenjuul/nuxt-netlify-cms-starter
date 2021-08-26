@@ -1,1 +1,12 @@
-{"assetId":"F5956_Leopard 1","styleId":"F5956_943","name":"F5956_943_Jacket","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-3","filters":"Coats / Jackets"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440384/PF21_21.2/packshots_collection/F5956_6240_943_lxxito.jpg",
+  "assetId": "F5956_Leopard 1",
+  "name": "F5956_943_Jacket",
+  "styleId": "F5956_943",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-3",
+  "filters": "Coats / Jackets"
+}

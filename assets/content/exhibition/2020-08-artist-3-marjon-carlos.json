@@ -1,8 +1,8 @@
 {
   "name": "THEME: 01",
-  "description": "<b>COLOURS:</b><br>SPRING BOUQUET, MOULE, BLEACHED DENIM, BLACK, PALOMA MELANGE<br><br><b>FABRICS:</b><br>OUTERWEAR NYLON, CASHMERE, CREPE, LAMB, LEATHER, DENIM, SOFT, WOOL, WASHED DENIM<br><br><b>STYLED WITH:</b><br>METALLIC LOAFERS, METALLIC AND WHITE, LEATHER BOOTS ",
+  "description": "COLOURS:<br> Multicolour, Black, Pale Banana, Bright White <br><br> FABRICS: <br>Lamb Leather, Printed Mesh, Crinkled Satin, Broderie Anglaise, Seersucker Check<br><br>STYLED WITH:<br>Shocking Pink Recycled Rubber Boots, Jewel Sandals, Sporty Mix Sneakers ",
   "assets": [],
-  "exhibitionId": "exhibition3",
-  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/video/upload/v1597845029/SS21/ARTISTS/MARJON%20CARLOS/r%C3%B8dmur_G_01_x05ouh.mp4",
-  "type": "video"
+  "exhibitionId": "theme01",
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604531348/PF21_21.2/rails_ondisplay/original/DSC_4565_k0ipyx.jpg",
+  "type": "image"
 }

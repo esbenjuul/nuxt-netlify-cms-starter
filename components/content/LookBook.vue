@@ -6,6 +6,8 @@
 				v-for="(item, index) in content"
 				:key="'lookbook' + index"
 			>
+				<loading />
+
 				<img
 					v-if="item.type === 'image'"
 					v-lazy="getMediaUrl(item.type, item.cloudinaryUrl)"
@@ -28,9 +30,11 @@ import { vuex, mapActions, mapState } from 'vuex'
 
 import getCloudinaryUrl from '~/utils/get-cloudinary-url'
 import WindowContent from '~/components/framework/WindowContent.vue'
+import Loading from '~/components/content/Loading.vue'
 
 export default {
 	extends: WindowContent,
+	components: { Loading },
 	name: 'look-book',
 	props: {
 		contentId: { type: String, default: 'lookBook', required: true }

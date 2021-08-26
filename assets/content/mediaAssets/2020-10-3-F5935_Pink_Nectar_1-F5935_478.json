@@ -1,1 +1,12 @@
-{"assetId":"F5935_Pink Nectar 1","styleId":"F5935_478","name":"F5935_478_Mini Skirt","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-3","filters":"Skirts"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1605090413/PF21_21.2/packshots_collection/F5935_6275_478_NY_refzad.jpg",
+  "assetId": "F5935_Pink Nectar 1",
+  "name": "F5935_478_Mini Skirt",
+  "styleId": "F5935_478",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-3",
+  "filters": "Skirts"
+}

@@ -1,1 +1,24 @@
-{"styleId":"F5951_321","name":"F5951_321_Dress","program":6254,"programName":"Crinkled Satin","material":"95% Polyester, 5% Spandex","groupId":"drop-1","colorNames":"Pale Banana","colorId":321,"filters":["rtw1"],"responsible":false,"weight":3570,"wholesalePriceDKK":571,"wholesalePriceEUR":81,"wholesalePriceUSD":111,"wholesalePriceGPB":74,"retailPriceDKK":1599,"retailPriceEUR":225,"retailPriceUSD":265,"retailPriceGBP":205}
+{
+  "retailPriceUSD": 265,
+  "program": 6254,
+  "colorNames": "Pale Banana",
+  "material": "95% Polyester, 5% Spandex",
+  "wholesalePriceGBP": 74,
+  "name": "F5951_321_Dress",
+  "styleId": "F5951_321",
+  "retailPriceGBP": 205,
+  "programName": "Crinkled Satin",
+  "responsible": false,
+  "wholesalePriceEUR": 81,
+  "weight": 3570,
+  "wholesalePriceDKK": 571,
+  "groupId": "drop-1",
+  "wholesalePriceUSD": 111,
+  "filters": [
+    "rtw1",
+    "misc2"
+  ],
+  "retailPriceEUR": 225,
+  "retailPriceDKK": 1599,
+  "colorId": 321
+}

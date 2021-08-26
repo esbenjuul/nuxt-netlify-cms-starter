@@ -1,1 +1,12 @@
-{"assetId":"F6076_Sharkskin 1","styleId":"F6076_256","name":"F6076_256_Maxi Dress","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-2","filters":"Dresses"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440419/PF21_21.2/packshots_collection/F6076_6237_256_arownr.jpg",
+  "assetId": "F6076_Sharkskin 1",
+  "name": "F6076_256_Maxi Dress",
+  "styleId": "F6076_256",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-2",
+  "filters": "Dresses"
+}

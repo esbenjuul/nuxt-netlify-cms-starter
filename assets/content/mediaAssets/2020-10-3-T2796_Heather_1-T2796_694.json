@@ -1,1 +1,12 @@
-{"assetId":"T2796_Heather 1","styleId":"T2796_694","name":"T2796_694_Oversized Raglan Sweatshirt","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Tops"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440468/PF21_21.2/packshots_collection/T2796_3495_151_uwfqdc.jpg",
+  "assetId": "T2796_Heather 1",
+  "name": "T2796_694_Oversized Raglan Sweatshirt",
+  "styleId": "T2796_694",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Tops"
+}

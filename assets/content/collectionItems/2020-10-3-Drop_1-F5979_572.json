@@ -1,1 +1,23 @@
-{"styleId":"F5979_572","name":"F5979_572_Pants","program":6236,"programName":"Stripe Cotton","material":"100% Organic Cotton","groupId":"drop-1","colorNames":"Daphne","colorId":572,"filters":["rtw9"],"responsible":true,"weight":3750,"wholesalePriceDKK":428,"wholesalePriceEUR":63,"wholesalePriceUSD":86,"wholesalePriceGPB":56,"retailPriceDKK":1199,"retailPriceEUR":175,"retailPriceUSD":195,"retailPriceGBP":155}
+{
+  "retailPriceUSD": 195,
+  "program": 6236,
+  "colorNames": "Daphne",
+  "material": "100% Organic Cotton",
+  "wholesalePriceGBP": 56,
+  "name": "F5979_572_Pants",
+  "styleId": "F5979_572",
+  "retailPriceGBP": 155,
+  "programName": "Stripe Cotton",
+  "responsible": true,
+  "wholesalePriceEUR": 63,
+  "weight": 3750,
+  "wholesalePriceDKK": 428,
+  "groupId": "drop-1",
+  "wholesalePriceUSD": 86,
+  "filters": [
+    "rtw9"
+  ],
+  "retailPriceEUR": 175,
+  "retailPriceDKK": 1199,
+  "colorId": 572
+}

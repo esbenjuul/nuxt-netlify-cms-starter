@@ -1,1 +1,12 @@
-{"assetId":"A3502_Multicolour 1","styleId":"A3502_999","name":"A3502_999_Festival Bag","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Bags"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604839943/PF21_21.2/packshots_collection/A3502_5669_999_srcwzg.jpg",
+  "assetId": "A3502_Multicolour 1",
+  "name": "A3502_999_Festival Bag",
+  "styleId": "A3502_999",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Bags"
+}

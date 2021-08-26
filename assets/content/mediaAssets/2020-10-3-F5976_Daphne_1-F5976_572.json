@@ -1,1 +1,12 @@
-{"assetId":"F5976_Daphne 1","styleId":"F5976_572","name":"F5976_572_Strap Dress","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Dresses"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440390/PF21_21.2/packshots_collection/F5976_6236_527_yz4o6j.jpg",
+  "assetId": "F5976_Daphne 1",
+  "name": "F5976_572_Strap Dress",
+  "styleId": "F5976_572",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Dresses"
+}

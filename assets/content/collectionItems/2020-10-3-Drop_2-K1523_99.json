@@ -1,1 +1,24 @@
-{"styleId":"K1523_99","name":"K1523_99_Top","program":2515,"programName":"Melange Knit","material":"55% Rayon, 29% Polyamide, 16% Elastane","groupId":"drop-2","colorNames":"Black","colorId":99,"filters":["rtw8"],"responsible":false,"weight":3160,"wholesalePriceDKK":320,"wholesalePriceEUR":46,"wholesalePriceUSD":57,"wholesalePriceGPB":42,"retailPriceDKK":799,"retailPriceEUR":115,"retailPriceUSD":135,"retailPriceGBP":105}
+{
+  "retailPriceUSD": 135,
+  "program": 2515,
+  "colorNames": "Black",
+  "material": "55% Rayon, 29% Polyamide, 16% Elastane",
+  "wholesalePriceGBP": 42,
+  "name": "K1523_99_Top",
+  "styleId": "K1523_99",
+  "retailPriceGBP": 105,
+  "programName": "Melange Knit",
+  "responsible": false,
+  "wholesalePriceEUR": 46,
+  "weight": 3160,
+  "wholesalePriceDKK": 320,
+  "groupId": "drop-2",
+  "wholesalePriceUSD": 57,
+  "filters": [
+    "rtw8",
+    "misc2"
+  ],
+  "retailPriceEUR": 115,
+  "retailPriceDKK": 799,
+  "colorId": 99
+}

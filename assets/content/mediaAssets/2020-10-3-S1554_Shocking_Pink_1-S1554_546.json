@@ -1,1 +1,12 @@
-{"assetId":"S1554_Shocking Pink 1","styleId":"S1554_546","name":"S1554_546_Rubber Sandal","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Shoes"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604840007/PF21_21.2/packshots_collection/S1554_4794_546_xuo68l.jpg",
+  "assetId": "S1554_Shocking Pink 1",
+  "name": "S1554_546_Rubber Sandal",
+  "styleId": "S1554_546",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Shoes"
+}

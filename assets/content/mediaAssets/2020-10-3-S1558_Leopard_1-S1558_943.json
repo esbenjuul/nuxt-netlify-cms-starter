@@ -1,1 +1,12 @@
-{"assetId":"S1558_Leopard 1","styleId":"S1558_943","name":"S1558_943_Sandal","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Shoes"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604840050/PF21_21.2/packshots_collection/S1558_4668_943_2_kbsbkp.jpg",
+  "assetId": "S1558_Leopard 2",
+  "name": "S1558_943_Sandal",
+  "styleId": "S1558_943",
+  "visible": true,
+  "onTop": false,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Shoes"
+}

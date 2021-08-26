@@ -1,1 +1,12 @@
-{"assetId":"A3507_Multicolour 1","styleId":"A3507_999","name":"A3507_999_Wiered Headband","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Accessories"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604842946/PF21_21.2/packshots_collection/A3507_5669_999_jpdbgg.jpg",
+  "assetId": "A3507_Multicolour 1",
+  "name": "A3507_999_Wiered Headband",
+  "styleId": "A3507_999",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Accessories"
+}

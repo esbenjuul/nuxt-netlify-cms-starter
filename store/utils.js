@@ -9,7 +9,8 @@ export const state = () => ({
 	clipBoardCopyComplete: false,
 	downloadPreparing: false,
 	isMobile: true,
-	shortenedReceiptUrl: ''
+	shortenedReceiptUrl: '',
+	__prod__: process.env.NODE_ENV === 'production'
 })
 
 export const mutations = {

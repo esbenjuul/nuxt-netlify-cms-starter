@@ -1,1 +1,23 @@
-{"styleId":"K1578_196","name":"K1578_196_Vest","program":2530,"programName":"Cotton Rope Knit","material":"55% Cotton, 45% Polyamide + 100% Cotton","groupId":"drop-2","colorNames":"Brazilian Sand","colorId":196,"filters":["rtw5"],"responsible":false,"weight":3110,"wholesalePriceDKK":560,"wholesalePriceEUR":82,"wholesalePriceUSD":98,"wholesalePriceGPB":70,"retailPriceDKK":1399,"retailPriceEUR":195,"retailPriceUSD":235,"retailPriceGBP":175}
+{
+  "retailPriceUSD": 235,
+  "program": 2530,
+  "colorNames": "Brazilian Sand",
+  "material": "55% Cotton, 45% Polyamide + 100% Cotton",
+  "wholesalePriceGBP": 70,
+  "name": "K1578_196_Vest",
+  "styleId": "K1578_196",
+  "retailPriceGBP": 175,
+  "programName": "Cotton Rope Knit",
+  "responsible": false,
+  "wholesalePriceEUR": 82,
+  "weight": 3110,
+  "wholesalePriceDKK": 560,
+  "groupId": "drop-2",
+  "wholesalePriceUSD": 98,
+  "filters": [
+    "rtw5"
+  ],
+  "retailPriceEUR": 195,
+  "retailPriceDKK": 1399,
+  "colorId": 196
+}

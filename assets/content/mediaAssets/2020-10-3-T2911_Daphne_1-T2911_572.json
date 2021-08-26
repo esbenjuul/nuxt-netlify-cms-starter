@@ -1,1 +1,12 @@
-{"assetId":"T2911_Daphne 1","styleId":"T2911_572","name":"T2911_572_Oversized Hoodie","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"software","filters":"rtw8"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604849785/PF21_21.2/packshots_drawings/T2911_572_kij7gd.png",
+  "assetId": "T2911_Daphne 1",
+  "name": "T2911_572_Oversized Hoodie",
+  "styleId": "T2911_572",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "software",
+  "filters": "rtw8"
+}

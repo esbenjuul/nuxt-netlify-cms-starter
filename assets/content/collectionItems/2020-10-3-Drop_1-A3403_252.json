@@ -1,1 +1,23 @@
-{"styleId":"A3403_252","name":"A3403_252_Bucket Hat","program":5669,"programName":"Seasonal Recycled Tech Fabric","material":"100% Recycled Polyester Lining: 100% Recycled PL","groupId":"drop-1","colorNames":"Phantom","colorId":252,"filters":["acc5"],"responsible":true,"weight":4120,"wholesalePriceDKK":240,"wholesalePriceEUR":34,"wholesalePriceUSD":44,"wholesalePriceGPB":30,"retailPriceDKK":599,"retailPriceEUR":85,"retailPriceUSD":105,"retailPriceGBP":75}
+{
+  "retailPriceUSD": 105,
+  "program": 5669,
+  "colorNames": "Phantom",
+  "material": "100% Recycled Polyester Lining: 100% Recycled PL",
+  "wholesalePriceGBP": 30,
+  "name": "A3403_252_Bucket Hat",
+  "styleId": "A3403_252",
+  "retailPriceGBP": 75,
+  "programName": "Seasonal Recycled Tech Fabric",
+  "responsible": true,
+  "wholesalePriceEUR": 34,
+  "weight": 4120,
+  "wholesalePriceDKK": 240,
+  "groupId": "drop-1",
+  "wholesalePriceUSD": 44,
+  "filters": [
+    "acc5"
+  ],
+  "retailPriceEUR": 85,
+  "retailPriceDKK": 599,
+  "colorId": 252
+}

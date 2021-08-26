@@ -1,1 +1,12 @@
-{"assetId":"S1542_Black 1","styleId":"S1542_99","name":"S1542_99_Heeled Bow Sandal","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Shoes"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604840047/PF21_21.2/packshots_collection/S1542_4812_099_pdmt4l.jpg",
+  "assetId": "S1542_Black 1",
+  "name": "S1542_99_Heeled Bow Sandal",
+  "styleId": "S1542_99",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Shoes"
+}

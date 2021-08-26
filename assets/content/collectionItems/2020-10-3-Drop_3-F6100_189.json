@@ -1,1 +1,24 @@
-{"styleId":"F6100_189","name":"F6100_189_Bomber Jacket","program":6262,"programName":"Outerwear Nylon","material":"100% Recycled Nylon","groupId":"drop-3","colorNames":"Fossil","colorId":189,"filters":["rtw3"],"responsible":true,"weight":2130,"wholesalePriceDKK":643,"wholesalePriceEUR":92,"wholesalePriceUSD":123,"wholesalePriceGPB":81,"retailPriceDKK":1799,"retailPriceEUR":255,"retailPriceUSD":295,"retailPriceGBP":225}
+{
+  "retailPriceUSD": 295,
+  "program": 6262,
+  "colorNames": "Fossil",
+  "material": "100% Recycled Nylon",
+  "wholesalePriceGBP": 81,
+  "name": "F6100_189_Bomber Jacket",
+  "styleId": "F6100_189",
+  "retailPriceGBP": 225,
+  "programName": "Outerwear Nylon",
+  "responsible": true,
+  "wholesalePriceEUR": 92,
+  "weight": 2130,
+  "wholesalePriceDKK": 643,
+  "groupId": "drop-3",
+  "wholesalePriceUSD": 123,
+  "filters": [
+    "rtw3",
+    "misc2"
+  ],
+  "retailPriceEUR": 255,
+  "retailPriceDKK": 1799,
+  "colorId": 189
+}

@@ -14,7 +14,7 @@ export default {
 	mounted() {
 		window.$gtm = this.$gtm
 
-		if ( window.location.href.indexOf('localhost') > -1 ) window.GS_LOGS = true
+		if (window.location.href.indexOf('localhost') > -1) window.GS_LOGS = false // true
 	}
 }
 </script>

@@ -1,1 +1,24 @@
-{"styleId":"A3369_99","name":"A3369_99_One Shoulder Swimsuit","program":5660,"programName":"Glitter Swim","material":"70% Polyester, 16% Polyester lurex, 8% Polyamide, 6% Elastane","groupId":"drop-1","colorNames":"Black","colorId":99,"filters":["acc4"],"responsible":false,"weight":4240,"wholesalePriceDKK":428,"wholesalePriceEUR":70,"wholesalePriceUSD":86,"wholesalePriceGPB":62,"retailPriceDKK":1199,"retailPriceEUR":175,"retailPriceUSD":195,"retailPriceGBP":155}
+{
+  "retailPriceUSD": 195,
+  "program": 5660,
+  "colorNames": "Black",
+  "material": "70% Polyester, 16% Polyester lurex, 8% Polyamide, 6% Elastane",
+  "wholesalePriceGBP": 62,
+  "name": "A3369_99_One Shoulder Swimsuit",
+  "styleId": "A3369_99",
+  "retailPriceGBP": 155,
+  "programName": "Glitter Swim",
+  "responsible": false,
+  "wholesalePriceEUR": 70,
+  "weight": 4240,
+  "wholesalePriceDKK": 428,
+  "groupId": "drop-1",
+  "wholesalePriceUSD": 86,
+  "filters": [
+    "acc4",
+    "misc2"
+  ],
+  "retailPriceEUR": 175,
+  "retailPriceDKK": 1199,
+  "colorId": 99
+}

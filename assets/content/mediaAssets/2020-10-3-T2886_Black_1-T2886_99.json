@@ -1,1 +1,12 @@
-{"assetId":"T2886_Black 1","styleId":"T2886_99","name":"T2886_99_T-shirt","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"T-Shirts"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1606817955/PF21_21.2/packshots_collection/T2803_3503_099-_1_j97n3s.jpg",
+  "assetId": "T2886_Black 1",
+  "name": "T2886_99_T-shirt",
+  "styleId": "T2886_99",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "T-Shirts"
+}

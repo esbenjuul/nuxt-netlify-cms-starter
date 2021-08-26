@@ -1,26 +1,25 @@
 .look-book {
-	
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
 	align-items: flex-start;
 
-	
-	
 	&__item {
 		display: block;
 		margin: 0 auto;
 		width: 100%;
+		position: relative;
 
-		background: url('/img/hourglass.gif') no-repeat center center;
-		background-size: 25%;
+		// background: url('/img/hourglass.gif') no-repeat center center;
+		// background-size: 25%;
 
-		img, video {
+		img,
+		video {
 			display: block;
 			width: 100%;
 			max-width: 100%;
 			height: auto;
-		}	
+		}
 	}
 
 	&__item + &__item {

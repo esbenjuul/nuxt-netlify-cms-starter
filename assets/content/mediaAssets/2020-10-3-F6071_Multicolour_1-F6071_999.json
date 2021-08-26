@@ -1,1 +1,12 @@
-{"assetId":"F6071_Multicolour 1","styleId":"F6071_999","name":"F6071_999_Midi Dress","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Dresses"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440417/PF21_21.2/packshots_collection/F6071_6266_999_xdqmll.jpg",
+  "assetId": "F6071_Multicolour 1",
+  "name": "F6071_999_Midi Dress",
+  "styleId": "F6071_999",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Dresses"
+}

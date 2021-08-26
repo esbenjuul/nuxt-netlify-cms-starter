@@ -1,1 +1,12 @@
-{"assetId":"S1527_Black 1","styleId":"S1527_99","name":"S1527_99_Country Boot","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Shoes"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440531/PF21_21.2/packshots_rerunners/S1527_4628_099_eriu5m.jpg",
+  "assetId": "S1527_Black 1",
+  "name": "S1527_99_Country Boot",
+  "styleId": "S1527_99",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Shoes"
+}

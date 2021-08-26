@@ -1,1 +1,12 @@
-{"assetId":"T2889_Multicolour 1","styleId":"T2889_999","name":"T2889_999_Blouse","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Tops"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440475/PF21_21.2/packshots_collection/T2889_3499_999_opkr1y.jpg",
+  "assetId": "T2889_Multicolour 1",
+  "name": "T2889_999_Blouse",
+  "styleId": "T2889_999",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Tops"
+}

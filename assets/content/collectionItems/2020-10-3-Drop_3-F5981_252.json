@@ -1,1 +1,23 @@
-{"styleId":"F5981_252","name":"F5981_252_Wrap Dress","program":6248,"programName":"Printed Crepe","material":"50% viscose + 50% LENZING™ ECOVERO™","groupId":"drop-3","colorNames":"Phantom","colorId":252,"filters":["rtw1"],"responsible":true,"weight":2270,"wholesalePriceDKK":607,"wholesalePriceEUR":88,"wholesalePriceUSD":119,"wholesalePriceGPB":77,"retailPriceDKK":1699,"retailPriceEUR":245,"retailPriceUSD":285,"retailPriceGBP":215}
+{
+  "retailPriceUSD": 285,
+  "program": 6248,
+  "colorNames": "Phantom",
+  "material": "50% viscose + 50% LENZING™ ECOVERO™",
+  "wholesalePriceGBP": 77,
+  "name": "F5981_252_Wrap Dress",
+  "styleId": "F5981_252",
+  "retailPriceGBP": 215,
+  "programName": "Printed Crepe",
+  "responsible": true,
+  "wholesalePriceEUR": 88,
+  "weight": 2270,
+  "wholesalePriceDKK": 607,
+  "groupId": "drop-3",
+  "wholesalePriceUSD": 119,
+  "filters": [
+    "rtw1"
+  ],
+  "retailPriceEUR": 245,
+  "retailPriceDKK": 1699,
+  "colorId": 252
+}

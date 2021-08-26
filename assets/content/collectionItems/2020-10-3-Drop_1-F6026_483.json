@@ -1,1 +1,24 @@
-{"styleId":"F6026_483","name":"F6026_483_Maxi Skirt","program":6245,"programName":"Printed Cotton Poplin","material":"100% Organic Cotton","groupId":"drop-1","colorNames":"Shocking Pink","colorId":483,"filters":["rtw6"],"responsible":true,"weight":3640,"wholesalePriceDKK":500,"wholesalePriceEUR":74,"wholesalePriceUSD":98,"wholesalePriceGPB":63,"retailPriceDKK":1399,"retailPriceEUR":195,"retailPriceUSD":235,"retailPriceGBP":175}
+{
+  "retailPriceUSD": 235,
+  "program": 6245,
+  "colorNames": "Shocking Pink",
+  "material": "100% Organic Cotton",
+  "wholesalePriceGBP": 63,
+  "name": "F6026_483_Maxi Skirt",
+  "styleId": "F6026_483",
+  "retailPriceGBP": 175,
+  "programName": "Printed Cotton Poplin",
+  "responsible": true,
+  "wholesalePriceEUR": 74,
+  "weight": 3640,
+  "wholesalePriceDKK": 500,
+  "groupId": "drop-1",
+  "wholesalePriceUSD": 98,
+  "filters": [
+    "rtw6",
+    "misc2"
+  ],
+  "retailPriceEUR": 195,
+  "retailPriceDKK": 1399,
+  "colorId": 483
+}

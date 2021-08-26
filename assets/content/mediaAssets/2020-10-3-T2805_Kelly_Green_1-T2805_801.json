@@ -1,1 +1,12 @@
-{"assetId":"T2805_Kelly Green 1","styleId":"T2805_801","name":"T2805_801_Rollneck","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-3","filters":"Knitwear"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440471/PF21_21.2/packshots_collection/T2805_3499_801_rfhbdf.jpg",
+  "assetId": "T2805_Kelly Green 1",
+  "name": "T2805_801_Rollneck",
+  "styleId": "T2805_801",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-3",
+  "filters": "Knitwear"
+}

@@ -1,1 +1,12 @@
-{"assetId":"T2914_Anise Flower 1","styleId":"T2914_304","name":"T2914_304_Elasticated Pants","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"software","filters":"rtw9"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604839957/PF21_21.2/packshots_collection/T2914_3490_304_tlelpt.jpg",
+  "assetId": "T2914_Anise Flower 1",
+  "name": "T2914_304_Elasticated Pants",
+  "styleId": "T2914_304",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "software",
+  "filters": "rtw9"
+}

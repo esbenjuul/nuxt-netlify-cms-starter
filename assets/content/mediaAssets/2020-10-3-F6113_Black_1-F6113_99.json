@@ -1,1 +1,12 @@
-{"assetId":"F6113_Black 1","styleId":"F6113_99","name":"F6113_99_Maxi Dress","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Dresses"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440426/PF21_21.2/packshots_collection/F6113_6269_099_oiyx5u.jpg",
+  "assetId": "F6113_Black 1",
+  "name": "F6113_99_Maxi Dress",
+  "styleId": "F6113_99",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Dresses"
+}

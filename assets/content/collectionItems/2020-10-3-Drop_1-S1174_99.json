@@ -1,1 +1,23 @@
-{"styleId":"S1174_99","name":"S1174_99_Jewel Mocassin","program":4621,"programName":"Jewel","material":"100% Calf Leather Sole: Micro & Mazonite","groupId":"drop-1","colorNames":"Black","colorId":99,"filters":["acc3"],"responsible":false,"weight":4810,"wholesalePriceDKK":920,"wholesalePriceEUR":130,"wholesalePriceUSD":157,"wholesalePriceGPB":118,"retailPriceDKK":2299,"retailPriceEUR":325,"retailPriceUSD":375,"retailPriceGBP":295}
+{
+  "retailPriceUSD": 375,
+  "program": 4621,
+  "colorNames": "Black",
+  "material": "100% Calf Leather Sole: Micro & Mazonite",
+  "wholesalePriceGBP": 118,
+  "name": "S1174_99_Jewel Mocassin",
+  "styleId": "S1174_99",
+  "retailPriceGBP": 295,
+  "programName": "Jewel",
+  "responsible": false,
+  "wholesalePriceEUR": 130,
+  "weight": 4810,
+  "wholesalePriceDKK": 920,
+  "groupId": "drop-1",
+  "wholesalePriceUSD": 157,
+  "filters": [
+    "acc3"
+  ],
+  "retailPriceEUR": 325,
+  "retailPriceDKK": 2299,
+  "colorId": 99
+}

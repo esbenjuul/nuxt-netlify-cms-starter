@@ -1,1 +1,12 @@
-{"assetId":"F5942_Kelly Green 1","styleId":"F5942_801","name":"F5942_801_Wrap Dress","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-3","filters":"Dresses"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1605630779/PF21_21.2/packshots_collection/F5942_6267_801_gp6o5e.jpg",
+  "assetId": "F5942_Kelly Green 1",
+  "name": "F5942_801_Wrap Dress",
+  "styleId": "F5942_801",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-3",
+  "filters": "Dresses"
+}

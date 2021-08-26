@@ -2,11 +2,7 @@
 backend:
   name: git-gateway
   branch: master
-
-# used for production:
-# backend:
-#   name: git-gateway
-#   branch: staging
+  publish_mode: editorial_workflow
 
 # when using the default proxy server port
 # local_backend: true
@@ -81,9 +77,9 @@ collections:
         }
       - {
           label: 'Group',
-          name: 'group',
+          name: 'groupId',
           widget: 'relation',
-          multiple: true,
+          multiple: false,
           required: false,
           collection: 'collectionGroups',
           search_fields: ['name'],
@@ -97,41 +93,48 @@ collections:
           name: 'name',
           widget: 'string',
           hint: "Product name ex. 'Pleated georgette'",
+          required: false,
         }
       - {
           label: 'Program',
           name: 'program',
           widget: 'number',
-          hint: "ID of program ex. '1972'",
+          required: false,
+          hint: "ID of program ex. '1972'. Will determine the order of styles. (Lower nr is closer to top)",
         }
       - {
           label: 'Program Display name',
           name: 'programName',
           widget: 'string',
+          required: false,
           hint: "Display name of program ex. 'Stripe cotton'",
         }
       - {
           label: 'Material',
           name: 'material',
           widget: 'string',
+          required: false,
           hint: "Name of material ex. '100% organic cotton'",
         }
       - {
           label: 'Drop',
           name: 'drop',
           widget: 'string',
+          required: false,
           hint: "Label for drop ex. 'November'",
         }
       - {
           label: 'Color names',
           name: 'colorNames',
           widget: 'string',
+          required: false,
           hint: "Names of colors available ex. 'Brunnera Blue, Sunflower Yellow'",
         }
       - {
           label: 'Color Id',
           name: 'colorId',
           widget: 'string',
+          required: false,
           hint: "IDs of colors ex. '568' or '699,844'",
         }
       - {
@@ -195,12 +198,13 @@ collections:
           name: 'responsible',
           widget: 'boolean',
           hint: 'Check to show style as responsible',
+          required: false,
         }
       - {
           label: 'Weight',
           name: 'weight',
           widget: 'number',
-          hint: 'Sorting parameter. The higher the number, the closer to the top of the collection folder.',
+          hint: 'Sorting parameter. The lower the number, the closer to the top (within its program). Field "Program" has priority in sorting.',
           required: true,
           default: 1,
           min: 1,
@@ -315,49 +319,49 @@ collections:
 
       - label: 'Dresses'
         field: filters
-        pattern: 'dresses'
+        pattern: 'Dresses'
       - label: 'Denim'
         field: filters
-        pattern: 'denim'
+        pattern: 'Denim'
       - label: 'Coats / Jackets'
         field: filters
-        pattern: 'coats-jackets'
+        pattern: 'Coats / Jackets'
       - label: 'Jersey'
         field: filters
-        pattern: 'jersey'
+        pattern: 'Jersey'
       - label: 'Knitwear'
         field: filters
-        pattern: 'knitwear'
+        pattern: 'Knitwear'
       - label: 'Skirts'
         field: filters
-        pattern: 'skirts'
+        pattern: 'Skirts'
       - label: 'Suiting'
         field: filters
-        pattern: 'suiting'
+        pattern: 'Suiting'
       - label: 'Tops'
         field: filters
-        pattern: 'tops'
+        pattern: 'Tops'
       - label: 'Trousers'
         field: filters
-        pattern: 'trousers'
+        pattern: 'Trousers'
       - label: 'T-Shirts'
         field: filters
-        pattern: 't-shirts'
+        pattern: 'T-Shirts'
       - label: 'Accessories'
         field: filters
-        pattern: 'accessories'
+        pattern: 'Accessories'
       - label: 'Bags'
         field: filters
-        pattern: 'bags'
+        pattern: 'Bags'
       - label: 'Shoes'
         field: filters
-        pattern: 'shoes'
+        pattern: 'Shoes'
       - label: 'Swimwear'
         field: filters
-        pattern: 'swimwear'
+        pattern: 'Swimwear'
       - label: 'Underwear'
         field: filters
-        pattern: 'underwear'
+        pattern: 'Underwear'
     editor:
       preview: false
     fields:
@@ -379,25 +383,25 @@ collections:
           label: 'Category filter',
           name: 'filters',
           required: false,
-          multiple: true,
+          multiple: false,
           widget: 'select',
           options:
             [
-              'dresses',
-              'denim',
-              'coats-jackets',
-              'jersey',
-              'knitwear',
-              'skirts',
-              'suiting',
-              'tops',
-              'trousers',
-              't-shirts',
-              'accessories',
-              'bags',
-              'shoes',
-              'swimwear',
-              'underwear',
+              'Dresses',
+              'Denim',
+              'Coats / Jackets',
+              'Jersey',
+              'Knitwear',
+              'Skirts',
+              'Suiting',
+              'Tops',
+              'Trousers',
+              'T-Shirts',
+              'Accessories',
+              'Bags',
+              'Shoes',
+              'Swimwear',
+              'Underwear',
             ],
           hint: 'Used for filtering in the CMS',
         }
@@ -777,7 +781,7 @@ collections:
     sortable_fields: ['exhibitionId']
     label: 'Rails'
     folder: 'assets/content/exhibition'
-    summary: '{{exhibitionId}} - {{name}}'
+    summary: '{{name}}'
     create: true
     format: 'json'
     slug: '{{year}}-{{month}}-{{exhibitionId}}-{{name}}'
@@ -846,9 +850,9 @@ collections:
           widget: 'relation',
           collection: 'exhibition',
           required: true,
-          search_fields: ['exhibitionId', 'name'],
+          search_fields: ['name'],
           value_field: 'exhibitionId',
-          display_fields: ['exhibitionId', 'name'],
+          display_fields: ['name'],
           hint: 'Reference to unique exhibition ID',
         }
       - {
@@ -893,6 +897,7 @@ collections:
 
   - name: 'intro'
     summary: '{{cloudinaryUrl}}'
+    identifier_field: label
     label: 'Intro slideshow'
     folder: 'assets/content/intro'
     create: true
@@ -927,6 +932,7 @@ collections:
 
   - name: 'desktop'
     label: 'Desktop images'
+    identifier_field: label
     summary: '{{cloudinaryUrl}}'
     folder: 'assets/content/desktop'
     create: true

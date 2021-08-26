@@ -1,1 +1,12 @@
-{"assetId":"A3449_Phantom 1","styleId":"A3449_252","name":"A3449_252_Gathered Swimsuit","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Swimwear"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440375/PF21_21.2/packshots_collection/A3449_5659_252_yo3xsn.jpg",
+  "assetId": "A3449_Phantom 1",
+  "name": "A3449_252_Gathered Swimsuit",
+  "styleId": "A3449_252",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Swimwear"
+}

@@ -96,7 +96,6 @@ export const mutations = {
 			let alreadyExists =
 				state.content.list.filter(hasSame('contentId')).length > 0
 
-			console.log('FOUND IT!!', alreadyExists)
 			// don't open a window twice
 			if (alreadyExists) return
 
@@ -300,7 +299,7 @@ export const actions = {
 		let listStyle = state.collection.allStyles.filter(
 			e => e.styleId === styleId
 		)[0]
-		if (!listStyle) return false
+		if (!listStyle || !listStyle.assets) return false
 
 		let content = []
 		let al = listStyle.assets.length

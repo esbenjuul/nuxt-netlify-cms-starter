@@ -7,6 +7,8 @@
 				:key="'lookbook' + index"
 				@click.stop="itemClickHandler(item)"
 			>
+				<loading />
+
 				<img
 					v-if="item.type === 'image'"
 					v-lazy="getMediaUrl(item.type, item.cloudinaryUrl)"
@@ -34,10 +36,12 @@ import { OPEN_EXHIBITION_CONTENT } from '~/model/constants'
 
 import getCloudinaryUrl from '~/utils/get-cloudinary-url'
 import WindowContent from '~/components/framework/WindowContent.vue'
+import Loading from '~/components/content/Loading.vue'
 
 export default {
 	extends: WindowContent,
 	name: 'exhibition',
+	components: { Loading },
 	computed: {
 		...mapState('exhibition', ['list'])
 	},

@@ -1,1 +1,12 @@
-{"assetId":"A3446_Pink Nectar 1","styleId":"A3446_478","name":"A3446_478_String Bikini Briefs","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Swimwear"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440370/PF21_21.2/packshots_collection/A3446_5658_478_j4j2g4.jpg",
+  "assetId": "A3446_Pink Nectar 1",
+  "name": "A3446_478_String Bikini Briefs",
+  "styleId": "A3446_478",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Swimwear"
+}

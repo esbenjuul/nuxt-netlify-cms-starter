@@ -1,1 +1,23 @@
-{"styleId":"A3500_321","name":"A3500_321_Small Crossbody Bag Printed","program":5668,"programName":"Recycled Leather","material":"100% Recycled Leather Lining: 80% PL 20% Cotton","groupId":"drop-1","colorNames":"Pale Banana","colorId":321,"filters":["acc2"],"responsible":true,"weight":4200,"wholesalePriceDKK":400,"wholesalePriceEUR":58,"wholesalePriceUSD":69,"wholesalePriceGPB":50,"retailPriceDKK":999,"retailPriceEUR":145,"retailPriceUSD":165,"retailPriceGBP":125}
+{
+  "retailPriceUSD": 165,
+  "program": 5668,
+  "colorNames": "Pale Banana",
+  "material": "100% Recycled Leather Lining: 80% PL 20% Cotton",
+  "wholesalePriceGBP": 50,
+  "name": "A3500_321_Small Crossbody Bag Printed",
+  "styleId": "A3500_321",
+  "retailPriceGBP": 125,
+  "programName": "Recycled Leather",
+  "responsible": true,
+  "wholesalePriceEUR": 58,
+  "weight": 4200,
+  "wholesalePriceDKK": 400,
+  "groupId": "drop-1",
+  "wholesalePriceUSD": 69,
+  "filters": [
+    "acc2"
+  ],
+  "retailPriceEUR": 145,
+  "retailPriceDKK": 999,
+  "colorId": 321
+}

@@ -1,1 +1,23 @@
-{"styleId":"F5971_470","name":"F5971_470_Top","program":6253,"programName":"Embellished Cotton","material":"100% Organic Cotton","groupId":"drop-2","colorNames":"Madder Brown","colorId":470,"filters":["rtw8"],"responsible":true,"weight":2860,"wholesalePriceDKK":560,"wholesalePriceEUR":82,"wholesalePriceUSD":98,"wholesalePriceGPB":70,"retailPriceDKK":1399,"retailPriceEUR":195,"retailPriceUSD":235,"retailPriceGBP":175}
+{
+  "retailPriceUSD": 235,
+  "program": 6253,
+  "colorNames": "Madder Brown",
+  "material": "100% Organic Cotton",
+  "wholesalePriceGBP": 70,
+  "name": "F5971_470_Top",
+  "styleId": "F5971_470",
+  "retailPriceGBP": 175,
+  "programName": "Embellished Cotton",
+  "responsible": true,
+  "wholesalePriceEUR": 82,
+  "weight": 2860,
+  "wholesalePriceDKK": 560,
+  "groupId": "drop-2",
+  "wholesalePriceUSD": 98,
+  "filters": [
+    "rtw8"
+  ],
+  "retailPriceEUR": 195,
+  "retailPriceDKK": 1399,
+  "colorId": 470
+}

@@ -181,10 +181,8 @@ export const state = () => ({
 	desktop: [],
 	intro: [],
 
-	desktopBackground: {
-		color: '#d8aab7',
-		image: ''
-	}
+	desktopBackground: false, // int | false
+	desktopBackgroundColor: '#349c5e' // string | false
 })
 
 export const mutations = {
@@ -242,7 +240,7 @@ export const mutations = {
 						item.type === 'video'
 							? 'videoLandscape'
 							: item.type === 'image'
-							? 'imagePortraitLarge' // todo: multiple aspects/sizes
+							? 'imagePortraitLarge' // todo: only supports one size
 							: 'textFile'
 					],
 				contentComponentProps: {
@@ -297,10 +295,9 @@ export const mutations = {
 	},
 
 	[DESKTOP_BACKGROUND.mutation](state, data) {
-		state.desktopBackground =
-			data !== false
-				? state.desktop[data % state.desktop.length]
-				: { color: state.desktopBackground.color, image: '' }
+		state.desktopBackground = data
+		state.desktopBackgroundColor =
+			data !== false ? state.desktop[data].color : state.desktopBackgroundColor
 	}
 }
 

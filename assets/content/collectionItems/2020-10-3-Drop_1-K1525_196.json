@@ -1,1 +1,24 @@
-{"styleId":"K1525_196","name":"K1525_196_Top","program":2513,"programName":"Rib Knit","material":"60% Recycled Wool, 10% Wool,18% Polyamide, 7% Recycled Polyamide, 5% Other fibers.","groupId":"drop-1","colorNames":"Brazilian Sand","colorId":196,"filters":["rtw8"],"responsible":true,"weight":5000,"wholesalePriceDKK":360,"wholesalePriceEUR":50,"wholesalePriceUSD":65,"wholesalePriceGPB":46,"retailPriceDKK":899,"retailPriceEUR":125,"retailPriceUSD":155,"retailPriceGBP":115}
+{
+  "retailPriceUSD": 155,
+  "program": 2513,
+  "colorNames": "Brazilian Sand",
+  "material": "60% Recycled Wool, 10% Wool,18% Polyamide, 7% Recycled Polyamide, 5% Other fibers.",
+  "wholesalePriceGBP": 46,
+  "name": "K1525_196_Top",
+  "styleId": "K1525_196",
+  "retailPriceGBP": 115,
+  "programName": "Rib Knit",
+  "responsible": true,
+  "wholesalePriceEUR": 50,
+  "weight": 5000,
+  "wholesalePriceDKK": 360,
+  "groupId": "drop-1",
+  "wholesalePriceUSD": 65,
+  "filters": [
+    "rtw8",
+    "misc2"
+  ],
+  "retailPriceEUR": 125,
+  "retailPriceDKK": 899,
+  "colorId": 196
+}

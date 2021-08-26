@@ -1,1 +1,23 @@
-{"styleId":"K1569_302","name":"K1569_302_Cardigan","program":2529,"programName":"Soft Wool Knit","material":"32% Alpaca, 32% Merino, 30% Polyamide, 6% Elastane","groupId":"drop-1","colorNames":"Flan","colorId":302,"filters":["rtw5"],"responsible":false,"weight":4940,"wholesalePriceDKK":760,"wholesalePriceEUR":106,"wholesalePriceUSD":136,"wholesalePriceGPB":98,"retailPriceDKK":1899,"retailPriceEUR":265,"retailPriceUSD":325,"retailPriceGBP":245}
+{
+  "retailPriceUSD": 325,
+  "program": 2529,
+  "colorNames": "Flan",
+  "material": "32% Alpaca, 32% Merino, 30% Polyamide, 6% Elastane",
+  "wholesalePriceGBP": 98,
+  "name": "K1569_302_Cardigan",
+  "styleId": "K1569_302",
+  "retailPriceGBP": 245,
+  "programName": "Soft Wool Knit",
+  "responsible": false,
+  "wholesalePriceEUR": 106,
+  "weight": 4940,
+  "wholesalePriceDKK": 760,
+  "groupId": "drop-1",
+  "wholesalePriceUSD": 136,
+  "filters": [
+    "rtw5"
+  ],
+  "retailPriceEUR": 265,
+  "retailPriceDKK": 1899,
+  "colorId": 302
+}

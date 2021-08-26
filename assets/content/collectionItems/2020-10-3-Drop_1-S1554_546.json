@@ -1,1 +1,23 @@
-{"styleId":"S1554_546","name":"S1554_546_Rubber Sandal","program":4794,"programName":"Recycled Rubber","material":"50% Recycled Rubber 50% Rubber","groupId":"drop-1","colorNames":"Shocking Pink","colorId":546,"filters":["acc3"],"responsible":true,"weight":4620,"wholesalePriceDKK":560,"wholesalePriceEUR":82,"wholesalePriceUSD":98,"wholesalePriceGPB":70,"retailPriceDKK":1399,"retailPriceEUR":195,"retailPriceUSD":235,"retailPriceGBP":175}
+{
+  "retailPriceUSD": 235,
+  "program": 4794,
+  "colorNames": "Shocking Pink",
+  "material": "50% Recycled Rubber 50% Rubber",
+  "wholesalePriceGBP": 70,
+  "name": "S1554_546_Rubber Sandal",
+  "styleId": "S1554_546",
+  "retailPriceGBP": 175,
+  "programName": "Recycled Rubber",
+  "responsible": true,
+  "wholesalePriceEUR": 82,
+  "weight": 4620,
+  "wholesalePriceDKK": 560,
+  "groupId": "drop-1",
+  "wholesalePriceUSD": 98,
+  "filters": [
+    "acc3"
+  ],
+  "retailPriceEUR": 195,
+  "retailPriceDKK": 1399,
+  "colorId": 546
+}

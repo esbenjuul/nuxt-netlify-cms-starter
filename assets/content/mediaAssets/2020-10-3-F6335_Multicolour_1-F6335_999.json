@@ -1,1 +1,12 @@
-{"assetId":"F6335_Multicolour 1","styleId":"F6335_999","name":"F6335_999_Oversized Mini Dress","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Dresses"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440437/PF21_21.2/packshots_collection/F6335_6238_999_bue4jd.jpg",
+  "assetId": "F6335_Multicolour 1",
+  "name": "F6335_999_Oversized Mini Dress",
+  "styleId": "F6335_999",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Dresses"
+}

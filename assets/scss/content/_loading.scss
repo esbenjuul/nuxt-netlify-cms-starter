@@ -1,0 +1,16 @@
+.loading {
+	@keyframes spin {
+		to {
+			transform: rotate(360deg);
+		}
+	}
+
+	animation: spin 2s linear infinite forwards;
+	position: absolute;
+	top: calc(50% - 25px);
+	left: calc(50% - 25px);
+	z-index: -1;
+
+	width: 50px !important;
+	height: auto !important;
+}

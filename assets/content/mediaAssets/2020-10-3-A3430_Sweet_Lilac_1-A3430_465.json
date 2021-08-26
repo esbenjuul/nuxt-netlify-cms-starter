@@ -1,1 +1,12 @@
-{"assetId":"A3430_Sweet Lilac 1","styleId":"A3430_465","name":"A3430_465_Cap","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"software","filters":"acc5"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1605630776/PF21_21.2/packshots_collection/A3430_465_ha9awx.jpg",
+  "assetId": "A3430_Sweet Lilac 1",
+  "name": "A3430_465_Cap",
+  "styleId": "A3430_465",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "software",
+  "filters": "acc5"
+}

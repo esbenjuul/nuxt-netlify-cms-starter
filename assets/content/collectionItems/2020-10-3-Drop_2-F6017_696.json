@@ -1,1 +1,25 @@
-{"styleId":"F6017_696","name":"F6017_696_Jacket","program":6276,"programName":"Heavy Denim","material":"100% Organic Cotton","groupId":"drop-2","colorNames":"Dark Indigo","colorId":696,"filters":["rtw3"],"responsible":true,"weight":2720,"wholesalePriceDKK":814,"wholesalePriceEUR":113,"wholesalePriceUSD":157,"wholesalePriceGPB":102,"retailPriceDKK":2199,"retailPriceEUR":295,"retailPriceUSD":375,"retailPriceGBP":275}
+{
+  "retailPriceUSD": 375,
+  "program": 6276,
+  "colorNames": "Dark Indigo",
+  "material": "100% Organic Cotton",
+  "wholesalePriceGBP": 102,
+  "name": "F6017_696_Jacket",
+  "styleId": "F6017_696",
+  "retailPriceGBP": 275,
+  "programName": "Heavy Denim",
+  "responsible": true,
+  "wholesalePriceEUR": 113,
+  "weight": 2720,
+  "wholesalePriceDKK": 814,
+  "groupId": "drop-2",
+  "wholesalePriceUSD": 157,
+  "filters": [
+    "rtw3",
+    "misc2",
+    "rtw2"
+  ],
+  "retailPriceEUR": 295,
+  "retailPriceDKK": 2199,
+  "colorId": 696
+}

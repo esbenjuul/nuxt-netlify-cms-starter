@@ -1,1 +1,12 @@
-{"assetId":"T2917_Black 1","styleId":"T2917_99","name":"T2917_99_O-neck T-shirt","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"software","filters":"rtw10"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1591792309/collection/Packshots/Software/T2775_2_dzkgsi.jpg",
+  "assetId": "T2917_Black 1",
+  "name": "T2917_99_O-neck T-shirt",
+  "styleId": "T2917_99",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "software",
+  "filters": "rtw10"
+}

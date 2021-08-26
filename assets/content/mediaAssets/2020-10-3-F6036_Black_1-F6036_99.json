@@ -1,1 +1,12 @@
-{"assetId":"F6036_Black 1","styleId":"F6036_99","name":"F6036_99_Wrap Top","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-2","filters":"Tops"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440407/PF21_21.2/packshots_collection/F6036_6246_099_hyqqta.jpg",
+  "assetId": "F6036_Black 1",
+  "name": "F6036_99_Wrap Top",
+  "styleId": "F6036_99",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-2",
+  "filters": "Tops"
+}

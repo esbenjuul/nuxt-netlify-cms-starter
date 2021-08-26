@@ -1,1 +1,12 @@
-{"assetId":"A3515_Pink Nectar 1","styleId":"A3515_478","name":"A3515_478_Hat","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Hats"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604943942/PF21_21.2/packshots_collection/A3515_5682_478_ifhdwx.jpg",
+  "assetId": "A3515_Pink Nectar 1",
+  "name": "A3515_478_Hat",
+  "styleId": "A3515_478",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Accessories"
+}

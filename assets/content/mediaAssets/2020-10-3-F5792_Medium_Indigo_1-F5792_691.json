@@ -1,1 +1,12 @@
-{"assetId":"F5792_Medium Indigo 1","styleId":"F5792_691","name":"F5792_691_High-waisted Relaxed Fit Jeans","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-3","filters":"Denim"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440529/PF21_21.2/packshots_rerunners/F5792_6210_691_baefmf.jpg",
+  "assetId": "F5792_Medium Indigo 1",
+  "name": "F5792_691_High-waisted Relaxed Fit Jeans",
+  "styleId": "F5792_691",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-3",
+  "filters": "Denim"
+}

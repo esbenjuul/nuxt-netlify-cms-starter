@@ -1,1 +1,12 @@
-{"assetId":"F6008_Black 1","styleId":"F6008_99","name":"F6008_99_Midi Dress","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Dresses"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440398/PF21_21.2/packshots_collection/F6008_6278_099_abbkde.jpg",
+  "assetId": "F6008_Black 1",
+  "name": "F6008_99_Midi Dress",
+  "styleId": "F6008_99",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Dresses"
+}

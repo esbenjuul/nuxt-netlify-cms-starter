@@ -1,1 +1,12 @@
-{"assetId":"A3360_Kelly Green 1","styleId":"A3360_801","name":"A3360_801_Tie-front Swimsuit","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Swimwear"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440366/PF21_21.2/packshots_collection/A3360_5659_801_cyxria.jpg",
+  "assetId": "A3360_Kelly Green 1",
+  "name": "A3360_801_Tie-front Swimsuit",
+  "styleId": "A3360_801",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Swimwear"
+}

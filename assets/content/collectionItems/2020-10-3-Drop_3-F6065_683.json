@@ -1,1 +1,23 @@
-{"styleId":"F6065_683","name":"F6065_683_Blazer","program":6272,"programName":"Stretch Stripe","material":"62% POLY, 32% VIS, 6% EL","groupId":"drop-3","colorNames":"Sky Captain","colorId":683,"filters":["rtw3"],"responsible":false,"weight":2060,"wholesalePriceDKK":893,"wholesalePriceEUR":124,"wholesalePriceUSD":178,"wholesalePriceGPB":117,"retailPriceDKK":2499,"retailPriceEUR":345,"retailPriceUSD":425,"retailPriceGBP":325}
+{
+  "retailPriceUSD": 425,
+  "program": 6272,
+  "colorNames": "Sky Captain",
+  "material": "62% POLY, 32% VIS, 6% EL",
+  "wholesalePriceGBP": 117,
+  "name": "F6065_683_Blazer",
+  "styleId": "F6065_683",
+  "retailPriceGBP": 325,
+  "programName": "Stretch Stripe",
+  "responsible": false,
+  "wholesalePriceEUR": 124,
+  "weight": 2060,
+  "wholesalePriceDKK": 893,
+  "groupId": "drop-3",
+  "wholesalePriceUSD": 178,
+  "filters": [
+    "rtw3"
+  ],
+  "retailPriceEUR": 345,
+  "retailPriceDKK": 2499,
+  "colorId": 683
+}

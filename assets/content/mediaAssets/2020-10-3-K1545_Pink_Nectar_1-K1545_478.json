@@ -1,1 +1,12 @@
-{"assetId":"K1545_Pink Nectar 1","styleId":"K1545_478","name":"K1545_478_Cardigan","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Knitwear"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604840100/PF21_21.2/packshots_collection/K1545_2516_478_tbcmba.jpg",
+  "assetId": "K1545_Pink Nectar 1",
+  "name": "K1545_478_Cardigan",
+  "styleId": "K1545_478",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Knitwear"
+}

@@ -1,1 +1,23 @@
-{"styleId":"A3444_252","name":"A3444_252_Drawstring Tote","program":5669,"programName":"Seasonal Recycled Tech Fabric","material":"100% Recycled Polyester Lining: 100% Recycled PL","groupId":"drop-1","colorNames":"Phantom","colorId":252,"filters":["acc2"],"responsible":true,"weight":4130,"wholesalePriceDKK":560,"wholesalePriceEUR":82,"wholesalePriceUSD":98,"wholesalePriceGPB":70,"retailPriceDKK":1399,"retailPriceEUR":195,"retailPriceUSD":235,"retailPriceGBP":175}
+{
+  "retailPriceUSD": 235,
+  "program": 5669,
+  "colorNames": "Phantom",
+  "material": "100% Recycled Polyester Lining: 100% Recycled PL",
+  "wholesalePriceGBP": 70,
+  "name": "A3444_252_Drawstring Tote",
+  "styleId": "A3444_252",
+  "retailPriceGBP": 175,
+  "programName": "Seasonal Recycled Tech Fabric",
+  "responsible": true,
+  "wholesalePriceEUR": 82,
+  "weight": 4130,
+  "wholesalePriceDKK": 560,
+  "groupId": "drop-1",
+  "wholesalePriceUSD": 98,
+  "filters": [
+    "acc2"
+  ],
+  "retailPriceEUR": 195,
+  "retailPriceDKK": 1399,
+  "colorId": 252
+}

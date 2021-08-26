@@ -1,1 +1,12 @@
-{"assetId":"F6119_Sky Captain 1","styleId":"F6119_683","name":"F6119_683_Shorts","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-3","filters":"Shorts"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440428/PF21_21.2/packshots_collection/F6119_6272_683_u2l8uv.jpg",
+  "assetId": "F6119_Sky Captain 1",
+  "name": "F6119_683_Shorts",
+  "styleId": "F6119_683",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-3",
+  "filters": "Shorts"
+}

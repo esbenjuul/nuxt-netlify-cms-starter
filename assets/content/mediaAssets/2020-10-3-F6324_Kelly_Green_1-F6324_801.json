@@ -1,1 +1,12 @@
-{"assetId":"F6324_Kelly Green 1","styleId":"F6324_801","name":"F6324_801_Sarong","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Accessories"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440431/PF21_21.2/packshots_collection/F6324_6279_801_enhegp.jpg",
+  "assetId": "F6324_Kelly Green 1",
+  "name": "F6324_801_Sarong",
+  "styleId": "F6324_801",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Accessories"
+}

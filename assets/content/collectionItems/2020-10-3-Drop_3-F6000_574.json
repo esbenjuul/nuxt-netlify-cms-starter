@@ -1,1 +1,24 @@
-{"styleId":"F6000_574","name":"F6000_574_Dress","program":6252,"programName":"Crispy Taffeta","material":"50% Recycled Polyester, 50% Acetate","groupId":"drop-3","colorNames":"Airy Blue","colorId":574,"filters":["rtw1"],"responsible":true,"weight":2140,"wholesalePriceDKK":678,"wholesalePriceEUR":95,"wholesalePriceUSD":136,"wholesalePriceGPB":88,"retailPriceDKK":1899,"retailPriceEUR":265,"retailPriceUSD":325,"retailPriceGBP":245}
+{
+  "retailPriceUSD": 325,
+  "program": 6252,
+  "colorNames": "Airy Blue",
+  "material": "50% Recycled Polyester, 50% Acetate",
+  "wholesalePriceGBP": 88,
+  "name": "F6000_574_Dress",
+  "styleId": "F6000_574",
+  "retailPriceGBP": 245,
+  "programName": "Crispy Taffeta",
+  "responsible": true,
+  "wholesalePriceEUR": 95,
+  "weight": 2140,
+  "wholesalePriceDKK": 678,
+  "groupId": "drop-3",
+  "wholesalePriceUSD": 136,
+  "filters": [
+    "rtw1",
+    "misc2"
+  ],
+  "retailPriceEUR": 265,
+  "retailPriceDKK": 1899,
+  "colorId": 574
+}

@@ -1,1 +1,23 @@
-{"styleId":"F6074_999","name":"F6074_999_Midi Dress","program":6266,"programName":"Seersucker Check","material":"58% ORG COT, 37% REC PES, 5% PA","groupId":"drop-1","colorNames":"Multicolour","colorId":999,"filters":["rtw1"],"responsible":true,"weight":3400,"wholesalePriceDKK":500,"wholesalePriceEUR":74,"wholesalePriceUSD":98,"wholesalePriceGPB":63,"retailPriceDKK":1399,"retailPriceEUR":195,"retailPriceUSD":235,"retailPriceGBP":175}
+{
+  "retailPriceUSD": 235,
+  "program": 6266,
+  "colorNames": "Multicolour",
+  "material": "58% ORG COT, 37% REC PES, 5% PA",
+  "wholesalePriceGBP": 63,
+  "name": "F6074_999_Midi Dress",
+  "styleId": "F6074_999",
+  "retailPriceGBP": 175,
+  "programName": "Seersucker Check",
+  "responsible": true,
+  "wholesalePriceEUR": 74,
+  "weight": 3400,
+  "wholesalePriceDKK": 500,
+  "groupId": "drop-1",
+  "wholesalePriceUSD": 98,
+  "filters": [
+    "rtw1"
+  ],
+  "retailPriceEUR": 195,
+  "retailPriceDKK": 1399,
+  "colorId": 999
+}

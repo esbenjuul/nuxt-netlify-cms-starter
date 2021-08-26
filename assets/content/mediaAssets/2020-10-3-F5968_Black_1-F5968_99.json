@@ -1,1 +1,12 @@
-{"assetId":"F5968_Black 1","styleId":"F5968_99","name":"F5968_99_Top","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-2","filters":"Tops"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1606075102/PF21_21.2/packshots_collection/F5968_6239_099_ykzdn8.jpg",
+  "assetId": "F5968_Black 1",
+  "name": "F5968_99_Top",
+  "styleId": "F5968_99",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-2",
+  "filters": "Tops"
+}

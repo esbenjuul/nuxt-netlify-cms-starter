@@ -27,11 +27,11 @@
 		.window__content {
 			height: auto;
 		}
-		.window__top {
-			.title {
-				border-bottom: rem(1) solid $color-black;
-			}
-		}
+		// .window__top {
+		// 	.title {
+		// 		border-bottom: rem(1) solid $color-black;
+		// 	}
+		// }
 
 		.button.expand {
 			@include full-width-button();

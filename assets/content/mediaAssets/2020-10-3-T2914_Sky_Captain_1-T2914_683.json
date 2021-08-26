@@ -1,1 +1,12 @@
-{"assetId":"T2914_Sky Captain 1","styleId":"T2914_683","name":"T2914_683_Elasticated Pants","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"software","filters":"rtw9"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1598013727/SS21/Packshots/Software/T2772_3490_638_u69uhn.jpg",
+  "assetId": "T2914_Sky Captain 1",
+  "name": "T2914_683_Elasticated Pants",
+  "styleId": "T2914_683",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "software",
+  "filters": "rtw9"
+}

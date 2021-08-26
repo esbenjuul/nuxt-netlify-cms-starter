@@ -1,1 +1,24 @@
-{"styleId":"A3382_943","name":"A3382_943_Duffle bag","program":5669,"programName":"Seasonal Recycled Tech Fabric","material":"100% Recycled Polyester Lining: 100% Recycled PL","groupId":"drop-1","colorNames":"Leopard","colorId":943,"filters":["acc2"],"responsible":true,"weight":4060,"wholesalePriceDKK":480,"wholesalePriceEUR":70,"wholesalePriceUSD":86,"wholesalePriceGPB":62,"retailPriceDKK":1199,"retailPriceEUR":175,"retailPriceUSD":195,"retailPriceGBP":155}
+{
+  "retailPriceUSD": 195,
+  "program": 5669,
+  "colorNames": "Phantom",
+  "material": "100% Recycled Polyester Lining: 100% Recycled PL",
+  "wholesalePriceGBP": 62,
+  "name": "A3382_252_Duffle bag",
+  "styleId": "A3382_252",
+  "retailPriceGBP": 155,
+  "programName": "Seasonal Recycled Tech Fabric",
+  "responsible": true,
+  "wholesalePriceEUR": 70,
+  "weight": 4060,
+  "wholesalePriceDKK": 480,
+  "groupId": "drop-1",
+  "wholesalePriceUSD": 86,
+  "filters": [
+    "acc2"
+  ],
+  "retailPriceEUR": 175,
+  "retailPriceDKK": 1199,
+  "colorId": "252",
+  "assets": []
+}

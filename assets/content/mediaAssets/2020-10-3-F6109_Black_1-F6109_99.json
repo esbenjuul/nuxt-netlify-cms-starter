@@ -1,1 +1,12 @@
-{"assetId":"F6109_Black 1","styleId":"F6109_99","name":"F6109_99_Open Back Top","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-2","filters":"Tops"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440423/PF21_21.2/packshots_collection/F6109_6265_099_yavyxt.jpg",
+  "assetId": "F6109_Black 1",
+  "name": "F6109_99_Open Back Top",
+  "styleId": "F6109_99",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-2",
+  "filters": "Tops"
+}

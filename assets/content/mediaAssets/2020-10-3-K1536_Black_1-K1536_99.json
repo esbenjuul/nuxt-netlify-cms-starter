@@ -1,1 +1,12 @@
-{"assetId":"K1536_Black 1","styleId":"K1536_99","name":"K1536_99_Blouse","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-2","filters":"Tops"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440462/PF21_21.2/packshots_collection/K1536_2515_099_yw6iwq.jpg",
+  "assetId": "K1536_Black 1",
+  "name": "K1536_99_Blouse",
+  "styleId": "K1536_99",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-2",
+  "filters": "Tops"
+}

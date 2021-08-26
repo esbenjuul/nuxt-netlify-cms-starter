@@ -1,1 +1,12 @@
-{"assetId":"S1174_Black 1","styleId":"S1174_99","name":"S1174_99_Jewel Mocassin","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Shoes"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440529/PF21_21.2/packshots_rerunners/S1174_4621_099_j66haq.jpg",
+  "assetId": "S1174_Black 1",
+  "name": "S1174_99_Jewel Mocassin",
+  "styleId": "S1174_99",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Shoes"
+}

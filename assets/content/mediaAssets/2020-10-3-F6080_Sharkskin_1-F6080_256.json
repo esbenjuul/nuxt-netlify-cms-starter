@@ -1,1 +1,12 @@
-{"assetId":"F6080_Sharkskin 1","styleId":"F6080_256","name":"F6080_256_Dress","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-2","filters":"Dresses"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440420/PF21_21.2/packshots_collection/F6080_6237_256_tghr98.jpg",
+  "assetId": "F6080_Sharkskin 1",
+  "name": "F6080_256_Dress",
+  "styleId": "F6080_256",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-2",
+  "filters": "Dresses"
+}

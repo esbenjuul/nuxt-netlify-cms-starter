@@ -1,1 +1,24 @@
-{"styleId":"F5978_572","name":"F5978_572_Shirt","program":6236,"programName":"Stripe Cotton","material":"100% Organic Cotton","groupId":"drop-1","colorNames":"Daphne","colorId":572,"filters":["rtw8"],"responsible":true,"weight":3760,"wholesalePriceDKK":464,"wholesalePriceEUR":67,"wholesalePriceUSD":90,"wholesalePriceGPB":59,"retailPriceDKK":1299,"retailPriceEUR":185,"retailPriceUSD":215,"retailPriceGBP":165}
+{
+  "retailPriceUSD": 215,
+  "program": 6236,
+  "colorNames": "Daphne",
+  "material": "100% Organic Cotton",
+  "wholesalePriceGBP": 59,
+  "name": "F5978_572_Shirt",
+  "styleId": "F5978_572",
+  "retailPriceGBP": 165,
+  "programName": "Stripe Cotton",
+  "responsible": true,
+  "wholesalePriceEUR": 67,
+  "weight": 3760,
+  "wholesalePriceDKK": 464,
+  "groupId": "drop-1",
+  "wholesalePriceUSD": 90,
+  "filters": [
+    "rtw8",
+    "misc2"
+  ],
+  "retailPriceEUR": 185,
+  "retailPriceDKK": 1299,
+  "colorId": 572
+}

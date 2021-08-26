@@ -1,1 +1,12 @@
-{"assetId":"F5961_Black 1","styleId":"F5961_99","name":"F5961_99_Shirt","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Tops"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1606075102/PF21_21.2/packshots_collection/F5961_6239_099_bf4jz8.jpg",
+  "assetId": "F5961_Black 1",
+  "name": "F5961_99_Shirt",
+  "styleId": "F5961_99",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Tops"
+}

@@ -36,7 +36,8 @@
 		margin-top: rem(10);
 	}
 
-	&:hover {
+	&:hover,
+	&.paused {
 		p {
 			animation-play-state: paused;
 		}

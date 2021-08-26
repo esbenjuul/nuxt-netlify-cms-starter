@@ -1,1 +1,12 @@
-{"assetId":"A3357_Leopard 1","styleId":"A3357_943","name":"A3357_943_V-neck Swimsuit","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Swimwear"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440361/PF21_21.2/packshots_collection/A3357_5659_943_svjy27.jpg",
+  "assetId": "A3357_Leopard 1",
+  "name": "A3357_943_V-neck Swimsuit",
+  "styleId": "A3357_943",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Swimwear"
+}

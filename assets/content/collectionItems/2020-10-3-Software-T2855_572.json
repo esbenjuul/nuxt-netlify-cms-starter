@@ -1,1 +1,23 @@
-{"styleId":"T2855_572","name":"T2855_572_Relaxed T-Shirt Dress, Wide stripe","program":3522,"programName":"Stripe software Jersey","material":"50% Recycled Cot, 50% Recycled Poly","groupId":"software","colorNames":"Daphne","colorId":572,"filters":["rtw1"],"responsible":true,"weight":2000,"wholesalePriceDKK":393,"wholesalePriceEUR":56,"wholesalePriceUSD":78,"wholesalePriceGPB":52,"retailPriceDKK":1099,"retailPriceEUR":155,"retailPriceUSD":185,"retailPriceGBP":145}
+{
+  "retailPriceUSD": 185,
+  "program": 3522,
+  "colorNames": "Daphne",
+  "material": "50% Recycled Cot, 50% Recycled Poly",
+  "name": "T2855_572_Relaxed T-Shirt Dress, Wide stripe",
+  "styleId": "T2855_572",
+  "wholesalePriceGBP": 52,
+  "retailPriceGBP": 145,
+  "programName": "Stripe software Jersey",
+  "responsible": true,
+  "wholesalePriceEUR": 56,
+  "weight": 2000,
+  "wholesalePriceDKK": 393,
+  "groupId": "software",
+  "wholesalePriceUSD": 78,
+  "filters": [
+    "rtw1"
+  ],
+  "retailPriceEUR": 135,
+  "retailPriceDKK": 1099,
+  "colorId": 572
+}

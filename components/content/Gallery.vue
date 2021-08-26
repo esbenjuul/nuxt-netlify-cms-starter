@@ -25,6 +25,7 @@ import GalleryImage from '~/components/content/GalleryImage.vue'
 import GalleryVideo from '~/components/content/GalleryVideo.vue'
 
 import WindowContent from '~/components/framework/WindowContent.vue'
+import { CLOSE_WINDOW } from '~/model/constants'
 
 export default {
 	extends: WindowContent,
@@ -34,6 +35,16 @@ export default {
 		GalleryVideo
 	},
 	props: {
+		parentWindowId: {
+			type: String,
+			default: '',
+			required: true
+		},
+		contentId: {
+			type: String,
+			default: '',
+			required: true
+		},
 		styleId: {
 			type: String,
 			default: '',
@@ -46,23 +57,32 @@ export default {
 		}
 	},
 	computed: {
-		...mapState({
-			collection: state => state.collection.allStyles
-		}),
+		...mapState('collection', ['allStyles', 'currentStyle']),
 		assets() {
-			let styleRef = this.collection.filter(e => e.styleId === this.styleId)[0]
+			let styleRef = this.allStyles.filter(e => e.styleId === this.styleId)[0]
 			if (styleRef.assets) return styleRef.assets
 			return []
 		},
 		images() {
-			let i = this.assets.filter(asset => asset.type === 'image')
-			return i
+			return this.assets.filter(asset => asset.type === 'image')
 		},
 		videos() {
-			let i = this.assets.filter(asset => asset.type === 'video')
-			return i
+			return this.assets.filter(asset => asset.type === 'video')
 		}
 	},
-	methods: {}
+	watch: {
+		currentStyle: {
+			deep: true,
+			handler() {
+				this[CLOSE_WINDOW.action]({
+					windowId: this.parentWindowId,
+					contentId: this.contentId
+				})
+			}
+		}
+	},
+	methods: {
+		...mapActions([CLOSE_WINDOW.action])
+	}
 }
 </script>

@@ -1,1 +1,24 @@
-{"styleId":"K1522_99","name":"K1522_99_Cropped Cardigan","program":2515,"programName":"Melange Knit","material":"55% Rayon, 29% Polyamide, 16% Elastane","groupId":"drop-2","colorNames":"Black","colorId":99,"filters":["rtw5"],"responsible":false,"weight":3170,"wholesalePriceDKK":440,"wholesalePriceEUR":62,"wholesalePriceUSD":78,"wholesalePriceGPB":58,"retailPriceDKK":1099,"retailPriceEUR":155,"retailPriceUSD":185,"retailPriceGBP":145}
+{
+  "retailPriceUSD": 185,
+  "program": 2515,
+  "colorNames": "Black",
+  "material": "55% Rayon, 29% Polyamide, 16% Elastane",
+  "name": "K1522_99_Cropped Cardigan",
+  "styleId": "K1522_99",
+  "wholesalePriceGBP": 58,
+  "retailPriceGBP": 145,
+  "programName": "Melange Knit",
+  "responsible": false,
+  "wholesalePriceEUR": 62,
+  "weight": 3170,
+  "wholesalePriceDKK": 440,
+  "groupId": "drop-2",
+  "wholesalePriceUSD": 78,
+  "filters": [
+    "rtw5",
+    "misc2"
+  ],
+  "retailPriceEUR": 155,
+  "retailPriceDKK": 1099,
+  "colorId": 99
+}

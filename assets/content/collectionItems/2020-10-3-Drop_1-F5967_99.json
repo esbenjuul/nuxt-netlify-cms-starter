@@ -1,1 +1,25 @@
-{"styleId":"F5967_99","name":"F5967_99_Skirt","program":6239,"programName":"Lamb Leather","material":"100% Lamb Leather","groupId":"drop-1","colorNames":"Black","colorId":99,"filters":["rtw6","misc3"],"responsible":false,"weight":3680,"wholesalePriceDKK":1280,"wholesalePriceEUR":178,"wholesalePriceUSD":219,"wholesalePriceGPB":170,"retailPriceDKK":3199,"retailPriceEUR":445,"retailPriceUSD":525,"retailPriceGBP":425}
+{
+  "retailPriceUSD": 525,
+  "program": 6239,
+  "colorNames": "Black",
+  "material": "100% Lamb Leather",
+  "wholesalePriceGBP": 170,
+  "name": "F5967_99_Skirt",
+  "styleId": "F5967_99",
+  "retailPriceGBP": 425,
+  "programName": "Lamb Leather",
+  "responsible": false,
+  "wholesalePriceEUR": 178,
+  "weight": 3680,
+  "wholesalePriceDKK": 1280,
+  "groupId": "drop-1",
+  "wholesalePriceUSD": 219,
+  "filters": [
+    "rtw6",
+    "misc3",
+    "misc2"
+  ],
+  "retailPriceEUR": 445,
+  "retailPriceDKK": 3199,
+  "colorId": 99
+}

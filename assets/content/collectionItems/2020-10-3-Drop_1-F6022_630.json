@@ -1,1 +1,24 @@
-{"styleId":"F6022_630","name":"F6022_630_Midi Skirt","program":6280,"programName":"Comfort Stretch","material":"55% Organic Cotton, 43% Cotton, 2% Elastane","groupId":"drop-1","colorNames":"Denim","colorId":630,"filters":["rtw6"],"responsible":true,"weight":3190,"wholesalePriceDKK":444,"wholesalePriceEUR":65,"wholesalePriceUSD":86,"wholesalePriceGPB":58,"retailPriceDKK":1199,"retailPriceEUR":175,"retailPriceUSD":195,"retailPriceGBP":155}
+{
+  "retailPriceUSD": 195,
+  "program": 6280,
+  "colorNames": "Denim",
+  "material": "55% Organic Cotton, 43% Cotton, 2% Elastane",
+  "wholesalePriceGBP": 58,
+  "name": "F6022_630_Midi Skirt",
+  "styleId": "F6022_630",
+  "retailPriceGBP": 155,
+  "programName": "Comfort Stretch",
+  "responsible": true,
+  "wholesalePriceEUR": 65,
+  "weight": 3190,
+  "wholesalePriceDKK": 444,
+  "groupId": "drop-1",
+  "wholesalePriceUSD": 86,
+  "filters": [
+    "rtw6",
+    "rtw2"
+  ],
+  "retailPriceEUR": 175,
+  "retailPriceDKK": 1199,
+  "colorId": 630
+}

@@ -1,1 +1,12 @@
-{"assetId":"K1571_Daphne 1","styleId":"K1571_572","name":"K1571_572_Blouse","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Tops"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440470/PF21_21.2/packshots_collection/K1571_2515_572_xa3e87.jpg",
+  "assetId": "K1571_Daphne 1",
+  "name": "K1571_572_Blouse",
+  "styleId": "K1571_572",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Tops"
+}

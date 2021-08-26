@@ -1,1 +1,12 @@
-{"assetId":"A3358_Kelly Green 1","styleId":"A3358_801","name":"A3358_801_Twisted Bikini Top","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Swimwear"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440360/PF21_21.2/packshots_collection/A3358_5659_801_c7pj80.jpg",
+  "assetId": "A3358_Kelly Green 1",
+  "name": "A3358_801_Twisted Bikini Top",
+  "styleId": "A3358_801",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Swimwear"
+}

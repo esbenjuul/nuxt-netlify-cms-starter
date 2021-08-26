@@ -1,1 +1,23 @@
-{"styleId":"T2918_304","name":"T2918_304_V-neck T-shirt","program":3531,"programName":"Thin software Jersey","material":"50% Recycled Cot, 50% Recycled Poly","groupId":"software","colorNames":"Anise Flower","colorId":304,"filters":["rtw10"],"responsible":true,"weight":1380,"wholesalePriceDKK":178,"wholesalePriceEUR":27,"wholesalePriceUSD":36,"wholesalePriceGPB":24,"retailPriceDKK":499,"retailPriceEUR":75,"retailPriceUSD":85,"retailPriceGBP":65}
+{
+  "retailPriceUSD": 85,
+  "program": 3531,
+  "colorNames": "Anise Flower",
+  "material": "50% Recycled Cot, 50% Recycled Poly",
+  "name": "T2918_304_V-neck T-shirt",
+  "styleId": "T2918_304",
+  "wholesalePriceGBP": 24,
+  "retailPriceGBP": 65,
+  "programName": "Thin software Jersey",
+  "responsible": true,
+  "wholesalePriceEUR": 27,
+  "weight": 1380,
+  "wholesalePriceDKK": 178,
+  "groupId": "software",
+  "wholesalePriceUSD": 36,
+  "filters": [
+    "rtw10"
+  ],
+  "retailPriceEUR": 65,
+  "retailPriceDKK": 499,
+  "colorId": 304
+}

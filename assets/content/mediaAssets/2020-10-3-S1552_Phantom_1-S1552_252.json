@@ -1,1 +1,12 @@
-{"assetId":"S1552_Phantom 1","styleId":"S1552_252","name":"S1552_252_Slingback Mocassin","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Shoes"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1606428399/PF21_21.2/packshots_collection/S1517_XXXX_252_jrdsyk.jpg",
+  "assetId": "S1552_Phantom 1",
+  "name": "S1552_252_Slingback Mocassin",
+  "styleId": "S1552_252",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Shoes"
+}

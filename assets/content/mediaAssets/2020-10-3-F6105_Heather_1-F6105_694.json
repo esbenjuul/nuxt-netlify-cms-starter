@@ -1,1 +1,12 @@
-{"assetId":"F6105_Heather 1","styleId":"F6105_694","name":"F6105_694_Midi Dress","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-2","filters":"Dresses"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440423/PF21_21.2/packshots_collection/F6105_6238_694_hvb6h7.jpg",
+  "assetId": "F6105_Heather 1",
+  "name": "F6105_694_Midi Dress",
+  "styleId": "F6105_694",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-2",
+  "filters": "Dresses"
+}

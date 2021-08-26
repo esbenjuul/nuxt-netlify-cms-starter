@@ -1,1 +1,12 @@
-{"assetId":"A3369_Black 1","styleId":"A3369_99","name":"A3369_99_One Shoulder Swimsuit","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Swimwear"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440363/PF21_21.2/packshots_collection/A3369_5660_099_m9cwxo.jpg",
+  "assetId": "A3369_Black 1",
+  "name": "A3369_99_One Shoulder Swimsuit",
+  "styleId": "A3369_99",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Swimwear"
+}

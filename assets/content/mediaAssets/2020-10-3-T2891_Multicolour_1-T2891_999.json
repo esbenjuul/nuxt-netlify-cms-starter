@@ -1,1 +1,12 @@
-{"assetId":"T2891_Multicolour 1","styleId":"T2891_999","name":"T2891_999_Mini Dress","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Dresses"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440474/PF21_21.2/packshots_collection/T2891_3499_999_dfbixq.jpg",
+  "assetId": "T2891_Multicolour 1",
+  "name": "T2891_999_Mini Dress",
+  "styleId": "T2891_999",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Dresses"
+}

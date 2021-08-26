@@ -1,1 +1,23 @@
-{"styleId":"F6336_801","name":"F6336_801_Wrap Dress","program":6245,"programName":"Printed Cotton Poplin","material":"100% Organic Cotton","groupId":"drop-3","colorNames":"Kelly Green","colorId":801,"filters":["rtw1"],"responsible":true,"weight":2360,"wholesalePriceDKK":678,"wholesalePriceEUR":95,"wholesalePriceUSD":136,"wholesalePriceGPB":88,"retailPriceDKK":1899,"retailPriceEUR":265,"retailPriceUSD":325,"retailPriceGBP":245}
+{
+  "retailPriceUSD": 325,
+  "program": 6245,
+  "colorNames": "Kelly Green",
+  "material": "100% Organic Cotton",
+  "wholesalePriceGBP": 88,
+  "name": "F6336_801_Wrap Dress",
+  "styleId": "F6336_801",
+  "retailPriceGBP": 245,
+  "programName": "Printed Cotton Poplin",
+  "responsible": true,
+  "wholesalePriceEUR": 95,
+  "weight": 2360,
+  "wholesalePriceDKK": 678,
+  "groupId": "drop-3",
+  "wholesalePriceUSD": 136,
+  "filters": [
+    "rtw1"
+  ],
+  "retailPriceEUR": 265,
+  "retailPriceDKK": 1899,
+  "colorId": 801
+}

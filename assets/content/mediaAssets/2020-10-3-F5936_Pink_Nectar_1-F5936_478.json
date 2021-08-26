@@ -1,1 +1,12 @@
-{"assetId":"F5936_Pink Nectar 1","styleId":"F5936_478","name":"F5936_478_Jacket","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-3","filters":"Coats / Jackets"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1605090408/PF21_21.2/packshots_collection/F5936_6275_478_NY_gzhzlw.jpg",
+  "assetId": "F5936_Pink Nectar 1",
+  "name": "F5936_478_Jacket",
+  "styleId": "F5936_478",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-3",
+  "filters": "Coats / Jackets"
+}

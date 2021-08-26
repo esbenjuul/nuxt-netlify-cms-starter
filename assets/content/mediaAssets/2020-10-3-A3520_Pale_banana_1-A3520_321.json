@@ -1,1 +1,12 @@
-{"assetId":"A3520_Pale banana 1","styleId":"A3520_321","name":"A3520_321_Beret","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Hats"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604839915/PF21_21.2/packshots_collection/A3520_5592_321_bd5nir.jpg",
+  "assetId": "A3520_Pale banana 1",
+  "name": "A3520_321_Beret",
+  "styleId": "A3520_321",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Hats"
+}

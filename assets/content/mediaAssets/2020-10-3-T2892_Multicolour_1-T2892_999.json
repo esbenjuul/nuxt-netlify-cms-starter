@@ -1,1 +1,12 @@
-{"assetId":"T2892_Multicolour 1","styleId":"T2892_999","name":"T2892_999_Dress","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Dresses"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440479/PF21_21.2/packshots_collection/T2892_3499_999_vldwh5.jpg",
+  "assetId": "T2892_Multicolour 1",
+  "name": "T2892_999_Dress",
+  "styleId": "T2892_999",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Dresses"
+}

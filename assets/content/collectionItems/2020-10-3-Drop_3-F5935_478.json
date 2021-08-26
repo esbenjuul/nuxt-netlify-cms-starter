@@ -1,1 +1,24 @@
-{"styleId":"F5935_478","name":"F5935_478_Mini Skirt","program":6275,"programName":"Yarndyed Denim","material":"85% Cotton, 15% Recycled Cotton","groupId":"drop-3","colorNames":"Pink Nectar","colorId":478,"filters":["rtw6"],"responsible":false,"weight":2020,"wholesalePriceDKK":481,"wholesalePriceEUR":69,"wholesalePriceUSD":90,"wholesalePriceGPB":62,"retailPriceDKK":1299,"retailPriceEUR":185,"retailPriceUSD":215,"retailPriceGBP":165}
+{
+  "retailPriceUSD": 215,
+  "program": 6275,
+  "colorNames": "Pink Nectar",
+  "material": "85% Cotton, 15% Recycled Cotton",
+  "wholesalePriceGBP": 62,
+  "name": "F5935_478_Mini Skirt",
+  "styleId": "F5935_478",
+  "retailPriceGBP": 165,
+  "programName": "Yarndyed Denim",
+  "responsible": false,
+  "wholesalePriceEUR": 69,
+  "weight": 2020,
+  "wholesalePriceDKK": 481,
+  "groupId": "drop-3",
+  "wholesalePriceUSD": 90,
+  "filters": [
+    "rtw6",
+    "misc2"
+  ],
+  "retailPriceEUR": 185,
+  "retailPriceDKK": 1299,
+  "colorId": 478
+}

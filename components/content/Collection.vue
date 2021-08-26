@@ -72,11 +72,11 @@ export default {
 			}
 			return groups
 		}
-	},
-	watch: {
-		collectionLayout(newVal) {
-			console.log('collectionLayout', newVal)
-		}
 	}
+	// watch: {
+	// 	collectionLayout(newVal) {
+	// 		console.log('collectionLayout', newVal)
+	// 	}
+	// }
 }
 </script>

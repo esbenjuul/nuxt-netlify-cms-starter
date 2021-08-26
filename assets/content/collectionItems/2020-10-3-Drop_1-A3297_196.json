@@ -1,1 +1,23 @@
-{"styleId":"A3297_196","name":"A3297_196_Duffle Bag","program":5643,"programName":"Fishnet","material":"52% Organic cotton, 48% polyester","groupId":"drop-1","colorNames":"Brazilian sand","colorId":196,"filters":["acc2"],"responsible":true,"weight":4370,"wholesalePriceDKK":880,"wholesalePriceEUR":122,"wholesalePriceUSD":157,"wholesalePriceGPB":110,"retailPriceDKK":2199,"retailPriceEUR":295,"retailPriceUSD":375,"retailPriceGBP":275}
+{
+  "retailPriceUSD": 375,
+  "program": 5643,
+  "colorNames": "Brazilian sand",
+  "material": "52% Organic cotton, 48% polyester",
+  "wholesalePriceGBP": 110,
+  "name": "A3297_196_Duffle Bag",
+  "styleId": "A3297_196",
+  "retailPriceGBP": 275,
+  "programName": "Fishnet",
+  "responsible": true,
+  "wholesalePriceEUR": 122,
+  "weight": 4377,
+  "wholesalePriceDKK": 880,
+  "groupId": "drop-1",
+  "wholesalePriceUSD": 157,
+  "filters": [
+    "acc2"
+  ],
+  "retailPriceEUR": 295,
+  "retailPriceDKK": 2199,
+  "colorId": 196
+}

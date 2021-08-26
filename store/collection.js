@@ -15,8 +15,7 @@ import {
 	ADD_TO_WISHLIST,
 	REMOVE_FROM_WISHLIST,
 	ALL_ASSETS_VISIBLE,
-	SHOW_NEXT_STYLE,
-	SHOW_PREVIOUS_STYLE,
+	SHOW_NEW_STYLE,
 	OPEN_STYLE_CONTENT,
 	CLOSE_WINDOW_GROUP,
 	COLLECTION_LAYOUT_CHANGE,
@@ -26,6 +25,15 @@ import {
 } from '~/model/constants'
 
 import CollectionLayouts from '~/model/collection-layouts'
+import getUniqueId from '~/utils/get-unique-id'
+import {
+	prevIndex,
+	nextIndex,
+	isFirstIndex,
+	isLastIndex,
+	firstElement,
+	lastElement
+} from '~/utils/array-helpers'
 
 export const state = () => ({
 	collectionLayout: CollectionLayouts.GRID,
@@ -77,12 +85,23 @@ export const getters = {
 			.map(style => style.styleId)
 			.join(',')}`,
 
-	authorizedGroupsIds: state => state.authorizedGroups.map(g => g.groupId)
+	authorizedGroupsIds: state => state.authorizedGroups.map(g => g.groupId),
+
+	currentStyleGroupId: state => state.currentStyle.groupId,
+
+	currentStyleGroupIndex: state =>
+		state.authorizedGroups.findIndex(
+			g => g.groupId === state.currentStyle.groupId
+		)
 }
 
 export const mutations = {
 	[COLLECTION_ITEMS_FETCH.mutation](state, data) {
 		state.allStyles = data
+		// .map(style => ({
+		// 	...style,
+		// 	assets: style.assets || []
+		// }))
 	},
 	[COLLECTION_GROUPS_FETCH.mutation](state, data) {
 		state.allGroups = data
@@ -114,6 +133,9 @@ export const mutations = {
 		for (var i = 0; i < al; i++) {
 			let asset = state.allMediaAssets[i]
 			let style = state.allStyles.filter(e => e.styleId === asset.styleId)[0]
+			// if (style && !style.assets) {
+			// 	style.assets = []
+			// }
 			if (style) style.assets = [...(style.assets || []), asset]
 			else if (window.GS_LOGS)
 				console.warn('NO STYLE FOR ASSET | styleId: "' + asset.styleId + '"')
@@ -122,10 +144,18 @@ export const mutations = {
 		//sort style assets to have onTop asset first in assets array
 		for (var j = 0; j < cl; j++) {
 			let style = state.allStyles[j]
+
 			if (!style.assets) {
-				console.log(`Didn't find assets for: `, style)
-				return
+				style.assets = []
 			}
+
+			if (!style.assets.length) {
+				if (window.GS_LOGS) {
+					console.log(`Didn't find assets for: `, style)
+				}
+				// return
+			}
+
 			if (style.assets && style.assets.length === 0) {
 				style.assets.push({
 					assetId: getUniqueId(),
@@ -157,7 +187,9 @@ export const mutations = {
 			)[0]
 
 			if (!stateGroup) {
-				console.log(`style is part of non-existing group: ${style.groupId}`)
+				if (window.GS_LOGS) {
+					console.log(`style is part of non-existing group: ${style.groupId}`)
+				}
 				return
 			}
 
@@ -170,17 +202,6 @@ export const mutations = {
 			stateGroup.styles.push(clonedStyle)
 		}
 
-		const validJSON = json =>
-			/^[\],:{}\s]*$/.test(
-				json
-					.replace(/\\["\\\/bfnrtu]/g, '@')
-					.replace(
-						/"[^"\\\n\r]*"|true|false|null|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?/g,
-						']'
-					)
-					.replace(/(?:^|:|,)(?:\s*\[)+/g, '')
-			)
-
 		//parse groups
 		for (var j = 0; j < gl; j++) {
 			let stateGroup = state.allGroups[j]
@@ -191,7 +212,9 @@ export const mutations = {
 			for (var k = 0; k < gsl; k++) {
 				let style = stateGroup.styles[k]
 				let styleId = style.styleId
-				console.warn('PARSE STYLE ' + styleId)
+				if (window.GS_LOGS) {
+					console.warn('PARSE STYLE ' + styleId)
+				}
 				//extrapolate filters from styles
 				let fl = style.filters.length
 				for (var l = 0; l < fl; l++) {
@@ -199,7 +222,9 @@ export const mutations = {
 					let stateFilter = state.allFilters.filter(
 						e => e.filterId === styleFilterId
 					)[0]
-					console.warn('PARSE STYLE FILTER ' + styleFilterId, stateFilter)
+					if (window.GS_LOGS) {
+						console.warn('PARSE STYLE FILTER ' + styleFilterId, stateFilter)
+					}
 
 					// ==================================================================
 
@@ -342,7 +367,11 @@ export const mutations = {
 			state.activeGroup = state.allGroups.filter(e => e.groupId === groupId)[0]
 			state.activeGroupIndex = state.allGroups.indexOf(state.activeGroup)
 
-			state.currentStyles = state.activeGroup.styles
+			state.currentStyles = sortArrayMultipleProps(
+				state.activeGroup.styles,
+				'program',
+				'weight'
+			)
 			state.groupFilters = state.activeGroup.filters
 		}
 	},
@@ -399,7 +428,7 @@ export const mutations = {
 				state.currentStyles,
 				'styleId'
 			)
-			console.log('newCurrentStyles', newCurrentStyles)
+
 			newCurrentStyles = newCurrentStyles.sort((a, b) =>
 				a.weight > b.weight ? -1 : 1
 			)
@@ -430,14 +459,6 @@ export const mutations = {
 		if (state.wishList.find(s => s.styleId === styleId)) {
 			state.wishList = state.wishList.filter(e => e.styleId !== styleId)
 		}
-	},
-	[SHOW_PREVIOUS_STYLE.mutation](state, styleId) {
-		let listStyle = state.currentStyles.filter(e => e.styleId === styleId)[0]
-		console.log(styleId, listStyle, listStyle.index)
-	},
-	[SHOW_NEXT_STYLE.mutation](state, styleId) {
-		let listStyle = state.currentStyles.filter(e => e.styleId === styleId)[0]
-		console.log(styleId, listStyle, listStyle.index)
 	},
 
 	[COLLECTION_LAYOUT_CHANGE.mutation](state, value) {
@@ -543,52 +564,112 @@ export const actions = {
 		)
 		commit(SET_GROUP_BY_INDEX.mutation, newIndex)
 	},
-	[SHOW_PREVIOUS_STYLE.action]({ commit, dispatch, state }, styleId) {
+
+	[SHOW_NEW_STYLE.action](
+		{ dispatch, state, getters },
+		{ styleId, previous, next }
+	) {
 		dispatch(
 			CLOSE_WINDOW_GROUP.action,
 			{ styleWindowGroup: true },
 			{ root: true }
 		)
 
-		let listStyle = state.currentStyles.filter(e => e.styleId === styleId)[0]
+		/**
+		 * When showing a group, stay in that group
+		 */
+		if (state.activeGroup) {
+			const currentIndex = state.currentStyles.indexOf(state.currentStyle)
+			const newIndex = previous
+				? prevIndex(state.currentStyles, currentIndex)
+				: nextIndex(state.currentStyles, currentIndex)
+			const newStyle = state.currentStyles[newIndex]
 
-		if (!listStyle) return false
-
-		let styleCount = state.currentStyles.length,
-			listStyleIndex = state.currentStyles.indexOf(listStyle),
-			index = listStyleIndex,
-			nextIndex = index === 0 ? styleCount - 1 : index - 1,
-			prevStyle = state.currentStyles[nextIndex]
-
-		if (prevStyle) {
-			dispatch(OPEN_STYLE_CONTENT.action, prevStyle.styleId, {
-				root: true
-			})
+			if (newStyle) {
+				dispatch(OPEN_STYLE_CONTENT.action, newStyle.styleId, {
+					root: true
+				})
+			}
+			return
 		}
-	},
-	[SHOW_NEXT_STYLE.action]({ commit, dispatch, state }, styleId) {
-		dispatch(
-			CLOSE_WINDOW_GROUP.action,
-			{ styleWindowGroup: true },
-			{ root: true }
+
+		/**
+		 * When viewing all styles, we need some more logic
+		 */
+		const groupStyles = state.currentStyles.filter(
+			e => e.groupId === getters.currentStyleGroupId
 		)
 
-		let listStyle = state.currentStyles.filter(e => e.styleId === styleId)[0]
+		const styleIndex = groupStyles.findIndex(
+			s => s.styleId === state.currentStyle.styleId
+		)
 
-		if (!listStyle) return false
+		const currentGroupIndex = state.authorizedGroups.findIndex(
+			g => g.groupId === state.currentStyle.groupId
+		)
 
-		let styleCount = state.currentStyles.length,
-			listStyleIndex = state.currentStyles.indexOf(listStyle),
-			index = listStyleIndex,
-			nextIndex = index === styleCount - 1 ? 0 : index + 1,
-			nextStyle = state.currentStyles[nextIndex]
+		/**
+		 * go to last style of the previous group
+		 */
+		if (previous && isFirstIndex(styleIndex)) {
+			const newGroup =
+				state.authorizedGroups[
+					prevIndex(state.authorizedGroups, currentGroupIndex)
+				]
 
-		if (nextStyle) {
-			dispatch(OPEN_STYLE_CONTENT.action, nextStyle.styleId, {
+			const newStyles = state.currentStyles.filter(
+				s => s.groupId === newGroup.groupId
+			)
+			const newStyle = lastElement(newStyles)
+
+			if (newStyle) {
+				dispatch(OPEN_STYLE_CONTENT.action, newStyle.styleId, {
+					root: true
+				})
+			}
+
+			return
+		}
+
+		/**
+		 * go to the first style of the next group
+		 */
+		if (next && isLastIndex(groupStyles, styleIndex)) {
+			const newGroup =
+				state.authorizedGroups[
+					nextIndex(state.authorizedGroups, currentGroupIndex)
+				]
+
+			const newStyles = state.currentStyles.filter(
+				s => s.groupId === newGroup.groupId
+			)
+			const newStyle = firstElement(newStyles)
+
+			if (newStyle) {
+				dispatch(OPEN_STYLE_CONTENT.action, newStyle.styleId, {
+					root: true
+				})
+			}
+
+			return
+		}
+
+		/**
+		 * go to the previous/next style within the same group
+		 */
+		const newIndex = previous
+			? prevIndex(groupStyles, styleIndex)
+			: nextIndex(groupStyles, styleIndex)
+
+		const newStyle = groupStyles[newIndex]
+
+		if (newStyle) {
+			dispatch(OPEN_STYLE_CONTENT.action, newStyle.styleId, {
 				root: true
 			})
 		}
 	},
+
 	[COLLECTION_LAYOUT_CHANGE.action]({ commit }, value) {
 		commit(COLLECTION_LAYOUT_CHANGE.mutation, value)
 	},

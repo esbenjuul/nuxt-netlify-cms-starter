@@ -1,1 +1,12 @@
-{"assetId":"F5944_Kelly Green 1","styleId":"F5944_801","name":"F5944_801_Skirt","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-3","filters":"Skirts"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1605630779/PF21_21.2/packshots_collection/F5944_6267_801_fjpe9i.jpg",
+  "assetId": "F5944_Kelly Green 1",
+  "name": "F5944_801_Skirt",
+  "styleId": "F5944_801",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-3",
+  "filters": "Skirts"
+}

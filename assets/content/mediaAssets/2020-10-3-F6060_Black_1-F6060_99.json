@@ -1,1 +1,12 @@
-{"assetId":"F6060_Black 1","styleId":"F6060_99","name":"F6060_99_Slip Dress","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-2","filters":"Dresses"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440414/PF21_21.2/packshots_collection/F6060_6265_099_wgsn4r.jpg",
+  "assetId": "F6060_Black 1",
+  "name": "F6060_99_Slip Dress",
+  "styleId": "F6060_99",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-2",
+  "filters": "Dresses"
+}

@@ -1,1 +1,12 @@
-{"assetId":"S1556_Madder Brown 1","styleId":"S1556_470","name":"S1556_470_Rubber Sandal","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Shoes"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1605090414/PF21_21.2/packshots_collection/S1519_4794_470_NY_rqs9ie.jpg",
+  "assetId": "S1556_Madder Brown 1",
+  "name": "S1556_470_Rubber Sandal",
+  "styleId": "S1556_470",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Shoes"
+}

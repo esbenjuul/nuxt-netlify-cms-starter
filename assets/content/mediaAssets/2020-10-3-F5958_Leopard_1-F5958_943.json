@@ -1,1 +1,12 @@
-{"assetId":"F5958_Leopard 1","styleId":"F5958_943","name":"F5958_943_Shorts","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-3","filters":"Shorts"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440386/PF21_21.2/packshots_collection/F5958_6240_943_yohohm.jpg",
+  "assetId": "F5958_Leopard 1",
+  "name": "F5958_943_Shorts",
+  "styleId": "F5958_943",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-3",
+  "filters": "Shorts"
+}

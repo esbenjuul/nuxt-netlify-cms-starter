@@ -1,1 +1,12 @@
-{"assetId":"K1529_Pale Banana 1","styleId":"K1529_321","name":"K1529_321_Short Sleeve Cardigan","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-3","filters":"Knitwear"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1605630779/PF21_21.2/packshots_collection/K1529_2517_321-x_zs2nfe.jpg",
+  "assetId": "K1529_Pale Banana 1",
+  "name": "K1529_321_Short Sleeve Cardigan",
+  "styleId": "K1529_321",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-3",
+  "filters": "Knitwear"
+}

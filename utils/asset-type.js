@@ -1,34 +1,33 @@
 import ContentTypes from '~/model/content-types'
 
 export default function(asset) {
-
 	switch (asset.type) {
 		case 'image':
 			switch (asset.aspect) {
 				case 'portrait':
-					return ContentTypes.imagePortrait;
-				break;
+					return ContentTypes.imagePortraitLarge
+					break
 				case 'landscape':
-					return ContentTypes.imageLandscape;
-				break;
+					return ContentTypes.imageLandscapeLarge
+					break
 				case 'square':
-					return ContentTypes.imageSquare;
-				break;				
+					return ContentTypes.imageSquare
+					break
 			}
-		break;
+			break
 		case 'video':
 			switch (asset.aspect) {
 				case 'portrait':
-					return ContentTypes.videoPortrait;
-				break;
+					return ContentTypes.videoPortrait
+					break
 				case 'landscape':
-					return ContentTypes.videoLandscape;
-				break;
+					return ContentTypes.videoLandscape
+					break
 			}
-		break;
+			break
 	}
 
 	//if all else fails
-	console.warn("NO ASSET TYPE FOUND", asset)
-	return ContentTypes.imagePortrait;
+	console.warn('NO ASSET TYPE FOUND', asset)
+	return ContentTypes.imagePortrait
 }

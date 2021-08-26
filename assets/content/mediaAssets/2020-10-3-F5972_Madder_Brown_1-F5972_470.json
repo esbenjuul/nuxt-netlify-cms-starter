@@ -1,1 +1,12 @@
-{"assetId":"F5972_Madder Brown 1","styleId":"F5972_470","name":"F5972_470_Wrap Dress","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-2","filters":"Dresses"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440389/PF21_21.2/packshots_collection/F5972_6253_470_ptqbk0.jpg",
+  "assetId": "F5972_Madder Brown 1",
+  "name": "F5972_470_Wrap Dress",
+  "styleId": "F5972_470",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-2",
+  "filters": "Dresses"
+}

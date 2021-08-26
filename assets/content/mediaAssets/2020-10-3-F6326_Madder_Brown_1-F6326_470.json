@@ -1,1 +1,12 @@
-{"assetId":"F6326_Madder Brown 1","styleId":"F6326_470","name":"F6326_470_Skirt","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-3","filters":"Skirts"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604943946/PF21_21.2/packshots_collection/F6325_6239_470_ui2bvy.jpg",
+  "assetId": "F6326_Madder Brown 1",
+  "name": "F6326_470_Skirt",
+  "styleId": "F6326_470",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-3",
+  "filters": "Skirts"
+}

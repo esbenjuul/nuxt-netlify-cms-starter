@@ -1,1 +1,12 @@
-{"assetId":"F6081_Pale Banana 1","styleId":"F6081_321","name":"F6081_321_Blazer","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-2","filters":"Coats / Jackets"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604943942/PF21_21.2/packshots_collection/F6081_6273_321_f2mi7k.jpg",
+  "assetId": "F6081_Pale Banana 1",
+  "name": "F6081_321_Blazer",
+  "styleId": "F6081_321",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-2",
+  "filters": "Coats / Jackets"
+}

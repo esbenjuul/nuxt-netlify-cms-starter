@@ -1,1 +1,12 @@
-{"assetId":"T2919_Anise Flower 1","styleId":"T2919_304","name":"T2919_304_Relaxed T-Shirt Dress","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"software","filters":"rtw1"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604850031/PF21_21.2/packshots_drawings/T2919_304_uo1dpo.png",
+  "assetId": "T2919_Anise Flower 1",
+  "name": "T2919_304_Relaxed T-Shirt Dress",
+  "styleId": "T2919_304",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "software",
+  "filters": "rtw1"
+}

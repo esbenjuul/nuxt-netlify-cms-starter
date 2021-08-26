@@ -26,30 +26,15 @@ export default {
 			group: null,
 			filter: null,
 			styles: null,
-			urlParams: []
+			urlParams: [],
+			filterGroup: [],
+			filterFilter: [],
+			filterStyles: []
 		}
 	},
 	computed: {
 		...mapState('assistant', ['pdfDownloadLink']),
 		...mapState('collection', ['allStyles']),
-		usableStyles() {
-			return this.allStyles.filter(s => !s.styleId.includes('TEST')) // [fix this] - weird check..?
-		},
-		filterGroup() {
-			return this.group
-				? this.usableStyles.filter(s => s.groupId === this.group)
-				: this.usableStyles
-		},
-		filterFilter() {
-			return this.filter
-				? this.filterGroup.filter(s => s.filters.includes(this.filter))
-				: this.filterGroup
-		},
-		filterStyles() {
-			return this.styles
-				? this.filterFilter.filter(s => this.styles.includes(s.styleId))
-				: this.filterFilter
-		},
 		receiptStyles() {
 			return this.filterStyles
 		}
@@ -61,6 +46,22 @@ export default {
 			this.filter = url.searchParams.get('filter')
 			this.group = url.searchParams.get('group')
 			this.styles = styles && styles.split(',')
+
+			this.usableStyles = this.allStyles.filter(
+				s => !s.styleId.includes('TEST')
+			) // [fix this] - weird check..?
+
+			this.filterGroup = this.group
+				? this.usableStyles.filter(s => s.groupId === this.group)
+				: this.usableStyles
+
+			this.filterFilter = this.filter
+				? this.filterGroup.filter(s => s.filters.includes(this.filter))
+				: this.filterGroup
+
+			this.filterStyles = this.styles
+				? this.filterFilter.filter(s => this.styles.includes(s.styleId))
+				: this.filterFilter
 
 			// example urls to show all styles with filter in a group:
 			// http://localhost:3000/export/?filter=rtw10&group=drop1-nov

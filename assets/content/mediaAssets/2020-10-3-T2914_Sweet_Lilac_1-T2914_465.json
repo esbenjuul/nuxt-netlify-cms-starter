@@ -1,1 +1,12 @@
-{"assetId":"T2914_Sweet Lilac 1","styleId":"T2914_465","name":"T2914_465_Elasticated Pants","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"software","filters":"rtw9"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604943928/PF21_21.2/packshots_software/T2772_3490_465_tzlmdq.jpg",
+  "assetId": "T2914_Sweet Lilac 1",
+  "name": "T2914_465_Elasticated Pants",
+  "styleId": "T2914_465",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "software",
+  "filters": "rtw9"
+}

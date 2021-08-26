@@ -1,1 +1,12 @@
-{"assetId":"T2911_Sky Captain 1","styleId":"T2911_683","name":"T2911_683_Oversized Hoodie","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"software","filters":"rtw8"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1598013727/SS21/Packshots/Software/T2773_3490_638_dshhzr.jpg",
+  "assetId": "T2911_Sky Captain 1",
+  "name": "T2911_683_Oversized Hoodie",
+  "styleId": "T2911_683",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "software",
+  "filters": "rtw8"
+}

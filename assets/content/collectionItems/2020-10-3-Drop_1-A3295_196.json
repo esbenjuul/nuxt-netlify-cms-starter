@@ -1,21 +1,23 @@
 {
-  "styleId": "A3295_196",
-  "name": "A3295_196_Drawstring Purse",
+  "retailPriceUSD": 155,
   "program": 5643,
-  "programName": "Fishnet",
-  "material": "52% Organic cotton, 48% polyester",
-  "groupId": "drop-1",
   "colorNames": "Brazilian sand",
-  "colorId": 196,
-  "filters": ["acc1"],
+  "material": "52% Organic cotton, 48% polyester",
+  "wholesalePriceGBP": 46,
+  "name": "A3295_196_Drawstring Purse",
+  "styleId": "A3295_196",
+  "retailPriceGBP": 115,
+  "programName": "Fishnet",
   "responsible": true,
+  "wholesalePriceEUR": 50,
   "weight": 4390,
   "wholesalePriceDKK": 360,
-  "wholesalePriceEUR": 50,
+  "groupId": "drop-1",
   "wholesalePriceUSD": 65,
-  "wholesalePriceGPB": 46,
-  "retailPriceDKK": 899,
+  "filters": [
+    "acc2"
+  ],
   "retailPriceEUR": 125,
-  "retailPriceUSD": 155,
-  "retailPriceGBP": 115
+  "retailPriceDKK": 899,
+  "colorId": 196
 }

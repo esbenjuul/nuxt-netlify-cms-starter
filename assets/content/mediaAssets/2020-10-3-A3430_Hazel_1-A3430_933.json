@@ -1,1 +1,12 @@
-{"assetId":"A3430_Hazel 1","styleId":"A3430_933","name":"A3430_933_Cap","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"software","filters":"acc5"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1606485330/PF21_21.2/packshots_collection/A3430_5682_933_rcjhqe.jpg",
+  "assetId": "A3430_Hazel 1",
+  "name": "A3430_933_Cap",
+  "styleId": "A3430_933",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "software",
+  "filters": "acc5"
+}

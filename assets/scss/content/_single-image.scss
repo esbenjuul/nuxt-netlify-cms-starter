@@ -4,13 +4,16 @@
 	display: flex !important;
 	justify-content: center;
 
-	background: url('/img/hourglass.gif') no-repeat center center;
-	background-size: 25%;
+	position: relative;
+
+	// background: url('/img/hourglass.gif') no-repeat center center;
+	// background-size: 25%;
 
 	img {
 		// object-fit: contain;
 		object-fit: cover;
 		height: 100%;
+		width: 100%;
 	}
 
 	&.is-interactive {

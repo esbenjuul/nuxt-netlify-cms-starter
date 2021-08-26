@@ -1,1 +1,12 @@
-{"assetId":"F6329_Phantom 1","styleId":"F6329_252","name":"F6329_252_Dress","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-3","filters":"Dresses"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440439/PF21_21.2/packshots_collection/F6329_6248_252_eopwet.jpg",
+  "assetId": "F6329_Phantom 1",
+  "name": "F6329_252_Dress",
+  "styleId": "F6329_252",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-3",
+  "filters": "Dresses"
+}

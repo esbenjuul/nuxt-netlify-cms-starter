@@ -1,1 +1,24 @@
-{"styleId":"F6108_321","name":"F6108_321_Skirt","program":6273,"programName":"Summer Suiting","material":"56% Recycled Polyester, 44% Viscose","groupId":"drop-2","colorNames":"Pale Banana","colorId":321,"filters":["rtw6"],"responsible":true,"weight":2750,"wholesalePriceDKK":760,"wholesalePriceEUR":95,"wholesalePriceUSD":136,"wholesalePriceGPB":88,"retailPriceDKK":1899,"retailPriceEUR":265,"retailPriceUSD":325,"retailPriceGBP":245}
+{
+  "retailPriceUSD": 325,
+  "program": 6273,
+  "colorNames": "Pale Banana",
+  "material": "56% Recycled Polyester, 44% Viscose",
+  "wholesalePriceGBP": 88,
+  "name": "F6108_321_Skirt",
+  "styleId": "F6108_321",
+  "retailPriceGBP": 245,
+  "programName": "Summer Suiting",
+  "responsible": true,
+  "wholesalePriceEUR": 95,
+  "weight": 2750,
+  "wholesalePriceDKK": 760,
+  "groupId": "drop-2",
+  "wholesalePriceUSD": 136,
+  "filters": [
+    "rtw6",
+    "misc2"
+  ],
+  "retailPriceEUR": 265,
+  "retailPriceDKK": 1899,
+  "colorId": 321
+}

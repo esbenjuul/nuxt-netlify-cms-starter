@@ -1,1 +1,12 @@
-{"assetId":"T2803_Bright White 1","styleId":"T2803_151","name":"T2803_151_T-shirt","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-2","filters":"T-Shirts"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440470/PF21_21.2/packshots_collection/T2803_3503_151_oc8zqj.jpg",
+  "assetId": "T2803_Bright White 1",
+  "name": "T2803_151_T-shirt",
+  "styleId": "T2803_151",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-2",
+  "filters": "T-Shirts"
+}

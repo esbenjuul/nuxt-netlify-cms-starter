@@ -6,7 +6,7 @@
 				:key="`wrap-overlap${j}`"
 				:style="{
 					animationPlayState: animate ? 'running' : 'paused',
-					animationDuration: `${columnContent(i).length * 15}s`
+					animationDuration: `${columnContent(i).length * 10}s`
 				}"
 			>
 				<div class="gap" />

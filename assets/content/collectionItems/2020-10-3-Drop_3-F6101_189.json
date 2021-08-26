@@ -1,1 +1,24 @@
-{"styleId":"F6101_189","name":"F6101_189_Shorts","program":6262,"programName":"Outerwear Nylon","material":"100% Recycled Nylon","groupId":"drop-3","colorNames":"Fossil","colorId":189,"filters":["rtw11"],"responsible":true,"weight":2120,"wholesalePriceDKK":357,"wholesalePriceEUR":52,"wholesalePriceUSD":69,"wholesalePriceGPB":45,"retailPriceDKK":999,"retailPriceEUR":145,"retailPriceUSD":165,"retailPriceGBP":125}
+{
+  "retailPriceUSD": 165,
+  "program": 6262,
+  "colorNames": "Fossil",
+  "material": "100% Recycled Nylon",
+  "wholesalePriceGBP": 45,
+  "name": "F6101_189_Shorts",
+  "styleId": "F6101_189",
+  "retailPriceGBP": 125,
+  "programName": "Outerwear Nylon",
+  "responsible": true,
+  "wholesalePriceEUR": 52,
+  "weight": 2120,
+  "wholesalePriceDKK": 357,
+  "groupId": "drop-3",
+  "wholesalePriceUSD": 69,
+  "filters": [
+    "rtw11",
+    "misc2"
+  ],
+  "retailPriceEUR": 145,
+  "retailPriceDKK": 999,
+  "colorId": 189
+}

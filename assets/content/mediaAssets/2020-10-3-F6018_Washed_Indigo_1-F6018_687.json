@@ -1,1 +1,12 @@
-{"assetId":"F6018_Washed Indigo 1","styleId":"F6018_687","name":"F6018_687_Shirt","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-2","filters":"Tops"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440400/PF21_21.2/packshots_collection/F6018_6277_687_ack8mu.jpg",
+  "assetId": "F6018_Washed Indigo 1",
+  "name": "F6018_687_Shirt",
+  "styleId": "F6018_687",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-2",
+  "filters": "Tops"
+}

@@ -1,1 +1,12 @@
-{"assetId":"F6070_Multicolour 1","styleId":"F6070_999","name":"F6070_999_Shorts","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Shorts"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440415/PF21_21.2/packshots_collection/F6070_6266_999_lay1xi.jpg",
+  "assetId": "F6070_Multicolour 1",
+  "name": "F6070_999_Shorts",
+  "styleId": "F6070_999",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Skirts"
+}

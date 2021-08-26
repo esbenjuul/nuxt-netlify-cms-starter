@@ -1,1 +1,12 @@
-{"assetId":"T2800_Phantom 1","styleId":"T2800_252","name":"T2800_252_T-shirt, Flowers Dark","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"T-Shirts"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440469/PF21_21.2/packshots_collection/T2800_3501_252_asbikk.jpg",
+  "assetId": "T2800_Phantom 1",
+  "name": "T2800_252_T-shirt, Flowers Dark",
+  "styleId": "T2800_252",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "T-Shirts"
+}

@@ -1,1 +1,12 @@
-{"assetId":"T2919_Sweet Lilac 1","styleId":"T2919_465","name":"T2919_465_Relaxed T-Shirt Dress","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"software","filters":"rtw1"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604850438/PF21_21.2/packshots_drawings/T2919_465_dg24vz.png",
+  "assetId": "T2919_Sweet Lilac 1",
+  "name": "T2919_465_Relaxed T-Shirt Dress",
+  "styleId": "T2919_465",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "software",
+  "filters": "rtw1"
+}

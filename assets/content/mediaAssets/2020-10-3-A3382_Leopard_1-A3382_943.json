@@ -1,1 +1,12 @@
-{"assetId":"A3382_Leopard 1","styleId":"A3382_943","name":"A3382_943_Duffle bag","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Bags"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440373/PF21_21.2/packshots_collection/A3503_5669_252_ou5iu3.jpg",
+  "assetId": "A3382_Phantom",
+  "name": "A3382_943_Duffle bag",
+  "styleId": "A3382_252",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Bags"
+}

@@ -1,1 +1,12 @@
-{"assetId":"F6066_Sky Captain 1","styleId":"F6066_683","name":"F6066_683_Pants","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-3","filters":"Trousers"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440415/PF21_21.2/packshots_collection/F6066_6272_683_uz1chf.jpg",
+  "assetId": "F6066_Sky Captain 1",
+  "name": "F6066_683_Pants",
+  "styleId": "F6066_683",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-3",
+  "filters": "Trousers"
+}

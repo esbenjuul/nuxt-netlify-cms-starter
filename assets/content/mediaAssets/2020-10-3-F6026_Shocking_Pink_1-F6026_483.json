@@ -1,1 +1,12 @@
-{"assetId":"F6026_Shocking Pink 1","styleId":"F6026_483","name":"F6026_483_Maxi Skirt","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Skirts"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440404/PF21_21.2/packshots_collection/F6026_6245_483_ia2n5v.jpg",
+  "assetId": "F6026_Shocking Pink 1",
+  "name": "F6026_483_Maxi Skirt",
+  "styleId": "F6026_483",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Skirts"
+}

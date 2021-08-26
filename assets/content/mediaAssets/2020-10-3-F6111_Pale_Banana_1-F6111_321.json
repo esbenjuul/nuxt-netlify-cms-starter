@@ -1,1 +1,12 @@
-{"assetId":"F6111_Pale Banana 1","styleId":"F6111_321","name":"F6111_321_Skirt","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Skirts"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440426/PF21_21.2/packshots_collection/F6111_6254_321_rigi7w.jpg",
+  "assetId": "F6111_Pale Banana 1",
+  "name": "F6111_321_Skirt",
+  "styleId": "F6111_321",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Skirts"
+}

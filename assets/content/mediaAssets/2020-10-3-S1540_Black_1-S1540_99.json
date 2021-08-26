@@ -1,1 +1,12 @@
-{"assetId":"S1540_Black 1","styleId":"S1540_99","name":"S1540_99_Sandal","type":"image","aspect":"portrait","onTop":true,"visible":true,"groupId":"drop-1","filters":"Shoes"}
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1604440467/PF21_21.2/packshots_collection/S1540_4810_99_d02pc6.jpg",
+  "assetId": "S1540_Black 1",
+  "name": "S1540_99_Sandal",
+  "styleId": "S1540_99",
+  "visible": true,
+  "onTop": true,
+  "aspect": "portrait",
+  "type": "image",
+  "groupId": "drop-1",
+  "filters": "Shoes"
+}

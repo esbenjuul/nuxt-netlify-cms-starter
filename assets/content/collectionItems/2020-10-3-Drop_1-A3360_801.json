@@ -1,1 +1,23 @@
-{"styleId":"A3360_801","name":"A3360_801_Tie-front Swimsuit","program":5659,"programName":"Recycled Printed","material":"78% Recycled Polyamide, 22% Elastane","groupId":"drop-1","colorNames":"Kelly Green","colorId":801,"filters":["acc4"],"responsible":true,"weight":4280,"wholesalePriceDKK":480,"wholesalePriceEUR":70,"wholesalePriceUSD":86,"wholesalePriceGPB":62,"retailPriceDKK":1199,"retailPriceEUR":175,"retailPriceUSD":195,"retailPriceGBP":155}
+{
+  "retailPriceUSD": 195,
+  "program": 5659,
+  "colorNames": "Kelly Green",
+  "material": "78% Recycled Polyamide, 22% Elastane",
+  "wholesalePriceGBP": 62,
+  "name": "A3360_801_Tie-front Swimsuit",
+  "styleId": "A3360_801",
+  "retailPriceGBP": 155,
+  "programName": "Recycled Printed",
+  "responsible": true,
+  "wholesalePriceEUR": 70,
+  "weight": 4280,
+  "wholesalePriceDKK": 480,
+  "groupId": "drop-1",
+  "wholesalePriceUSD": 86,
+  "filters": [
+    "acc4"
+  ],
+  "retailPriceEUR": 175,
+  "retailPriceDKK": 1199,
+  "colorId": 801
+}
