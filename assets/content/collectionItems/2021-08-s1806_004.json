@@ -1,1 +1,49 @@
-{"waist":0,"retailPriceUSD":475,"inseamLenght":0,"chest":0,"totalLenght":0,"assets":[["https://res.cloudinary.com/dd6fpxydm/image/upload/v1629312880/22.1/PACKSHOTS/S1762_4897_99.png"]],"retailRMB":3.595,"program":4897,"colorNames":"Black/Black","sleeveLenght":0,"width":0,"length":0,"height":0,"material":"100% Calf Leather","re-runner":true,"wholesalePriceGBP":130,"heelHeight":6.5,"name":"S1806_004_Sandals","styleId":"S1806_004","assets1":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/S1806_4897_018.png","assets2":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/S1806_18_1.png","PRODUCT_GROUP":"Sandals","retailPriceGBP":325,"programName":"Creepers","hip":0,"assets3":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/S1806_018_2.png","assets4":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_45_0029.jpg","assets5":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_45_0037.jpg","assets6":"https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_45_0003.jpg","responsible":false,"wholesalePriceEUR":138,"weight":45351,"wholesalePriceDKK":1000,"groupId":"drop-2","wholesalePriceUSD":198,"bottomWidth":0,"filters":["sho3"],"sizeRange":"35, 36, 37, 38, 39, 40, 41, 42","retailPriceEUR":345,"retailPriceDKK":2499,"colorId":4}
+{
+  "waist": 0,
+  "retailPriceUSD": 425,
+  "inseamLenght": 0,
+  "chest": 0,
+  "totalLenght": 0,
+  "assets": [
+    [
+      "https://res.cloudinary.com/dd6fpxydm/image/upload/v1629312880/22.1/PACKSHOTS/S1762_4897_99.png"
+    ]
+  ],
+  "retailRMB": 3195,
+  "program": 4897,
+  "colorNames": "Black/Black",
+  "sleeveLenght": 0,
+  "width": 0,
+  "length": 0,
+  "height": 0,
+  "material": "100% Calf Leather",
+  "re-runner": true,
+  "wholesalePriceGBP": 118,
+  "heelHeight": 6.5,
+  "name": "S1806_004_Sandals",
+  "styleId": "S1806_004",
+  "assets1": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/S1806_4897_018.png",
+  "assets2": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/S1806_18_1.png",
+  "PRODUCT_GROUP": "Sandals",
+  "retailPriceGBP": 295,
+  "programName": "Creepers",
+  "hip": 0,
+  "assets3": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628537809/22.1/PACKSHOTS/S1806_018_2.png",
+  "assets4": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_45_0029.jpg",
+  "assets5": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_45_0037.jpg",
+  "assets6": "https://res.cloudinary.com/dd6fpxydm/image/upload/v1628679459/22.1/ECOM/210728_GANNI_ECOM_45_0003.jpg",
+  "responsible": false,
+  "wholesalePriceEUR": 130,
+  "weight": 45351,
+  "wholesalePriceDKK": 920,
+  "groupId": "drop-2",
+  "wholesalePriceUSD": 177,
+  "bottomWidth": 0,
+  "filters": [
+    "sho3"
+  ],
+  "sizeRange": "35, 36, 37, 38, 39, 40, 41, 42",
+  "retailPriceEUR": 323,
+  "retailPriceDKK": 2299,
+  "colorId": 4
+}
